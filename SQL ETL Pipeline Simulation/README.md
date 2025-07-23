@@ -26,7 +26,7 @@ Imported online_courses.csv into staging_courses table using MySQL Import Wizard
 
 2. Transform
 Cleaned and parsed values:
-  - Extracted numeric values from Rating (e.g., "4.5 stars" → 4.5).
+  - Extracted numeric values from Rating (e.g., "4.5 stars" -> 4.5).
   - Removed currency symbols from PriceUSD.
   - Parsed Duration from strings like "12 hours" to integers.
   - Converted Certification to boolean.
