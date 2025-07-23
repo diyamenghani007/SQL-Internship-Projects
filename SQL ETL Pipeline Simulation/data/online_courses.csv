@@ -1,0 +1,1001 @@
+CourseID,Title,Category,Sub_Category,Language,Skills,Instructor,Rating,Enrollments,Duration,Platform,PriceUSD,Certification,Level,ReleaseYear
+1,Machine Learning by Stanford University,Data Science,Big Data,English,"R, Excel, Data Analysis, Deep Learning, Power BI",Matthew Davis MD,3.8 stars,26593,10 hours,FutureLearn,$0,No,Beginner,2019
+2,Tableau Data Visualization,Data Science,Statistics,English,"Python, Machine Learning, Power BI, Excel, R",Stephen Wood,4.7 stars,24279,10 hours,Coursera,$19,Yes,Beginner,2021
+3,Python for Everybody,Data Science,Statistics,English,"Deep Learning, Machine Learning, Excel, SQL, Power BI",Dennis Marshall,4.3 stars,66110,54 hours,Udemy,$99,Yes,Beginner,2023
+4,Python for Everybody,Data Science,Data Analysis,Spanish,"Python, R, Excel, SQL, Data Analysis",Derrick Brown,4.8 stars,45990,34 hours,Udemy,$299,Yes,Advanced,2018
+5,Natural Language Processing with Deep Learning,Arts,Creative Writing,Hindi,"Design, Communication, Creativity, Photography",Mary Miller,3.7 stars,94626,33 hours,Coursera,$19,Yes,Intermediate,2018
+6,SQL for Data Science,Data Science,Deep Learning,English,"R, Excel, SQL, Deep Learning, Data Analysis",Joshua Arellano,4.4 stars,53829,38 hours,Coursera,$0,Yes,Advanced,2023
+7,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,Hindi,"Deep Learning, Data Analysis, Python, SQL, Excel",Kristen Randall,3.0 stars,548,41 hours,Coursera,$199,Yes,Intermediate,2024
+8,Cybersecurity for Business,Business,Strategy,French,"Leadership, Excel, Communication, Power BI, Critical Thinking",Jennifer Nichols,4.9 stars,84613,29 hours,edX,$0,Yes,Advanced,2022
+9,Business Analytics with Excel,Business,Finance,French,"Critical Thinking, Excel, Communication, Power BI, Leadership",Karen Keith,4.0 stars,20172,34 hours,edX,$29,Yes,Beginner,2019
+10,AWS Cloud Practitioner Essentials,IT & Software,Networking,English,"Azure, DevOps, Critical Thinking, AWS, Networking",Blake Orr,3.9 stars,39402,14 hours,Coursera,$199,Yes,Intermediate,2021
+11,Natural Language Processing with Deep Learning,IT & Software,Cybersecurity,French,"DevOps, Azure, Networking, Critical Thinking, AWS",Kathryn Lester,4.8 stars,60469,51 hours,FutureLearn,$49,Yes,Intermediate,2021
+12,AWS Cloud Practitioner Essentials,IT & Software,DevOps,Hindi,"Networking, Critical Thinking, Azure, DevOps, AWS",Megan Oliver,3.5 stars,93500,17 hours,Udemy,$199,Yes,Advanced,2023
+13,AWS Cloud Practitioner Essentials,IT & Software,Networking,Hindi,"DevOps, Critical Thinking, Azure, Networking, AWS",Peter Thompson,3.9 stars,71249,46 hours,FutureLearn,$49,Yes,Intermediate,2024
+14,Cybersecurity for Business,Business,Strategy,Hindi,"Critical Thinking, Leadership, Power BI, Communication, Excel",Dr. Rhonda Martinez,4.3 stars,67929,32 hours,Udemy,$99,Yes,Intermediate,2018
+15,SQL for Data Science,Data Science,Deep Learning,Hindi,"Power BI, R, Deep Learning, SQL, Data Analysis",William Graham,4.3 stars,75475,55 hours,Udemy,$199,Yes,Beginner,2021
+16,Business Analytics with Excel,Business,Marketing,English,"Critical Thinking, Excel, Communication, Leadership, Power BI",Lori Flowers MD,4.4 stars,8666,10 hours,Coursera,$29,Yes,Beginner,2024
+17,Python for Everybody,Data Science,Machine Learning,Hindi,"Deep Learning, Power BI, Python, Data Analysis, R",Suzanne Jones,4.9 stars,40412,58 hours,Coursera,$19,Yes,Intermediate,2022
+18,Deep Learning Specialization,Computer Science,Cloud Computing,Hindi,"React, SQL, Python, Azure, AWS",James Nguyen,4.8 stars,20025,15 hours,FutureLearn,$0,No,Beginner,2022
+19,Machine Learning by Stanford University,Data Science,Statistics,Spanish,"Power BI, SQL, R, Deep Learning, Machine Learning",Jimmy Marks,4.4 stars,32788,12 hours,Udemy,$199,Yes,Intermediate,2018
+20,Business Analytics with Excel,Business,Leadership,English,"Excel, Critical Thinking, Power BI, Communication, Leadership",Lisa Mills,4.2 stars,47598,33 hours,Udemy,$19,Yes,Intermediate,2018
+21,Google Data Analytics Certificate,Data Science,Big Data,Hindi,"Deep Learning, Data Analysis, Python, Power BI, Excel",Jason Hernandez,4.2 stars,88884,30 hours,Udemy,$19,Yes,Beginner,2024
+22,Data Structures and Algorithms Specialization,Data Science,Deep Learning,French,"Deep Learning, Data Analysis, Excel, Python, Power BI",Olivia Ayers,3.0 stars,77474,31 hours,Udemy,$99,Yes,Intermediate,2024
+23,Natural Language Processing with Deep Learning,Computer Science,Web Development,English,"AWS, SQL, JavaScript, Python, Azure",Kristine Garcia,4.3 stars,91917,24 hours,edX,$19,Yes,Intermediate,2021
+24,The Science of Well-Being,Computer Science,Programming,English,"SQL, React, JavaScript, Python, AWS",Joseph Cooper,4.5 stars,2618,24 hours,FutureLearn,$19,Yes,Beginner,2021
+25,Full-Stack Web Development with React,Computer Science,Cloud Computing,Spanish,"React, JavaScript, SQL, Azure, Python",James Washington,4.6 stars,55741,31 hours,edX,$29,Yes,Beginner,2020
+26,Big Data Essentials,Data Science,Data Analysis,English,"Machine Learning, Excel, Data Analysis, Deep Learning, Python",Amanda Hill,4.6 stars,41861,60 hours,Coursera,$49,Yes,Beginner,2024
+27,Machine Learning by Stanford University,Data Science,Deep Learning,Hindi,"SQL, Excel, Python, Power BI, Data Analysis",Lee Steele,4.1 stars,31156,54 hours,Coursera,$0,No,Beginner,2018
+28,Excel to MySQL: Analytic Techniques,Data Science,Machine Learning,French,"Deep Learning, Power BI, R, Python, SQL",Steve Rivera,4.3 stars,43471,55 hours,Coursera,$99,Yes,Advanced,2018
+29,Introduction to Data Science in Python,Data Science,Machine Learning,English,"Data Analysis, SQL, Deep Learning, Python, Power BI",Patrick Mccall,3.0 stars,89963,19 hours,Udemy,$0,No,Beginner,2023
+30,The Science of Well-Being,Data Science,Big Data,Hindi,"Deep Learning, Excel, R, SQL, Machine Learning",Alicia Roth,4.4 stars,65020,43 hours,Udemy,$299,Yes,Intermediate,2020
+31,Excel to MySQL: Analytic Techniques,Data Science,Statistics,Hindi,"Python, Machine Learning, SQL, R, Excel",Douglas Vasquez,4.9 stars,34606,14 hours,Udemy,$0,Yes,Advanced,2018
+32,Business Analytics with Excel,Business,Leadership,Spanish,"Excel, Power BI, Critical Thinking, Leadership, Communication",Annette Melton,4.2 stars,66508,45 hours,edX,$49,Yes,Beginner,2021
+33,Machine Learning by Stanford University,Data Science,Data Analysis,Spanish,"Deep Learning, Excel, SQL, R, Python",William Ramos,3.6 stars,21237,9 hours,Coursera,$199,Yes,Beginner,2021
+34,Business Analytics with Excel,Business,Marketing,English,"Leadership, Critical Thinking, Power BI, Excel, Communication",Debra Butler,3.6 stars,47479,49 hours,Coursera,$199,Yes,Advanced,2020
+35,Full-Stack Web Development with React,Computer Science,Cybersecurity,French,"React, SQL, Azure, Python, AWS",Chelsea Lewis,3.6 stars,97744,17 hours,Udemy,$29,Yes,Advanced,2019
+36,SQL for Data Science,Data Science,Machine Learning,French,"Deep Learning, Machine Learning, Power BI, Excel, Data Analysis",Natalie Malone,3.9 stars,60968,33 hours,Udemy,$299,Yes,Beginner,2023
+37,The Science of Well-Being,Arts,Creative Writing,Hindi,"Creativity, Communication, Design, Photography",Samantha Robertson,3.8 stars,1928,32 hours,Udemy,$299,Yes,Beginner,2022
+38,Applied Data Science with Python,Data Science,Deep Learning,Spanish,"Machine Learning, Python, Power BI, Excel, R",Eric Hunter,3.7 stars,2941,36 hours,FutureLearn,$19,Yes,Beginner,2020
+39,Machine Learning by Stanford University,Data Science,Statistics,French,"R, SQL, Power BI, Machine Learning, Excel",Samuel Suarez,4.9 stars,21048,36 hours,Coursera,$49,Yes,Intermediate,2018
+40,Business Analytics with Excel,Business,Leadership,French,"Communication, Critical Thinking, Power BI, Excel, Leadership",Corey Whitaker,4.6 stars,54671,36 hours,Coursera,$19,Yes,Intermediate,2023
+41,Java Programming and Software Engineering,Computer Science,Web Development,Hindi,"SQL, Azure, React, AWS, JavaScript",Danielle Bryant,4.1 stars,44808,51 hours,edX,$99,Yes,Advanced,2024
+42,AWS Cloud Practitioner Essentials,IT & Software,Cybersecurity,French,"Networking, DevOps, AWS, Critical Thinking, Azure",Michele Hill,3.5 stars,42855,49 hours,Udemy,$29,Yes,Intermediate,2023
+43,Statistics with Python,Data Science,Big Data,Hindi,"R, Excel, Data Analysis, Power BI, Deep Learning",Kathy Reid,4.8 stars,42283,55 hours,Udemy,$199,Yes,Advanced,2022
+44,Data Structures and Algorithms Specialization,Data Science,Statistics,Spanish,"Machine Learning, Power BI, SQL, Excel, R",Andre Watson,4.0 stars,12628,29 hours,Udemy,$0,Yes,Advanced,2020
+45,Business Analytics with Excel,Business,Leadership,French,"Power BI, Critical Thinking, Excel, Communication, Leadership",Cassandra Harrell,4.6 stars,36303,50 hours,Udemy,$49,Yes,Intermediate,2024
+46,Tableau Data Visualization,Data Science,Machine Learning,French,"Excel, SQL, Power BI, Python, Data Analysis",Hannah Martin,4.1 stars,35850,25 hours,FutureLearn,$29,Yes,Intermediate,2022
+47,Applied Data Science with Python,Data Science,Statistics,English,"Machine Learning, Power BI, Deep Learning, SQL, Python",Nicole Barker,4.5 stars,25651,38 hours,edX,$29,Yes,Beginner,2024
+48,Machine Learning by Stanford University,Data Science,Big Data,Hindi,"Power BI, Deep Learning, Python, Data Analysis, R",James Martin,3.6 stars,3877,46 hours,FutureLearn,$19,Yes,Beginner,2020
+49,Business Analytics with Excel,Business,Finance,French,"Excel, Critical Thinking, Communication, Power BI, Leadership",Traci Vincent,4.5 stars,14222,22 hours,FutureLearn,$99,Yes,Intermediate,2019
+50,Tableau Data Visualization,Data Science,Statistics,English,"Excel, Data Analysis, SQL, R, Deep Learning",Megan Adams,3.2 stars,42899,40 hours,FutureLearn,$29,Yes,Intermediate,2019
+51,Full-Stack Web Development with React,Computer Science,Cybersecurity,Spanish,"Azure, React, JavaScript, SQL, Python",Alejandro Deleon,3.8 stars,42909,44 hours,Coursera,$199,Yes,Advanced,2020
+52,Business Analytics with Excel,Business,Marketing,English,"Power BI, Leadership, Communication, Critical Thinking, Excel",Alexa Buck,4.9 stars,18438,14 hours,Coursera,$49,Yes,Advanced,2019
+53,Machine Learning by Stanford University,Data Science,Deep Learning,French,"SQL, Power BI, Data Analysis, Deep Learning, R",Lindsay Smith,3.7 stars,9219,36 hours,FutureLearn,$0,Yes,Advanced,2018
+54,SQL for Data Science,Data Science,Statistics,Hindi,"Power BI, Deep Learning, Machine Learning, SQL, Python",Robert Torres,3.9 stars,15205,53 hours,edX,$299,Yes,Beginner,2019
+55,Deep Learning Specialization,Data Science,Statistics,English,"Python, Excel, Deep Learning, SQL, Machine Learning",Maria Coleman,3.4 stars,30595,14 hours,Udemy,$0,Yes,Advanced,2020
+56,Full-Stack Web Development with React,Computer Science,Cybersecurity,English,"React, Azure, JavaScript, SQL, Python",Gregory King,4.3 stars,91473,31 hours,Coursera,$49,Yes,Beginner,2019
+57,Tableau Data Visualization,Data Science,Statistics,Spanish,"Python, SQL, Power BI, R, Machine Learning",Michael Holloway,4.4 stars,76329,28 hours,Udemy,$0,No,Intermediate,2019
+58,Full-Stack Web Development with React,Computer Science,Web Development,French,"AWS, JavaScript, SQL, Python, React",Brian Hunt,3.3 stars,26522,53 hours,edX,$99,Yes,Intermediate,2019
+59,Machine Learning by Stanford University,Data Science,Data Analysis,French,"R, Machine Learning, Python, Data Analysis, Power BI",Sarah Brooks,4.2 stars,85481,47 hours,FutureLearn,$0,No,Beginner,2019
+60,Python for Everybody,Data Science,Machine Learning,Spanish,"Python, Machine Learning, Excel, SQL, R",Lisa Evans,4.7 stars,88469,18 hours,edX,$299,Yes,Intermediate,2021
+61,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,Hindi,"Azure, Networking, AWS, DevOps, Critical Thinking",Arthur Mcneil,4.7 stars,43869,18 hours,FutureLearn,$0,Yes,Advanced,2021
+62,Data Structures and Algorithms Specialization,Data Science,Data Analysis,Spanish,"Excel, Machine Learning, R, SQL, Power BI",Shannon Green,4.6 stars,87528,59 hours,Udemy,$49,Yes,Beginner,2022
+63,Introduction to Data Science in Python,Data Science,Machine Learning,English,"Python, Power BI, Excel, R, Deep Learning",Stephanie Evans,4.9 stars,101,24 hours,FutureLearn,$299,Yes,Intermediate,2023
+64,Google Data Analytics Certificate,Data Science,Statistics,Hindi,"Data Analysis, Python, Power BI, Excel, SQL",Ralph Yoder,4.9 stars,97335,28 hours,Coursera,$199,Yes,Intermediate,2021
+65,Applied Data Science with Python,Data Science,Machine Learning,Spanish,"R, Power BI, Python, Deep Learning, Data Analysis",Rebekah Greene,3.9 stars,26925,12 hours,Coursera,$19,Yes,Intermediate,2019
+66,Statistics with Python,Data Science,Machine Learning,Spanish,"SQL, Python, Deep Learning, Excel, Machine Learning",Melanie Griffith,3.5 stars,92227,41 hours,FutureLearn,$299,Yes,Beginner,2023
+67,Introduction to Data Science in Python,Data Science,Deep Learning,French,"Machine Learning, Python, Excel, Deep Learning, Power BI",Yolanda Green,3.9 stars,61140,31 hours,Udemy,$0,No,Beginner,2022
+68,Excel to MySQL: Analytic Techniques,Data Science,Machine Learning,Spanish,"SQL, Power BI, Data Analysis, Deep Learning, Machine Learning",James Johnson,3.0 stars,35746,60 hours,Udemy,$19,Yes,Beginner,2023
+69,Full-Stack Web Development with React,Computer Science,Cloud Computing,Hindi,"JavaScript, Azure, React, SQL, Python",Laura Lee,4.4 stars,97424,8 hours,edX,$299,Yes,Intermediate,2018
+70,Deep Learning Specialization,IT & Software,Networking,Spanish,"DevOps, Critical Thinking, Networking, AWS, Azure",Courtney Nichols,4.5 stars,70979,14 hours,edX,$199,Yes,Advanced,2023
+71,The Science of Well-Being,Computer Science,Cloud Computing,Spanish,"Python, AWS, React, Azure, SQL",Susan Powers,3.3 stars,88266,53 hours,FutureLearn,$29,Yes,Advanced,2022
+72,Cybersecurity for Business,Business,Finance,Spanish,"Communication, Critical Thinking, Leadership, Excel, Power BI",Sarah Pittman,4.3 stars,59183,53 hours,Udemy,$29,Yes,Beginner,2020
+73,Full-Stack Web Development with React,Computer Science,Web Development,Hindi,"AWS, SQL, Python, Azure, JavaScript",Catherine Davis,4.6 stars,52050,10 hours,FutureLearn,$299,Yes,Beginner,2022
+74,Machine Learning by Stanford University,Data Science,Statistics,Hindi,"Python, R, Excel, Power BI, Deep Learning",David Stokes,4.5 stars,89754,50 hours,edX,$29,Yes,Intermediate,2018
+75,Statistics with Python,Data Science,Data Analysis,Spanish,"Deep Learning, R, Machine Learning, Power BI, Excel",Catherine Frazier,4.5 stars,90251,53 hours,Coursera,$19,Yes,Beginner,2023
+76,Google Data Analytics Certificate,Data Science,Big Data,English,"Data Analysis, Power BI, Deep Learning, SQL, Python",Brandon Kelly,4.0 stars,9564,49 hours,edX,$299,Yes,Beginner,2024
+77,Statistics with Python,Data Science,Big Data,Hindi,"R, Power BI, SQL, Excel, Python",Elizabeth French,3.0 stars,4176,23 hours,Coursera,$299,Yes,Beginner,2019
+78,Business Analytics with Excel,Business,Leadership,French,"Leadership, Communication, Excel, Power BI, Critical Thinking",David Carter,3.0 stars,78423,24 hours,edX,$29,Yes,Intermediate,2020
+79,Google Data Analytics Certificate,Data Science,Deep Learning,English,"R, Machine Learning, Excel, Deep Learning, Power BI",Julie Delacruz,4.4 stars,4231,36 hours,edX,$199,Yes,Intermediate,2018
+80,The Science of Well-Being,Computer Science,Cloud Computing,French,"React, AWS, JavaScript, Python, SQL",Terry Jones,5.0 stars,49903,7 hours,FutureLearn,$199,Yes,Beginner,2021
+81,Business Analytics with Excel,Business,Marketing,French,"Power BI, Leadership, Critical Thinking, Communication, Excel",Kathryn Dillon,4.5 stars,31737,43 hours,FutureLearn,$49,Yes,Beginner,2020
+82,Excel to MySQL: Analytic Techniques,Data Science,Data Analysis,Hindi,"Excel, SQL, R, Machine Learning, Python",Edwin Brown,4.2 stars,88605,54 hours,Coursera,$0,Yes,Advanced,2021
+83,Big Data Essentials,Data Science,Machine Learning,English,"Data Analysis, Machine Learning, Excel, R, Power BI",Brenda Gonzalez,3.5 stars,15523,49 hours,FutureLearn,$299,Yes,Beginner,2021
+84,The Science of Well-Being,Computer Science,Web Development,Hindi,"JavaScript, SQL, AWS, Python, Azure",Keith Knox,4.9 stars,10169,17 hours,FutureLearn,$199,Yes,Intermediate,2019
+85,SQL for Data Science,Data Science,Machine Learning,Spanish,"Power BI, Excel, Deep Learning, SQL, Machine Learning",Eugene Baldwin,3.4 stars,44673,60 hours,FutureLearn,$0,No,Beginner,2023
+86,Java Programming and Software Engineering,Computer Science,Cloud Computing,English,"Azure, JavaScript, AWS, React, SQL",Katherine Welch,3.9 stars,48160,55 hours,FutureLearn,$19,Yes,Beginner,2023
+87,SQL for Data Science,Data Science,Statistics,English,"Deep Learning, Excel, R, Python, Machine Learning",Mark Smith,3.6 stars,73144,49 hours,FutureLearn,$49,Yes,Beginner,2018
+88,Data Structures and Algorithms Specialization,Data Science,Machine Learning,Hindi,"R, Deep Learning, Data Analysis, Machine Learning, Excel",Philip Jackson,4.8 stars,18125,12 hours,Coursera,$99,Yes,Beginner,2018
+89,Cybersecurity for Business,Business,Strategy,English,"Excel, Power BI, Critical Thinking, Communication, Leadership",Katherine Gallagher,4.9 stars,86117,16 hours,FutureLearn,$49,Yes,Beginner,2022
+90,The Science of Well-Being,Data Science,Deep Learning,Spanish,"Machine Learning, SQL, Data Analysis, Power BI, Excel",Lucas Schultz,3.1 stars,1694,12 hours,edX,$0,Yes,Advanced,2022
+91,Introduction to Data Science in Python,Data Science,Machine Learning,French,"R, Power BI, SQL, Data Analysis, Deep Learning",Vincent Reyes,4.6 stars,24828,47 hours,FutureLearn,$299,Yes,Intermediate,2021
+92,Natural Language Processing with Deep Learning,Business,Leadership,Hindi,"Excel, Critical Thinking, Communication, Leadership, Power BI",Curtis Watson,4.7 stars,19158,60 hours,Coursera,$199,Yes,Intermediate,2022
+93,Introduction to Data Science in Python,Data Science,Machine Learning,Spanish,"Data Analysis, SQL, Deep Learning, Machine Learning, Excel",Frank Whitaker,3.8 stars,98714,32 hours,Coursera,$19,Yes,Intermediate,2024
+94,SQL for Data Science,Data Science,Big Data,Hindi,"Python, SQL, Deep Learning, Data Analysis, Machine Learning",Michael Sims,4.5 stars,16788,35 hours,FutureLearn,$49,Yes,Advanced,2024
+95,The Science of Well-Being,Business,Business Analytics,English,"Power BI, Communication, Excel, Leadership, Critical Thinking",Michael Cooper,3.8 stars,73721,10 hours,Udemy,$99,Yes,Advanced,2018
+96,AWS Cloud Practitioner Essentials,IT & Software,Networking,Spanish,"Networking, DevOps, Azure, Critical Thinking, AWS",James Chapman,4.8 stars,61692,37 hours,FutureLearn,$29,Yes,Intermediate,2024
+97,Applied Data Science with Python,Data Science,Statistics,English,"Data Analysis, Machine Learning, Excel, Python, Power BI",Rodney Evans,3.5 stars,35255,22 hours,edX,$29,Yes,Advanced,2022
+98,Java Programming and Software Engineering,Computer Science,Web Development,Spanish,"SQL, Azure, Python, AWS, JavaScript",Nicholas Carlson,3.4 stars,44008,38 hours,FutureLearn,$29,Yes,Intermediate,2020
+99,Deep Learning Specialization,IT & Software,DevOps,Spanish,"Azure, Critical Thinking, Networking, DevOps, AWS",Stephen Cowan,4.4 stars,72570,25 hours,Udemy,$199,Yes,Intermediate,2022
+100,Excel to MySQL: Analytic Techniques,Data Science,Statistics,Spanish,"Data Analysis, Python, Deep Learning, Excel, SQL",Steven Howard,3.4 stars,84966,56 hours,FutureLearn,$19,Yes,Intermediate,2019
+101,AWS Cloud Practitioner Essentials,IT & Software,DevOps,Spanish,"DevOps, Networking, Critical Thinking, Azure, AWS",Travis Hull,4.2 stars,33200,12 hours,FutureLearn,$19,Yes,Advanced,2021
+102,Natural Language Processing with Deep Learning,Data Science,Machine Learning,Spanish,"Machine Learning, Power BI, Data Analysis, Excel, R",Darryl Acosta,4.0 stars,55214,17 hours,edX,$99,Yes,Beginner,2021
+103,AWS Cloud Practitioner Essentials,IT & Software,DevOps,English,"Critical Thinking, AWS, Azure, Networking, DevOps",Nicholas Lawrence,3.3 stars,16210,28 hours,Coursera,$29,Yes,Beginner,2024
+104,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,English,"Networking, AWS, Critical Thinking, Azure, DevOps",Jacob Santos,4.9 stars,90110,32 hours,Udemy,$299,Yes,Beginner,2023
+105,Big Data Essentials,Data Science,Statistics,French,"Python, Excel, Power BI, Data Analysis, R",Shawn Scott,3.5 stars,28993,44 hours,edX,$29,Yes,Advanced,2020
+106,Applied Data Science with Python,Data Science,Deep Learning,Hindi,"Data Analysis, Python, R, Deep Learning, Excel",Amber Vang,3.3 stars,50336,18 hours,Coursera,$299,Yes,Beginner,2018
+107,Data Structures and Algorithms Specialization,Data Science,Statistics,French,"R, Power BI, Machine Learning, Python, Excel",Martha Smith,3.4 stars,60328,44 hours,Udemy,$19,Yes,Beginner,2019
+108,Business Analytics with Excel,Business,Marketing,French,"Leadership, Power BI, Critical Thinking, Excel, Communication",Jennifer James,3.9 stars,30532,11 hours,Coursera,$99,Yes,Intermediate,2023
+109,Java Programming and Software Engineering,Computer Science,Cloud Computing,Spanish,"React, Python, Azure, SQL, AWS",Kara Hernandez,3.4 stars,88352,36 hours,FutureLearn,$0,Yes,Advanced,2020
+110,Tableau Data Visualization,Data Science,Data Analysis,French,"Python, Machine Learning, R, Deep Learning, Power BI",Lorraine Turner,4.2 stars,48984,14 hours,Coursera,$299,Yes,Advanced,2024
+111,Java Programming and Software Engineering,Computer Science,Cloud Computing,French,"Python, React, Azure, JavaScript, AWS",Mary Nelson,3.5 stars,93807,23 hours,Udemy,$29,Yes,Intermediate,2022
+112,Deep Learning Specialization,Arts,Design,English,"Design, Photography, Creativity, Communication",Breanna Rivas,3.8 stars,45343,28 hours,FutureLearn,$199,Yes,Beginner,2021
+113,AI For Everyone,Data Science,Big Data,Hindi,"Excel, Machine Learning, Python, Power BI, Data Analysis",Nathan Wilson,3.5 stars,34160,35 hours,Udemy,$29,Yes,Beginner,2019
+114,AWS Cloud Practitioner Essentials,IT & Software,Cybersecurity,Hindi,"AWS, DevOps, Azure, Critical Thinking, Networking",Brian Gonzalez,3.2 stars,91236,40 hours,Coursera,$0,No,Intermediate,2018
+115,Excel to MySQL: Analytic Techniques,Data Science,Statistics,French,"R, Machine Learning, SQL, Data Analysis, Deep Learning",Dennis Mills,3.6 stars,24482,19 hours,FutureLearn,$299,Yes,Intermediate,2019
+116,Statistics with Python,Data Science,Statistics,Hindi,"SQL, Excel, Python, R, Deep Learning",Michael Phillips,3.6 stars,61736,32 hours,Udemy,$99,Yes,Beginner,2018
+117,Applied Data Science with Python,Data Science,Deep Learning,English,"SQL, Python, Power BI, Data Analysis, Excel",Jon Clark,4.6 stars,72640,53 hours,edX,$99,Yes,Advanced,2019
+118,SQL for Data Science,Data Science,Deep Learning,Spanish,"Data Analysis, SQL, Python, Excel, Power BI",Erin Smith,4.0 stars,2815,37 hours,Coursera,$299,Yes,Intermediate,2019
+119,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Spanish,"Python, Machine Learning, SQL, Deep Learning, R",Susan Conley,4.1 stars,36705,34 hours,Udemy,$299,Yes,Intermediate,2019
+120,Data Structures and Algorithms Specialization,Data Science,Machine Learning,French,"Machine Learning, SQL, Deep Learning, R, Python",Brittany Davis,3.3 stars,37744,34 hours,FutureLearn,$0,Yes,Advanced,2024
+121,Statistics with Python,Data Science,Big Data,French,"Power BI, R, Machine Learning, Excel, Data Analysis",Misty Garcia,4.5 stars,68712,31 hours,Udemy,$299,Yes,Advanced,2024
+122,AI For Everyone,Data Science,Big Data,Spanish,"Data Analysis, Power BI, Python, SQL, Deep Learning",David Hinton,4.7 stars,15243,43 hours,FutureLearn,$99,Yes,Intermediate,2021
+123,Cybersecurity for Business,Business,Marketing,English,"Communication, Leadership, Excel, Power BI, Critical Thinking",John Garcia,3.4 stars,83783,53 hours,Udemy,$299,Yes,Intermediate,2024
+124,Python for Everybody,Data Science,Statistics,English,"Data Analysis, Deep Learning, Excel, Machine Learning, SQL",Andrew Roberts,4.8 stars,57644,21 hours,FutureLearn,$19,Yes,Intermediate,2021
+125,Tableau Data Visualization,Data Science,Big Data,Hindi,"Deep Learning, SQL, Machine Learning, Power BI, Excel",Emily Rodgers,4.9 stars,83989,11 hours,edX,$0,No,Intermediate,2018
+126,Business Analytics with Excel,Business,Marketing,Spanish,"Critical Thinking, Power BI, Communication, Excel, Leadership",Peter Williams,3.7 stars,67282,40 hours,FutureLearn,$99,Yes,Beginner,2024
+127,Deep Learning Specialization,Arts,Design,Hindi,"Photography, Design, Creativity, Communication",Mary Jackson,3.0 stars,13377,14 hours,edX,$99,Yes,Beginner,2018
+128,AI For Everyone,Data Science,Statistics,French,"Machine Learning, Deep Learning, R, Data Analysis, Python",Jeffrey Howell,3.7 stars,80437,34 hours,edX,$49,Yes,Advanced,2020
+129,The Science of Well-Being,Computer Science,Cybersecurity,English,"JavaScript, AWS, Azure, Python, SQL",Anna Briggs,4.3 stars,71926,51 hours,Coursera,$49,Yes,Beginner,2024
+130,Python for Everybody,Data Science,Big Data,Hindi,"Deep Learning, Excel, Power BI, Machine Learning, Data Analysis",James Rivers,4.5 stars,25833,10 hours,FutureLearn,$19,Yes,Intermediate,2021
+131,Business Analytics with Excel,Business,Business Analytics,French,"Leadership, Power BI, Excel, Critical Thinking, Communication",James Jefferson,4.1 stars,54834,56 hours,Udemy,$19,Yes,Intermediate,2022
+132,Google Data Analytics Certificate,Data Science,Statistics,English,"R, SQL, Python, Deep Learning, Power BI",Mariah Robles,3.5 stars,63363,55 hours,Coursera,$299,Yes,Beginner,2021
+133,AI For Everyone,Data Science,Deep Learning,Spanish,"Excel, Python, Power BI, Machine Learning, Data Analysis",Michael Brown,4.7 stars,33927,41 hours,edX,$99,Yes,Advanced,2023
+134,Big Data Essentials,Data Science,Data Analysis,Hindi,"Data Analysis, Deep Learning, Power BI, R, Excel",Caitlin Perry,3.5 stars,3013,32 hours,FutureLearn,$299,Yes,Intermediate,2020
+135,Google Data Analytics Certificate,Data Science,Statistics,Spanish,"R, Machine Learning, Deep Learning, Power BI, Python",Rebekah Gregory,4.6 stars,33869,11 hours,Udemy,$99,Yes,Advanced,2019
+136,Big Data Essentials,Data Science,Deep Learning,French,"Machine Learning, Excel, SQL, Python, Data Analysis",James Howard,3.8 stars,43512,24 hours,Coursera,$49,Yes,Beginner,2019
+137,Python for Everybody,Data Science,Statistics,French,"Excel, Deep Learning, Python, Data Analysis, Power BI",Michael Roberson,4.6 stars,20291,31 hours,FutureLearn,$49,Yes,Beginner,2020
+138,Big Data Essentials,Data Science,Data Analysis,Hindi,"SQL, Data Analysis, Excel, Machine Learning, R",Bianca Knapp,3.8 stars,30916,23 hours,Udemy,$49,Yes,Advanced,2024
+139,AI For Everyone,Data Science,Deep Learning,English,"Deep Learning, SQL, R, Data Analysis, Machine Learning",Jason Williams,3.2 stars,10888,55 hours,Coursera,$299,Yes,Beginner,2022
+140,Statistics with Python,Data Science,Big Data,French,"Excel, Python, Deep Learning, SQL, Power BI",Ernest Bush,3.4 stars,17595,23 hours,edX,$0,Yes,Advanced,2023
+141,Applied Data Science with Python,Data Science,Data Analysis,English,"SQL, Python, Excel, Data Analysis, R",Patricia Ray,5.0 stars,10893,7 hours,Coursera,$0,No,Beginner,2024
+142,The Science of Well-Being,Business,Finance,Spanish,"Critical Thinking, Leadership, Excel, Communication, Power BI",Vanessa Santiago,3.3 stars,60699,43 hours,edX,$299,Yes,Beginner,2023
+143,Machine Learning by Stanford University,Data Science,Statistics,French,"SQL, Machine Learning, R, Excel, Data Analysis",Joseph Haynes,4.7 stars,87264,15 hours,FutureLearn,$0,No,Intermediate,2020
+144,Machine Learning by Stanford University,Data Science,Statistics,Hindi,"R, Data Analysis, Deep Learning, Machine Learning, Excel",Matthew Wright,4.6 stars,40643,47 hours,edX,$299,Yes,Beginner,2019
+145,Cybersecurity for Business,Business,Finance,English,"Excel, Power BI, Leadership, Communication, Critical Thinking",Michael Cruz,3.3 stars,58940,13 hours,Udemy,$99,Yes,Advanced,2018
+146,Data Structures and Algorithms Specialization,Data Science,Data Analysis,French,"Deep Learning, Excel, Data Analysis, R, SQL",Kristin Huerta,3.9 stars,16171,46 hours,edX,$199,Yes,Advanced,2019
+147,Full-Stack Web Development with React,Computer Science,Cloud Computing,Spanish,"Azure, JavaScript, SQL, AWS, Python",Mason Moore,3.1 stars,4212,58 hours,edX,$19,Yes,Intermediate,2019
+148,Applied Data Science with Python,Data Science,Big Data,Spanish,"Excel, Deep Learning, Machine Learning, Data Analysis, Power BI",Sarah Booth,4.5 stars,92818,32 hours,edX,$19,Yes,Advanced,2024
+149,Introduction to Data Science in Python,Data Science,Deep Learning,French,"Python, Power BI, SQL, Data Analysis, Machine Learning",John Allen,4.8 stars,43950,14 hours,Coursera,$0,No,Beginner,2019
+150,Machine Learning by Stanford University,Data Science,Statistics,English,"Excel, Data Analysis, SQL, Deep Learning, Machine Learning",Amber Walker,4.3 stars,93340,26 hours,edX,$0,No,Intermediate,2018
+151,Deep Learning Specialization,Data Science,Big Data,French,"Machine Learning, SQL, Power BI, Data Analysis, R",Jennifer Young,4.8 stars,77496,44 hours,Udemy,$99,Yes,Intermediate,2024
+152,SQL for Data Science,Data Science,Machine Learning,French,"Excel, Deep Learning, R, Power BI, Data Analysis",Robert West,3.1 stars,43695,6 hours,FutureLearn,$99,Yes,Advanced,2023
+153,Tableau Data Visualization,Data Science,Machine Learning,Hindi,"Excel, Power BI, Machine Learning, Deep Learning, SQL",Jillian Wilson,3.9 stars,39458,46 hours,Coursera,$29,Yes,Beginner,2023
+154,Google Data Analytics Certificate,Data Science,Statistics,Hindi,"R, Machine Learning, Data Analysis, Python, SQL",Matthew Garcia MD,4.9 stars,58984,20 hours,FutureLearn,$0,No,Beginner,2021
+155,Machine Learning by Stanford University,Data Science,Machine Learning,Spanish,"SQL, Power BI, Data Analysis, R, Machine Learning",April Davis,4.5 stars,87041,8 hours,FutureLearn,$0,Yes,Advanced,2019
+156,Introduction to Data Science in Python,Data Science,Statistics,Spanish,"R, Power BI, Python, SQL, Machine Learning",Lisa Torres,3.4 stars,86096,17 hours,Coursera,$99,Yes,Advanced,2021
+157,Google Data Analytics Certificate,Data Science,Machine Learning,Hindi,"Deep Learning, Excel, SQL, Machine Learning, Python",Christine Powers,4.9 stars,95915,21 hours,Udemy,$0,Yes,Advanced,2020
+158,Tableau Data Visualization,Data Science,Data Analysis,English,"Power BI, SQL, Machine Learning, Excel, R",Heidi Brown,4.5 stars,37950,24 hours,Coursera,$29,Yes,Beginner,2019
+159,Python for Everybody,Data Science,Machine Learning,French,"Python, SQL, Excel, Data Analysis, Power BI",Jesse Castro,3.7 stars,65696,54 hours,FutureLearn,$0,Yes,Advanced,2018
+160,Applied Data Science with Python,Data Science,Big Data,Hindi,"R, Power BI, Python, Data Analysis, Deep Learning",Kara Sandoval,3.8 stars,24911,39 hours,edX,$29,Yes,Advanced,2018
+161,Big Data Essentials,Data Science,Statistics,Hindi,"SQL, Python, Excel, Deep Learning, Data Analysis",Ashley Malone,4.0 stars,99362,45 hours,edX,$19,Yes,Beginner,2020
+162,The Science of Well-Being,Arts,Creative Writing,Hindi,"Creativity, Photography, Design, Communication",Glenn Gallegos,4.2 stars,63463,54 hours,Coursera,$19,Yes,Advanced,2019
+163,Google Data Analytics Certificate,Data Science,Big Data,English,"Excel, Machine Learning, Data Analysis, Deep Learning, SQL",Dorothy Boyd,3.9 stars,587,41 hours,edX,$0,No,Beginner,2023
+164,Full-Stack Web Development with React,Computer Science,Cybersecurity,French,"Azure, SQL, React, AWS, JavaScript",Amber Martin,3.2 stars,12679,43 hours,Coursera,$29,Yes,Advanced,2019
+165,AI For Everyone,Data Science,Big Data,English,"Excel, R, Power BI, Data Analysis, Python",Mitchell Griffith,4.6 stars,83734,25 hours,Udemy,$99,Yes,Intermediate,2022
+166,Java Programming and Software Engineering,Computer Science,Cloud Computing,Hindi,"SQL, JavaScript, AWS, React, Python",Levi Lopez,4.4 stars,49852,14 hours,edX,$199,Yes,Intermediate,2024
+167,SQL for Data Science,Data Science,Big Data,Spanish,"SQL, R, Data Analysis, Python, Machine Learning",Jenna Bryant,3.8 stars,3527,23 hours,edX,$29,Yes,Beginner,2023
+168,Google Data Analytics Certificate,Data Science,Machine Learning,English,"Data Analysis, R, Power BI, Deep Learning, Python",Michelle Rodriguez,3.2 stars,34729,54 hours,edX,$29,Yes,Intermediate,2018
+169,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Spanish,"Machine Learning, R, Python, SQL, Deep Learning",Timothy Monroe,4.7 stars,72216,53 hours,Coursera,$29,Yes,Advanced,2022
+170,Full-Stack Web Development with React,Computer Science,Cybersecurity,French,"AWS, SQL, JavaScript, Python, React",Patricia Hayes,3.2 stars,43781,22 hours,Coursera,$29,Yes,Beginner,2018
+171,Machine Learning by Stanford University,Data Science,Machine Learning,Spanish,"Python, Excel, Machine Learning, Power BI, Deep Learning",Tina Taylor,3.8 stars,14110,21 hours,Udemy,$299,Yes,Advanced,2022
+172,Business Analytics with Excel,Business,Business Analytics,English,"Leadership, Communication, Power BI, Critical Thinking, Excel",Mr. Anthony Mcconnell PhD,3.9 stars,95618,50 hours,Udemy,$199,Yes,Beginner,2023
+173,Full-Stack Web Development with React,Computer Science,Web Development,Hindi,"React, JavaScript, SQL, Azure, AWS",Mr. Thomas Thompson,3.1 stars,27757,44 hours,FutureLearn,$49,Yes,Beginner,2024
+174,Google Data Analytics Certificate,Data Science,Statistics,Spanish,"R, Data Analysis, SQL, Machine Learning, Excel",Monica Anderson,3.5 stars,80890,59 hours,Coursera,$99,Yes,Advanced,2021
+175,Excel to MySQL: Analytic Techniques,Data Science,Data Analysis,Spanish,"Excel, Python, Power BI, Machine Learning, SQL",Kyle Andrade,4.4 stars,75678,16 hours,Coursera,$199,Yes,Advanced,2019
+176,Deep Learning Specialization,Business,Leadership,French,"Excel, Power BI, Communication, Leadership, Critical Thinking",Janice Petty,3.3 stars,28691,22 hours,Coursera,$199,Yes,Advanced,2018
+177,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Spanish,"SQL, Power BI, Deep Learning, Python, Machine Learning",Pamela Hill,3.4 stars,19024,14 hours,Coursera,$0,No,Intermediate,2020
+178,Business Analytics with Excel,Business,Finance,French,"Critical Thinking, Communication, Excel, Leadership, Power BI",Tracy Chavez,3.7 stars,87375,59 hours,Udemy,$19,Yes,Intermediate,2021
+179,Introduction to Data Science in Python,Data Science,Data Analysis,Hindi,"Power BI, Python, Data Analysis, Excel, Machine Learning",Jason Graves,3.1 stars,7910,52 hours,FutureLearn,$49,Yes,Advanced,2020
+180,Tableau Data Visualization,Data Science,Deep Learning,Hindi,"Power BI, Python, Data Analysis, SQL, Deep Learning",Elizabeth Miles,3.9 stars,1904,35 hours,Coursera,$29,Yes,Advanced,2021
+181,Data Structures and Algorithms Specialization,Data Science,Data Analysis,Spanish,"R, Deep Learning, SQL, Machine Learning, Power BI",Michelle Walls,4.7 stars,51296,22 hours,Udemy,$199,Yes,Intermediate,2019
+182,Full-Stack Web Development with React,Computer Science,Cloud Computing,Hindi,"Python, JavaScript, Azure, SQL, React",Christina Weber,5.0 stars,72418,37 hours,Udemy,$49,Yes,Beginner,2020
+183,Tableau Data Visualization,Data Science,Data Analysis,French,"R, Deep Learning, Python, Data Analysis, Excel",Gregory Chambers,3.0 stars,74438,11 hours,Udemy,$199,Yes,Intermediate,2020
+184,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,English,"Data Analysis, Deep Learning, Machine Learning, R, Python",Miss Tina Gordon,3.7 stars,90492,54 hours,FutureLearn,$19,Yes,Advanced,2020
+185,AI For Everyone,Data Science,Machine Learning,French,"Excel, SQL, Power BI, Python, Data Analysis",Erica Wilson,3.5 stars,35743,42 hours,Udemy,$199,Yes,Advanced,2021
+186,Tableau Data Visualization,Data Science,Statistics,Spanish,"Deep Learning, Python, Machine Learning, Excel, SQL",John Duncan,3.1 stars,44159,27 hours,FutureLearn,$19,Yes,Beginner,2022
+187,Big Data Essentials,Data Science,Data Analysis,English,"Excel, SQL, Machine Learning, R, Python",Jennifer Adkins,3.2 stars,18056,19 hours,FutureLearn,$199,Yes,Beginner,2019
+188,AI For Everyone,Data Science,Big Data,French,"Power BI, R, Deep Learning, Python, Excel",Donna Boone,4.4 stars,29031,52 hours,Udemy,$199,Yes,Beginner,2020
+189,Introduction to Data Science in Python,Data Science,Machine Learning,Spanish,"Python, Data Analysis, Excel, R, Machine Learning",Kelly Johnson,4.3 stars,59061,18 hours,Coursera,$0,No,Intermediate,2019
+190,Google Data Analytics Certificate,Data Science,Statistics,French,"SQL, Python, Data Analysis, R, Excel",Michael Gonzalez,4.4 stars,71019,15 hours,Coursera,$0,No,Intermediate,2024
+191,Java Programming and Software Engineering,Computer Science,Web Development,Spanish,"React, SQL, JavaScript, Azure, AWS",Candace Mitchell,3.0 stars,91375,27 hours,edX,$99,Yes,Intermediate,2022
+192,Google Data Analytics Certificate,Data Science,Deep Learning,Spanish,"Python, Deep Learning, Excel, R, Power BI",Ryan Vaughn,3.4 stars,20672,19 hours,Coursera,$199,Yes,Advanced,2019
+193,AWS Cloud Practitioner Essentials,IT & Software,Cybersecurity,French,"Azure, Critical Thinking, AWS, DevOps, Networking",Paul Johnson,3.5 stars,17731,7 hours,Coursera,$0,Yes,Advanced,2023
+194,Business Analytics with Excel,Business,Business Analytics,English,"Communication, Power BI, Critical Thinking, Excel, Leadership",Ashley Parrish,4.7 stars,20949,35 hours,FutureLearn,$199,Yes,Beginner,2019
+195,Cybersecurity for Business,Business,Marketing,Hindi,"Leadership, Excel, Communication, Critical Thinking, Power BI",Sharon Newton,3.4 stars,20250,31 hours,Coursera,$0,No,Intermediate,2019
+196,Java Programming and Software Engineering,Computer Science,Web Development,Hindi,"SQL, AWS, Azure, Python, JavaScript",Cynthia Mueller,4.9 stars,55790,16 hours,FutureLearn,$299,Yes,Intermediate,2020
+197,Statistics with Python,Data Science,Data Analysis,French,"Machine Learning, Deep Learning, Python, SQL, Excel",Donna Beck,4.5 stars,61031,10 hours,Coursera,$29,Yes,Advanced,2019
+198,Java Programming and Software Engineering,Computer Science,Programming,Hindi,"Python, AWS, JavaScript, SQL, Azure",Jasmine Frye,3.1 stars,23665,39 hours,Udemy,$49,Yes,Beginner,2019
+199,Cybersecurity for Business,Business,Leadership,English,"Power BI, Leadership, Critical Thinking, Communication, Excel",Emily Arnold,3.5 stars,43625,40 hours,Udemy,$99,Yes,Beginner,2018
+200,SQL for Data Science,Data Science,Big Data,English,"Excel, Power BI, SQL, Deep Learning, R",David Oliver,4.0 stars,81999,33 hours,Coursera,$199,Yes,Intermediate,2023
+201,Google Data Analytics Certificate,Data Science,Statistics,Spanish,"SQL, Deep Learning, Data Analysis, Machine Learning, Excel",Sheila Greer,5.0 stars,44360,6 hours,Coursera,$199,Yes,Beginner,2024
+202,Big Data Essentials,Data Science,Machine Learning,Hindi,"Python, Power BI, Deep Learning, Excel, R",Michele Holland,4.5 stars,83598,42 hours,Coursera,$29,Yes,Beginner,2023
+203,Big Data Essentials,Data Science,Deep Learning,English,"Excel, Power BI, Python, Machine Learning, Data Analysis",Kimberly Morrison,4.4 stars,46412,25 hours,FutureLearn,$0,Yes,Advanced,2018
+204,Tableau Data Visualization,Data Science,Statistics,Hindi,"R, Power BI, Data Analysis, Deep Learning, SQL",Tracey Phillips,4.2 stars,75647,39 hours,FutureLearn,$0,No,Intermediate,2021
+205,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,French,"Azure, Critical Thinking, DevOps, AWS, Networking",Michael Lopez,3.1 stars,57075,34 hours,Coursera,$49,Yes,Beginner,2022
+206,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,Spanish,"AWS, Networking, Critical Thinking, Azure, DevOps",Jose Bennett,3.2 stars,94982,38 hours,edX,$199,Yes,Advanced,2019
+207,AI For Everyone,Data Science,Big Data,Spanish,"Power BI, R, Python, SQL, Machine Learning",Justin Anderson,4.0 stars,42258,28 hours,Coursera,$19,Yes,Intermediate,2020
+208,SQL for Data Science,Data Science,Deep Learning,French,"Power BI, Deep Learning, Python, R, Excel",Dawn Rivera,3.1 stars,27352,20 hours,FutureLearn,$199,Yes,Advanced,2024
+209,Big Data Essentials,Data Science,Statistics,English,"Excel, R, Data Analysis, Python, SQL",Brittney Hernandez,3.1 stars,6258,12 hours,FutureLearn,$19,Yes,Intermediate,2024
+210,Applied Data Science with Python,Data Science,Statistics,Spanish,"SQL, R, Power BI, Python, Data Analysis",Anthony Randolph,4.9 stars,84481,16 hours,FutureLearn,$199,Yes,Intermediate,2019
+211,AI For Everyone,Data Science,Statistics,Spanish,"Machine Learning, Excel, Deep Learning, SQL, Python",Mary Henry,3.5 stars,88311,9 hours,Udemy,$49,Yes,Advanced,2021
+212,Machine Learning by Stanford University,Data Science,Statistics,Spanish,"R, Deep Learning, SQL, Excel, Data Analysis",Heather Bowers,3.3 stars,31913,31 hours,Udemy,$49,Yes,Intermediate,2023
+213,AI For Everyone,Data Science,Statistics,French,"Power BI, SQL, Python, Data Analysis, R",Daniel White,4.7 stars,51242,23 hours,FutureLearn,$0,No,Beginner,2020
+214,The Science of Well-Being,Computer Science,Cybersecurity,Hindi,"JavaScript, Python, React, Azure, AWS",Jonathan Perry,3.6 stars,95683,6 hours,Coursera,$29,Yes,Intermediate,2021
+215,Big Data Essentials,Data Science,Data Analysis,Hindi,"Power BI, Excel, Data Analysis, Deep Learning, Python",Anna Walker,4.5 stars,48383,20 hours,Udemy,$299,Yes,Intermediate,2020
+216,Natural Language Processing with Deep Learning,Business,Finance,English,"Power BI, Leadership, Communication, Excel, Critical Thinking",Gary Ward,5.0 stars,38291,20 hours,Udemy,$29,Yes,Beginner,2019
+217,Applied Data Science with Python,Data Science,Data Analysis,English,"Machine Learning, Power BI, R, Data Analysis, Deep Learning",Paul Moreno,3.8 stars,29182,56 hours,Udemy,$199,Yes,Beginner,2018
+218,Google Data Analytics Certificate,Data Science,Machine Learning,Hindi,"Excel, R, Machine Learning, Python, Power BI",Samantha Zavala MD,3.5 stars,12082,45 hours,Udemy,$99,Yes,Intermediate,2019
+219,The Science of Well-Being,Business,Finance,English,"Communication, Excel, Leadership, Critical Thinking, Power BI",Jill Conway,4.9 stars,98409,44 hours,FutureLearn,$199,Yes,Intermediate,2021
+220,Java Programming and Software Engineering,Computer Science,Programming,Hindi,"React, AWS, Azure, SQL, JavaScript",Lisa Haley,3.4 stars,3582,56 hours,Coursera,$0,Yes,Advanced,2018
+221,AI For Everyone,Data Science,Data Analysis,French,"Power BI, Python, R, SQL, Excel",Erica Moon,3.7 stars,83571,49 hours,FutureLearn,$19,Yes,Intermediate,2023
+222,Data Structures and Algorithms Specialization,Data Science,Data Analysis,Spanish,"SQL, Deep Learning, Machine Learning, Python, Excel",Janice Fernandez,4.2 stars,45423,13 hours,Coursera,$49,Yes,Beginner,2020
+223,Big Data Essentials,Data Science,Statistics,Spanish,"SQL, Power BI, Python, R, Data Analysis",Thomas Short,3.5 stars,52135,38 hours,FutureLearn,$0,No,Intermediate,2024
+224,Google Data Analytics Certificate,Data Science,Machine Learning,Hindi,"Data Analysis, Power BI, Machine Learning, SQL, R",Robert Griffin,4.9 stars,79604,43 hours,Udemy,$299,Yes,Beginner,2019
+225,AWS Cloud Practitioner Essentials,IT & Software,DevOps,Spanish,"Networking, Critical Thinking, Azure, DevOps, AWS",Steven Lee,4.9 stars,91249,52 hours,edX,$0,No,Beginner,2022
+226,Introduction to Data Science in Python,Data Science,Statistics,Spanish,"Power BI, Deep Learning, Python, Data Analysis, Excel",Tiffany Jackson,3.5 stars,51938,32 hours,FutureLearn,$299,Yes,Advanced,2018
+227,Applied Data Science with Python,Data Science,Statistics,English,"SQL, Python, Deep Learning, Excel, Machine Learning",Kimberly Smith,4.9 stars,25388,60 hours,Coursera,$299,Yes,Advanced,2019
+228,Full-Stack Web Development with React,Computer Science,Cybersecurity,French,"React, Azure, JavaScript, AWS, Python",Michael Ayala,3.1 stars,97769,18 hours,Coursera,$19,Yes,Beginner,2024
+229,Applied Data Science with Python,Data Science,Deep Learning,Hindi,"R, Data Analysis, Power BI, Python, Machine Learning",Jessica Garcia,3.9 stars,14357,36 hours,FutureLearn,$99,Yes,Intermediate,2024
+230,AWS Cloud Practitioner Essentials,IT & Software,Cybersecurity,English,"Critical Thinking, Azure, Networking, DevOps, AWS",Michele Cherry,3.2 stars,39946,40 hours,Coursera,$199,Yes,Advanced,2021
+231,Applied Data Science with Python,Data Science,Deep Learning,English,"Deep Learning, Data Analysis, SQL, Machine Learning, Excel",Maria Case,3.4 stars,84659,28 hours,Coursera,$49,Yes,Beginner,2018
+232,Data Structures and Algorithms Specialization,Data Science,Data Analysis,Spanish,"Excel, Deep Learning, Power BI, Python, R",Brittany Stevens,5.0 stars,76232,50 hours,Coursera,$99,Yes,Intermediate,2020
+233,Machine Learning by Stanford University,Data Science,Statistics,Hindi,"Data Analysis, Python, Deep Learning, Machine Learning, Excel",Brandon Brown,3.8 stars,78461,50 hours,FutureLearn,$99,Yes,Advanced,2022
+234,Big Data Essentials,Data Science,Big Data,Spanish,"R, Power BI, Excel, Deep Learning, Machine Learning",Kristin Andrews,3.3 stars,48096,42 hours,FutureLearn,$0,Yes,Advanced,2022
+235,Cybersecurity for Business,Business,Business Analytics,Spanish,"Excel, Communication, Critical Thinking, Leadership, Power BI",David Hughes,4.1 stars,25587,16 hours,Udemy,$0,No,Beginner,2019
+236,Natural Language Processing with Deep Learning,Business,Marketing,English,"Excel, Critical Thinking, Power BI, Leadership, Communication",Jessica Smith,5.0 stars,62094,14 hours,FutureLearn,$99,Yes,Advanced,2018
+237,Natural Language Processing with Deep Learning,Arts,Creative Writing,Hindi,"Creativity, Photography, Design, Communication",Kimberly May,3.6 stars,95048,19 hours,Udemy,$199,Yes,Intermediate,2023
+238,Deep Learning Specialization,IT & Software,Networking,English,"Azure, Critical Thinking, Networking, AWS, DevOps",Nicole Richards,4.8 stars,53508,47 hours,Coursera,$299,Yes,Beginner,2023
+239,Statistics with Python,Data Science,Statistics,Spanish,"Power BI, Data Analysis, Python, R, SQL",Angel Reilly,4.1 stars,19316,32 hours,edX,$49,Yes,Beginner,2024
+240,Cybersecurity for Business,Business,Strategy,Hindi,"Critical Thinking, Power BI, Excel, Communication, Leadership",Richard Turner,3.0 stars,63267,56 hours,FutureLearn,$299,Yes,Beginner,2023
+241,Deep Learning Specialization,Business,Business Analytics,Hindi,"Power BI, Communication, Critical Thinking, Excel, Leadership",Preston Kim,4.6 stars,52354,39 hours,Udemy,$29,Yes,Beginner,2022
+242,Applied Data Science with Python,Data Science,Data Analysis,Hindi,"R, Deep Learning, Python, Power BI, SQL",Matthew Wells,3.0 stars,87618,59 hours,FutureLearn,$49,Yes,Advanced,2021
+243,Data Structures and Algorithms Specialization,Data Science,Big Data,English,"SQL, Python, Power BI, Machine Learning, Excel",Brandy Myers,4.3 stars,80301,26 hours,Coursera,$0,No,Beginner,2018
+244,Business Analytics with Excel,Business,Finance,English,"Power BI, Leadership, Communication, Excel, Critical Thinking",Kimberly Choi,4.7 stars,42225,8 hours,FutureLearn,$29,Yes,Intermediate,2024
+245,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,Hindi,"Machine Learning, Power BI, R, Excel, Deep Learning",Michael Sloan,3.1 stars,48381,19 hours,edX,$199,Yes,Intermediate,2018
+246,Google Data Analytics Certificate,Data Science,Big Data,English,"Excel, Machine Learning, R, Data Analysis, Power BI",Monica Brooks,4.4 stars,58954,13 hours,FutureLearn,$19,Yes,Intermediate,2023
+247,Full-Stack Web Development with React,Computer Science,Web Development,French,"AWS, Python, SQL, JavaScript, React",Kristen Peters,4.4 stars,62246,29 hours,Coursera,$199,Yes,Beginner,2022
+248,Tableau Data Visualization,Data Science,Statistics,Spanish,"SQL, Power BI, Data Analysis, Python, Machine Learning",Aaron Carlson,3.1 stars,25694,17 hours,Udemy,$99,Yes,Intermediate,2019
+249,Applied Data Science with Python,Data Science,Machine Learning,French,"Data Analysis, Excel, Power BI, SQL, R",Theresa Torres,3.2 stars,71493,10 hours,FutureLearn,$29,Yes,Beginner,2019
+250,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,English,"SQL, Python, R, Excel, Power BI",Stephanie Cooper,3.4 stars,55399,20 hours,edX,$49,Yes,Beginner,2021
+251,Introduction to Data Science in Python,Data Science,Big Data,English,"Deep Learning, Machine Learning, Python, SQL, R",Matthew Hunt,4.8 stars,71558,23 hours,edX,$49,Yes,Intermediate,2022
+252,Natural Language Processing with Deep Learning,Data Science,Deep Learning,English,"Deep Learning, Python, SQL, Machine Learning, Data Analysis",Daniel Davenport,4.9 stars,12488,32 hours,edX,$99,Yes,Intermediate,2018
+253,Google Data Analytics Certificate,Data Science,Deep Learning,French,"Excel, SQL, Deep Learning, Data Analysis, Python",Christopher Marsh,4.1 stars,18682,34 hours,FutureLearn,$49,Yes,Advanced,2022
+254,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Hindi,"Data Analysis, Python, Power BI, SQL, Deep Learning",Sarah Randolph,3.2 stars,25447,21 hours,FutureLearn,$49,Yes,Beginner,2022
+255,SQL for Data Science,Data Science,Statistics,French,"Deep Learning, Excel, Machine Learning, R, Power BI",Julia Dunn MD,4.7 stars,30460,60 hours,Udemy,$19,Yes,Beginner,2024
+256,Deep Learning Specialization,IT & Software,Cybersecurity,French,"Critical Thinking, Networking, Azure, AWS, DevOps",Brett Swanson,4.9 stars,3103,36 hours,FutureLearn,$19,Yes,Intermediate,2023
+257,Business Analytics with Excel,Business,Leadership,French,"Critical Thinking, Power BI, Communication, Leadership, Excel",Mr. Carl Rios,3.5 stars,53195,38 hours,Udemy,$299,Yes,Beginner,2020
+258,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,Spanish,"DevOps, Azure, AWS, Networking, Critical Thinking",Manuel Mccullough,3.7 stars,20968,10 hours,FutureLearn,$19,Yes,Advanced,2024
+259,Introduction to Data Science in Python,Data Science,Data Analysis,Spanish,"Python, Power BI, Data Analysis, R, Machine Learning",Jerry Jensen,3.8 stars,19805,51 hours,Coursera,$0,Yes,Advanced,2023
+260,AI For Everyone,Data Science,Deep Learning,English,"SQL, R, Excel, Data Analysis, Machine Learning",Kevin Cunningham,4.1 stars,70126,54 hours,edX,$49,Yes,Beginner,2021
+261,Natural Language Processing with Deep Learning,IT & Software,Networking,Spanish,"Critical Thinking, AWS, DevOps, Networking, Azure",Eugene Patterson,4.6 stars,79420,49 hours,Udemy,$299,Yes,Advanced,2024
+262,AI For Everyone,Data Science,Statistics,Hindi,"Power BI, Deep Learning, R, Data Analysis, Excel",David Walker,3.6 stars,79476,26 hours,Coursera,$199,Yes,Advanced,2018
+263,Tableau Data Visualization,Data Science,Data Analysis,English,"Deep Learning, Machine Learning, Excel, R, Power BI",Jessica Larsen,4.4 stars,57955,10 hours,edX,$299,Yes,Beginner,2019
+264,Excel to MySQL: Analytic Techniques,Data Science,Statistics,Hindi,"Power BI, Machine Learning, Excel, Deep Learning, SQL",Nicholas Humphrey,3.1 stars,80785,33 hours,edX,$99,Yes,Intermediate,2024
+265,Tableau Data Visualization,Data Science,Machine Learning,French,"SQL, Deep Learning, Power BI, Machine Learning, R",Ian Torres,3.8 stars,19749,59 hours,FutureLearn,$99,Yes,Advanced,2021
+266,Java Programming and Software Engineering,Computer Science,Web Development,Spanish,"Python, SQL, Azure, React, JavaScript",Casey Obrien,4.4 stars,185,30 hours,Udemy,$299,Yes,Advanced,2023
+267,SQL for Data Science,Data Science,Deep Learning,Spanish,"Deep Learning, Python, Excel, Data Analysis, Power BI",Shannon Taylor,4.5 stars,51238,29 hours,edX,$199,Yes,Advanced,2021
+268,Python for Everybody,Data Science,Statistics,Hindi,"Python, Excel, Deep Learning, Power BI, SQL",Deborah Mercado,4.6 stars,45009,59 hours,edX,$29,Yes,Intermediate,2020
+269,Natural Language Processing with Deep Learning,Business,Strategy,Spanish,"Critical Thinking, Power BI, Communication, Excel, Leadership",Bernard Smith,4.7 stars,80235,23 hours,Udemy,$19,Yes,Advanced,2019
+270,Machine Learning by Stanford University,Data Science,Deep Learning,English,"R, Power BI, Machine Learning, SQL, Excel",Amanda Perkins,3.7 stars,21651,21 hours,Coursera,$99,Yes,Advanced,2023
+271,Full-Stack Web Development with React,Computer Science,Cybersecurity,Spanish,"Python, AWS, SQL, React, Azure",Kevin Escobar,3.8 stars,75524,15 hours,FutureLearn,$19,Yes,Advanced,2019
+272,SQL for Data Science,Data Science,Deep Learning,English,"Deep Learning, R, Power BI, Data Analysis, Python",Kimberly Lutz,4.1 stars,51377,28 hours,edX,$19,Yes,Beginner,2023
+273,Python for Everybody,Data Science,Big Data,Spanish,"R, Machine Learning, Excel, Data Analysis, Python",Reginald Diaz,4.5 stars,89242,23 hours,edX,$99,Yes,Beginner,2018
+274,Full-Stack Web Development with React,Computer Science,Web Development,English,"SQL, AWS, JavaScript, Azure, React",Raymond Quinn,4.8 stars,78612,35 hours,Udemy,$299,Yes,Beginner,2019
+275,Deep Learning Specialization,IT & Software,Networking,Spanish,"Critical Thinking, Azure, DevOps, AWS, Networking",John Dixon,3.4 stars,40415,10 hours,edX,$299,Yes,Intermediate,2021
+276,Google Data Analytics Certificate,Data Science,Machine Learning,Hindi,"Deep Learning, Power BI, Data Analysis, SQL, Python",Jonathan Bates,3.7 stars,28210,57 hours,FutureLearn,$19,Yes,Intermediate,2023
+277,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,Spanish,"Azure, DevOps, Critical Thinking, Networking, AWS",Renee Mendez,4.9 stars,19719,49 hours,Coursera,$0,No,Intermediate,2024
+278,Deep Learning Specialization,Data Science,Machine Learning,French,"Deep Learning, SQL, Machine Learning, Excel, Python",Jose Griffin,4.1 stars,79407,51 hours,Udemy,$199,Yes,Intermediate,2018
+279,Machine Learning by Stanford University,Data Science,Data Analysis,Hindi,"Deep Learning, SQL, Power BI, R, Data Analysis",Travis Hopkins,4.8 stars,43470,40 hours,FutureLearn,$49,Yes,Intermediate,2018
+280,Deep Learning Specialization,Computer Science,Cloud Computing,Hindi,"React, AWS, Azure, Python, SQL",Nancy Webb,3.3 stars,92650,26 hours,edX,$299,Yes,Advanced,2023
+281,The Science of Well-Being,Computer Science,Cybersecurity,Spanish,"Azure, AWS, React, Python, SQL",Daniel Freeman,3.4 stars,16994,24 hours,Coursera,$299,Yes,Beginner,2024
+282,Tableau Data Visualization,Data Science,Big Data,Hindi,"Deep Learning, Python, SQL, Power BI, R",Jacob Williams,4.6 stars,48924,45 hours,Udemy,$0,Yes,Advanced,2023
+283,Business Analytics with Excel,Business,Business Analytics,Spanish,"Leadership, Excel, Power BI, Communication, Critical Thinking",Terry Ward,3.1 stars,830,25 hours,edX,$299,Yes,Intermediate,2018
+284,Full-Stack Web Development with React,Computer Science,Web Development,Spanish,"Azure, React, Python, SQL, JavaScript",Jesse Williams,3.6 stars,68232,38 hours,FutureLearn,$29,Yes,Intermediate,2022
+285,Natural Language Processing with Deep Learning,IT & Software,DevOps,French,"Azure, DevOps, Networking, AWS, Critical Thinking",Mrs. Michele Boyd,4.4 stars,38460,46 hours,FutureLearn,$49,Yes,Beginner,2023
+286,Tableau Data Visualization,Data Science,Machine Learning,Hindi,"Data Analysis, Excel, R, SQL, Power BI",Sandy Baker,4.9 stars,9221,38 hours,Udemy,$29,Yes,Beginner,2023
+287,Business Analytics with Excel,Business,Strategy,Hindi,"Leadership, Excel, Power BI, Communication, Critical Thinking",Carrie Valdez,4.8 stars,84660,5 hours,edX,$19,Yes,Advanced,2018
+288,Google Data Analytics Certificate,Data Science,Machine Learning,Spanish,"Power BI, Deep Learning, Python, Excel, SQL",Matthew Houston,4.0 stars,26833,50 hours,FutureLearn,$49,Yes,Intermediate,2018
+289,The Science of Well-Being,IT & Software,Cybersecurity,Hindi,"DevOps, Critical Thinking, Networking, AWS, Azure",Jamie Solomon,4.8 stars,63024,34 hours,edX,$19,Yes,Intermediate,2023
+290,Full-Stack Web Development with React,Computer Science,Cybersecurity,English,"AWS, SQL, React, JavaScript, Python",Heather Parrish,3.7 stars,81182,10 hours,FutureLearn,$19,Yes,Intermediate,2023
+291,Excel to MySQL: Analytic Techniques,Data Science,Statistics,Hindi,"Machine Learning, Deep Learning, Python, Excel, Power BI",Mr. Larry Shaw,4.4 stars,15950,46 hours,FutureLearn,$99,Yes,Beginner,2018
+292,AWS Cloud Practitioner Essentials,IT & Software,DevOps,English,"Azure, Critical Thinking, DevOps, AWS, Networking",Christopher Jones,3.7 stars,22715,14 hours,Udemy,$299,Yes,Advanced,2021
+293,Machine Learning by Stanford University,Data Science,Deep Learning,Spanish,"SQL, Deep Learning, Machine Learning, Data Analysis, Python",Christine Lopez,3.5 stars,72275,14 hours,Udemy,$199,Yes,Beginner,2020
+294,Applied Data Science with Python,Data Science,Data Analysis,Spanish,"Machine Learning, Power BI, R, Deep Learning, SQL",Mitchell Wilson,3.5 stars,16111,36 hours,FutureLearn,$29,Yes,Advanced,2023
+295,Introduction to Data Science in Python,Data Science,Big Data,Spanish,"Machine Learning, SQL, Excel, Data Analysis, Power BI",Robert Cortez,3.5 stars,33378,41 hours,FutureLearn,$0,Yes,Advanced,2023
+296,Java Programming and Software Engineering,Computer Science,Programming,Hindi,"Python, React, AWS, JavaScript, SQL",Mr. Daniel Martin,3.9 stars,21345,8 hours,edX,$99,Yes,Beginner,2023
+297,Big Data Essentials,Data Science,Statistics,French,"Excel, Power BI, R, Machine Learning, Python",Alison Williams,4.4 stars,42944,13 hours,Udemy,$19,Yes,Beginner,2019
+298,Java Programming and Software Engineering,Computer Science,Programming,English,"Azure, JavaScript, Python, React, SQL",Candace Soto,4.1 stars,22810,7 hours,Coursera,$199,Yes,Intermediate,2024
+299,The Science of Well-Being,IT & Software,DevOps,Hindi,"Critical Thinking, DevOps, Networking, Azure, AWS",Kenneth Brown,4.4 stars,94739,50 hours,edX,$199,Yes,Advanced,2022
+300,Big Data Essentials,Data Science,Data Analysis,English,"Data Analysis, SQL, Deep Learning, R, Machine Learning",Christopher Mullen,3.4 stars,36555,24 hours,Udemy,$0,No,Intermediate,2023
+301,Machine Learning by Stanford University,Data Science,Machine Learning,Hindi,"Deep Learning, Python, Machine Learning, Power BI, Data Analysis",Kristy Smith,4.9 stars,95514,41 hours,Coursera,$299,Yes,Beginner,2024
+302,Python for Everybody,Data Science,Deep Learning,English,"Data Analysis, Power BI, Deep Learning, R, Excel",Mary Campbell,3.2 stars,26162,35 hours,edX,$199,Yes,Advanced,2024
+303,Introduction to Data Science in Python,Data Science,Statistics,French,"Machine Learning, Python, R, SQL, Power BI",Jerry Haney,5.0 stars,10932,18 hours,FutureLearn,$99,Yes,Beginner,2022
+304,Introduction to Data Science in Python,Data Science,Machine Learning,Hindi,"Data Analysis, Machine Learning, Python, SQL, R",Carolyn Greer,3.3 stars,90118,49 hours,FutureLearn,$0,No,Intermediate,2021
+305,SQL for Data Science,Data Science,Deep Learning,French,"Python, Excel, R, Power BI, Deep Learning",Rebecca Hoover,3.8 stars,17074,16 hours,Coursera,$0,No,Beginner,2022
+306,Google Data Analytics Certificate,Data Science,Machine Learning,Hindi,"Excel, SQL, Deep Learning, Data Analysis, Machine Learning",Matthew Baker,4.9 stars,97981,51 hours,Udemy,$19,Yes,Beginner,2020
+307,Data Structures and Algorithms Specialization,Data Science,Statistics,English,"Machine Learning, Excel, Power BI, Data Analysis, SQL",Grace Chavez,4.3 stars,59782,46 hours,edX,$99,Yes,Advanced,2018
+308,AWS Cloud Practitioner Essentials,IT & Software,Cybersecurity,French,"Networking, Azure, AWS, Critical Thinking, DevOps",Crystal Cruz,4.3 stars,18530,26 hours,Coursera,$0,Yes,Advanced,2023
+309,Data Structures and Algorithms Specialization,Data Science,Data Analysis,English,"Data Analysis, SQL, R, Excel, Machine Learning",Dale Heath,4.7 stars,77616,17 hours,edX,$19,Yes,Intermediate,2023
+310,The Science of Well-Being,Arts,Design,French,"Creativity, Communication, Design, Photography",Jennifer Hernandez,4.6 stars,12836,19 hours,FutureLearn,$299,Yes,Beginner,2019
+311,Data Structures and Algorithms Specialization,Data Science,Data Analysis,Spanish,"Machine Learning, Excel, Data Analysis, R, Deep Learning",John Mendez,3.8 stars,17183,18 hours,Coursera,$99,Yes,Intermediate,2018
+312,Full-Stack Web Development with React,Computer Science,Web Development,Spanish,"JavaScript, Python, React, Azure, AWS",Richard Gordon,4.2 stars,62924,19 hours,FutureLearn,$0,No,Intermediate,2018
+313,Machine Learning by Stanford University,Data Science,Deep Learning,English,"Python, Machine Learning, Deep Learning, Excel, Power BI",John Anderson,3.8 stars,17137,13 hours,edX,$49,Yes,Advanced,2023
+314,The Science of Well-Being,Data Science,Data Analysis,Spanish,"Deep Learning, Data Analysis, SQL, Python, Excel",Samantha Prince,3.1 stars,7787,12 hours,Coursera,$199,Yes,Advanced,2020
+315,Java Programming and Software Engineering,Computer Science,Cloud Computing,Spanish,"React, AWS, Azure, Python, SQL",Marie Boyd,4.2 stars,48713,33 hours,edX,$299,Yes,Intermediate,2020
+316,Cybersecurity for Business,Business,Finance,Spanish,"Excel, Power BI, Critical Thinking, Communication, Leadership",Andrew Moreno,3.9 stars,458,12 hours,Coursera,$19,Yes,Advanced,2018
+317,Java Programming and Software Engineering,Computer Science,Programming,French,"AWS, JavaScript, Azure, React, SQL",Robert Clarke,4.1 stars,13256,33 hours,FutureLearn,$299,Yes,Intermediate,2024
+318,Statistics with Python,Data Science,Machine Learning,English,"Excel, SQL, Machine Learning, R, Python",Kevin Figueroa,4.0 stars,95358,47 hours,edX,$99,Yes,Intermediate,2018
+319,Java Programming and Software Engineering,Computer Science,Web Development,English,"AWS, JavaScript, Azure, Python, React",Melissa Davis,3.4 stars,5664,31 hours,FutureLearn,$49,Yes,Beginner,2019
+320,Statistics with Python,Data Science,Machine Learning,Spanish,"Excel, Deep Learning, SQL, Data Analysis, Python",John Hall,3.7 stars,69659,22 hours,FutureLearn,$0,No,Intermediate,2019
+321,Business Analytics with Excel,Business,Finance,French,"Excel, Leadership, Communication, Critical Thinking, Power BI",Diane Mcdowell,3.4 stars,69789,60 hours,edX,$0,No,Intermediate,2021
+322,Java Programming and Software Engineering,Computer Science,Cloud Computing,English,"AWS, SQL, React, JavaScript, Azure",Colin Fletcher,3.7 stars,88055,56 hours,Udemy,$0,Yes,Advanced,2021
+323,Introduction to Data Science in Python,Data Science,Deep Learning,Hindi,"Excel, Data Analysis, Machine Learning, Deep Learning, R",Laura Wilson,3.2 stars,76796,9 hours,Udemy,$299,Yes,Beginner,2023
+324,Java Programming and Software Engineering,Computer Science,Cloud Computing,French,"JavaScript, Azure, AWS, Python, SQL",Matthew Watts,3.2 stars,43397,45 hours,Coursera,$49,Yes,Beginner,2024
+325,Tableau Data Visualization,Data Science,Machine Learning,Spanish,"Python, Machine Learning, R, Power BI, Deep Learning",Jack Moore,3.1 stars,98275,46 hours,edX,$0,Yes,Advanced,2019
+326,Excel to MySQL: Analytic Techniques,Data Science,Statistics,English,"SQL, Power BI, Deep Learning, R, Data Analysis",Dawn Wyatt,3.6 stars,87618,50 hours,Coursera,$99,Yes,Intermediate,2024
+327,Introduction to Data Science in Python,Data Science,Deep Learning,Spanish,"Python, Data Analysis, R, Deep Learning, Excel",Jacob Hill,4.3 stars,78472,57 hours,FutureLearn,$299,Yes,Intermediate,2024
+328,AI For Everyone,Data Science,Statistics,French,"Excel, Deep Learning, SQL, Python, Power BI",Nicole Gutierrez,4.4 stars,54439,29 hours,edX,$49,Yes,Beginner,2021
+329,Natural Language Processing with Deep Learning,Arts,Design,French,"Design, Creativity, Communication, Photography",Karen Wood,4.0 stars,34987,20 hours,Udemy,$0,No,Beginner,2024
+330,Cybersecurity for Business,Business,Marketing,French,"Critical Thinking, Excel, Leadership, Power BI, Communication",Dawn Parker,4.6 stars,8881,50 hours,edX,$99,Yes,Beginner,2021
+331,Deep Learning Specialization,Business,Leadership,English,"Excel, Critical Thinking, Leadership, Power BI, Communication",Michael Fitzgerald,3.8 stars,20856,47 hours,Coursera,$0,Yes,Advanced,2024
+332,Natural Language Processing with Deep Learning,Computer Science,Programming,English,"AWS, JavaScript, Python, React, SQL",Mary Adkins,3.2 stars,58355,6 hours,edX,$19,Yes,Advanced,2022
+333,Introduction to Data Science in Python,Data Science,Machine Learning,Hindi,"SQL, R, Machine Learning, Data Analysis, Power BI",Michael Martin,3.3 stars,15860,33 hours,edX,$99,Yes,Advanced,2022
+334,Google Data Analytics Certificate,Data Science,Deep Learning,Hindi,"Excel, R, Data Analysis, Machine Learning, Python",James Morgan,3.1 stars,3467,21 hours,Coursera,$99,Yes,Intermediate,2021
+335,Python for Everybody,Data Science,Data Analysis,English,"Excel, Deep Learning, Python, SQL, R",Melissa Mann,3.6 stars,52952,10 hours,Coursera,$49,Yes,Beginner,2022
+336,AWS Cloud Practitioner Essentials,IT & Software,DevOps,French,"Critical Thinking, Networking, AWS, Azure, DevOps",Vincent Smith,4.2 stars,87954,59 hours,FutureLearn,$49,Yes,Advanced,2023
+337,Excel to MySQL: Analytic Techniques,Data Science,Machine Learning,English,"R, Python, Excel, Data Analysis, SQL",Charles Frost,3.5 stars,11691,55 hours,FutureLearn,$199,Yes,Beginner,2020
+338,The Science of Well-Being,Arts,Design,Spanish,"Communication, Photography, Creativity, Design",Austin Walker,4.3 stars,90661,40 hours,Udemy,$49,Yes,Intermediate,2023
+339,Statistics with Python,Data Science,Big Data,Spanish,"Deep Learning, Python, Machine Learning, R, Excel",Andrew Cruz,4.3 stars,79365,31 hours,edX,$19,Yes,Advanced,2021
+340,Statistics with Python,Data Science,Big Data,Spanish,"Machine Learning, Deep Learning, Data Analysis, R, Excel",Miss Kelly Dawson,3.9 stars,41046,14 hours,Coursera,$0,No,Intermediate,2018
+341,Tableau Data Visualization,Data Science,Deep Learning,Hindi,"Deep Learning, Python, Machine Learning, SQL, R",Theresa Wilkins,4.7 stars,53397,22 hours,Udemy,$29,Yes,Beginner,2022
+342,Applied Data Science with Python,Data Science,Statistics,English,"Machine Learning, Data Analysis, R, Excel, SQL",Jessica Harris,4.8 stars,18117,21 hours,FutureLearn,$99,Yes,Intermediate,2019
+343,Statistics with Python,Data Science,Statistics,English,"Excel, R, Power BI, Python, Machine Learning",Regina Mitchell,3.2 stars,9780,18 hours,Coursera,$0,Yes,Advanced,2024
+344,AI For Everyone,Data Science,Deep Learning,French,"Deep Learning, Excel, R, SQL, Power BI",Kyle Black,3.2 stars,28063,35 hours,FutureLearn,$199,Yes,Beginner,2020
+345,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Spanish,"Machine Learning, Python, Data Analysis, Deep Learning, Power BI",Christopher Johnson,4.6 stars,91893,6 hours,Udemy,$49,Yes,Intermediate,2020
+346,Python for Everybody,Data Science,Data Analysis,Spanish,"Excel, SQL, Data Analysis, Python, R",Aaron Moore,4.3 stars,25429,49 hours,edX,$49,Yes,Intermediate,2018
+347,Statistics with Python,Data Science,Statistics,English,"Power BI, Machine Learning, Python, Excel, R",Penny Gomez MD,4.5 stars,16716,49 hours,edX,$199,Yes,Advanced,2022
+348,Deep Learning Specialization,IT & Software,Cloud Computing,Spanish,"Critical Thinking, AWS, Azure, Networking, DevOps",Kelly Mclaughlin,3.2 stars,35603,31 hours,Coursera,$0,No,Beginner,2024
+349,Full-Stack Web Development with React,Computer Science,Cybersecurity,French,"AWS, Python, React, SQL, Azure",Brandon Mitchell,4.2 stars,70669,44 hours,Udemy,$29,Yes,Advanced,2022
+350,Business Analytics with Excel,Business,Finance,English,"Power BI, Critical Thinking, Excel, Communication, Leadership",Suzanne Bailey,3.7 stars,77216,21 hours,edX,$199,Yes,Advanced,2018
+351,Machine Learning by Stanford University,Data Science,Machine Learning,French,"SQL, R, Excel, Power BI, Deep Learning",Destiny Obrien,5.0 stars,32395,49 hours,FutureLearn,$0,Yes,Advanced,2018
+352,Data Structures and Algorithms Specialization,Data Science,Data Analysis,English,"SQL, Python, Machine Learning, Power BI, Deep Learning",Timothy Andrews,3.5 stars,78219,39 hours,FutureLearn,$199,Yes,Beginner,2021
+353,Big Data Essentials,Data Science,Data Analysis,Spanish,"Machine Learning, Excel, Deep Learning, SQL, Python",Jason Rodriguez,3.7 stars,78676,8 hours,FutureLearn,$99,Yes,Intermediate,2018
+354,Google Data Analytics Certificate,Data Science,Machine Learning,Hindi,"Python, R, Deep Learning, Power BI, Data Analysis",Edward Arroyo,3.6 stars,76169,21 hours,Udemy,$299,Yes,Beginner,2020
+355,Natural Language Processing with Deep Learning,Arts,Creative Writing,French,"Photography, Communication, Design, Creativity",Tina Walter,3.1 stars,57221,21 hours,Udemy,$49,Yes,Beginner,2024
+356,Natural Language Processing with Deep Learning,Computer Science,Cybersecurity,English,"React, SQL, Azure, Python, AWS",Laura Benson,4.1 stars,40538,54 hours,edX,$99,Yes,Beginner,2019
+357,Python for Everybody,Data Science,Statistics,French,"Python, Machine Learning, SQL, Deep Learning, Data Analysis",Kristine Carrillo,4.8 stars,17245,59 hours,Udemy,$29,Yes,Intermediate,2020
+358,Applied Data Science with Python,Data Science,Data Analysis,English,"Python, Excel, Machine Learning, Data Analysis, R",Tonya Ellis,3.0 stars,88608,32 hours,Udemy,$19,Yes,Beginner,2018
+359,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,French,"Data Analysis, Excel, SQL, Machine Learning, R",Kevin Johnson,3.6 stars,17707,53 hours,edX,$49,Yes,Advanced,2018
+360,Applied Data Science with Python,Data Science,Big Data,English,"Python, Excel, Power BI, SQL, Data Analysis",Austin Schultz,3.2 stars,66076,57 hours,edX,$199,Yes,Advanced,2024
+361,Deep Learning Specialization,IT & Software,DevOps,French,"AWS, Critical Thinking, Networking, DevOps, Azure",Megan Hall MD,4.0 stars,64919,40 hours,Udemy,$49,Yes,Beginner,2024
+362,Python for Everybody,Data Science,Machine Learning,English,"Data Analysis, R, Power BI, Excel, Machine Learning",Kelli Smith,4.9 stars,35908,33 hours,Udemy,$299,Yes,Advanced,2021
+363,Big Data Essentials,Data Science,Data Analysis,English,"Data Analysis, Deep Learning, Machine Learning, Python, SQL",Danielle Davis,4.8 stars,7108,18 hours,edX,$199,Yes,Beginner,2023
+364,Full-Stack Web Development with React,Computer Science,Cloud Computing,English,"SQL, Python, React, AWS, Azure",Samantha Jones,3.9 stars,46021,57 hours,Udemy,$299,Yes,Intermediate,2020
+365,Applied Data Science with Python,Data Science,Statistics,Spanish,"Data Analysis, Excel, SQL, Python, Deep Learning",Karen Gomez,4.8 stars,47551,56 hours,edX,$99,Yes,Beginner,2018
+366,Java Programming and Software Engineering,Computer Science,Cloud Computing,Hindi,"SQL, Azure, AWS, Python, React",Debra Valentine,4.7 stars,10153,12 hours,Udemy,$29,Yes,Beginner,2019
+367,Cybersecurity for Business,Business,Finance,French,"Communication, Critical Thinking, Power BI, Leadership, Excel",Susan Porter,4.5 stars,31936,47 hours,edX,$49,Yes,Advanced,2023
+368,Cybersecurity for Business,Business,Business Analytics,Hindi,"Critical Thinking, Excel, Leadership, Communication, Power BI",Nicolas Salas,4.6 stars,62324,27 hours,Coursera,$199,Yes,Advanced,2022
+369,Java Programming and Software Engineering,Computer Science,Programming,Spanish,"JavaScript, AWS, React, Azure, SQL",Dale Wright,4.4 stars,25575,7 hours,FutureLearn,$29,Yes,Advanced,2024
+370,Statistics with Python,Data Science,Deep Learning,Hindi,"Deep Learning, Excel, R, Power BI, SQL",Brittney Rodriguez,3.7 stars,30183,24 hours,Coursera,$29,Yes,Beginner,2024
+371,Google Data Analytics Certificate,Data Science,Machine Learning,Spanish,"SQL, Deep Learning, Machine Learning, Power BI, R",Megan Alvarado,4.0 stars,8876,58 hours,FutureLearn,$99,Yes,Intermediate,2019
+372,AI For Everyone,Data Science,Data Analysis,French,"R, Data Analysis, Deep Learning, Power BI, Excel",Pamela Weaver,3.1 stars,69795,18 hours,edX,$29,Yes,Advanced,2018
+373,Python for Everybody,Data Science,Big Data,Spanish,"Machine Learning, Excel, Deep Learning, R, Python",John Oliver,3.5 stars,78186,12 hours,Udemy,$0,Yes,Advanced,2021
+374,Cybersecurity for Business,Business,Strategy,Hindi,"Power BI, Communication, Critical Thinking, Excel, Leadership",William Prince PhD,4.8 stars,90618,43 hours,Coursera,$99,Yes,Intermediate,2020
+375,Excel to MySQL: Analytic Techniques,Data Science,Big Data,French,"Data Analysis, Power BI, Machine Learning, Python, Excel",William Moon IV,4.4 stars,33365,29 hours,Udemy,$299,Yes,Beginner,2024
+376,AI For Everyone,Data Science,Machine Learning,Hindi,"Power BI, Deep Learning, Data Analysis, SQL, Excel",Kenneth Brown,4.7 stars,85126,19 hours,FutureLearn,$19,Yes,Beginner,2022
+377,SQL for Data Science,Data Science,Deep Learning,French,"Machine Learning, R, Python, SQL, Deep Learning",Karen Fernandez,3.1 stars,20693,41 hours,Udemy,$199,Yes,Beginner,2022
+378,Cybersecurity for Business,Business,Strategy,English,"Leadership, Excel, Power BI, Communication, Critical Thinking",Jennifer Parks,3.0 stars,30249,16 hours,Coursera,$0,No,Beginner,2018
+379,Full-Stack Web Development with React,Computer Science,Cloud Computing,French,"React, Azure, AWS, JavaScript, SQL",William Wolfe,4.4 stars,16051,5 hours,Coursera,$0,No,Intermediate,2019
+380,Cybersecurity for Business,Business,Marketing,Spanish,"Critical Thinking, Leadership, Excel, Power BI, Communication",Michael Smith,4.9 stars,85280,20 hours,Coursera,$99,Yes,Advanced,2022
+381,SQL for Data Science,Data Science,Machine Learning,Spanish,"Excel, Data Analysis, Machine Learning, R, SQL",Kevin Nguyen,3.6 stars,77262,25 hours,Coursera,$19,Yes,Beginner,2018
+382,AI For Everyone,Data Science,Deep Learning,Spanish,"Python, Machine Learning, Power BI, SQL, Excel",Debbie Dunn,4.9 stars,97380,42 hours,FutureLearn,$29,Yes,Intermediate,2024
+383,Statistics with Python,Data Science,Machine Learning,French,"Deep Learning, Python, Excel, Power BI, Machine Learning",John Austin,3.8 stars,12162,9 hours,Coursera,$49,Yes,Advanced,2021
+384,Data Structures and Algorithms Specialization,Data Science,Data Analysis,English,"R, Power BI, Python, Deep Learning, SQL",Jonathan Clark,4.6 stars,71095,25 hours,Coursera,$29,Yes,Intermediate,2022
+385,Python for Everybody,Data Science,Statistics,English,"R, Power BI, Excel, Machine Learning, Python",Jacqueline Dickerson,3.7 stars,73722,53 hours,Udemy,$99,Yes,Intermediate,2021
+386,Deep Learning Specialization,IT & Software,Cybersecurity,French,"Networking, Azure, DevOps, Critical Thinking, AWS",Christopher Anderson,4.6 stars,69300,19 hours,FutureLearn,$49,Yes,Advanced,2022
+387,Python for Everybody,Data Science,Statistics,English,"SQL, Machine Learning, R, Power BI, Python",Crystal Garcia,3.7 stars,77610,32 hours,Udemy,$29,Yes,Intermediate,2021
+388,Statistics with Python,Data Science,Machine Learning,English,"Excel, Machine Learning, Python, R, SQL",David Reynolds,4.9 stars,17493,32 hours,edX,$19,Yes,Intermediate,2024
+389,Full-Stack Web Development with React,Computer Science,Web Development,Spanish,"React, JavaScript, SQL, AWS, Azure",Charles Haley,4.9 stars,9647,55 hours,FutureLearn,$299,Yes,Intermediate,2020
+390,Data Structures and Algorithms Specialization,Data Science,Statistics,English,"Deep Learning, Python, Machine Learning, Excel, R",Robert Thompson,4.3 stars,18183,36 hours,edX,$29,Yes,Intermediate,2022
+391,AI For Everyone,Data Science,Deep Learning,English,"SQL, Python, R, Deep Learning, Excel",Dr. Samuel Holmes DDS,4.2 stars,77723,30 hours,Udemy,$29,Yes,Intermediate,2020
+392,Machine Learning by Stanford University,Data Science,Deep Learning,English,"Data Analysis, SQL, R, Machine Learning, Excel",Elizabeth Hart,3.9 stars,92785,21 hours,edX,$99,Yes,Intermediate,2019
+393,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,English,"Critical Thinking, Networking, DevOps, Azure, AWS",Jennifer Vaughn,3.6 stars,66395,13 hours,Coursera,$49,Yes,Advanced,2019
+394,Java Programming and Software Engineering,Computer Science,Web Development,English,"SQL, React, JavaScript, Azure, AWS",Robert Woods,3.1 stars,52436,19 hours,edX,$199,Yes,Intermediate,2020
+395,Java Programming and Software Engineering,Computer Science,Programming,French,"React, Python, AWS, JavaScript, Azure",Joanna Cook,5.0 stars,66042,15 hours,edX,$299,Yes,Advanced,2024
+396,AWS Cloud Practitioner Essentials,IT & Software,Networking,Spanish,"AWS, Critical Thinking, DevOps, Azure, Networking",Justin Frederick,4.4 stars,31605,10 hours,Udemy,$19,Yes,Intermediate,2018
+397,AI For Everyone,Data Science,Big Data,Spanish,"Deep Learning, Python, Machine Learning, Power BI, R",Alejandro Martinez,4.9 stars,84180,49 hours,Coursera,$299,Yes,Beginner,2018
+398,Introduction to Data Science in Python,Data Science,Statistics,English,"Deep Learning, Python, R, SQL, Machine Learning",Tracey Gonzalez,5.0 stars,86206,10 hours,edX,$299,Yes,Beginner,2021
+399,Tableau Data Visualization,Data Science,Machine Learning,Hindi,"Python, Deep Learning, Data Analysis, SQL, Machine Learning",Mariah Thompson,3.4 stars,4402,34 hours,Coursera,$0,No,Intermediate,2022
+400,Tableau Data Visualization,Data Science,Data Analysis,Spanish,"Python, Excel, Machine Learning, Data Analysis, Power BI",Heather Nunez,4.1 stars,42990,49 hours,edX,$99,Yes,Beginner,2024
+401,Applied Data Science with Python,Data Science,Deep Learning,French,"Excel, Machine Learning, R, Deep Learning, SQL",Dr. Steve James,3.7 stars,78111,21 hours,edX,$299,Yes,Intermediate,2024
+402,The Science of Well-Being,Data Science,Big Data,Hindi,"SQL, R, Deep Learning, Power BI, Excel",Mark Thomas,4.6 stars,70671,10 hours,Udemy,$49,Yes,Advanced,2024
+403,Business Analytics with Excel,Business,Leadership,French,"Leadership, Communication, Excel, Power BI, Critical Thinking",Robert Rogers,3.4 stars,24109,9 hours,FutureLearn,$29,Yes,Intermediate,2019
+404,Natural Language Processing with Deep Learning,Computer Science,Cloud Computing,English,"SQL, AWS, Python, React, JavaScript",Laura Sweeney,3.8 stars,35883,39 hours,FutureLearn,$49,Yes,Beginner,2023
+405,SQL for Data Science,Data Science,Big Data,Spanish,"Excel, SQL, R, Deep Learning, Power BI",Christopher Perez,4.8 stars,71133,37 hours,Udemy,$199,Yes,Advanced,2020
+406,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Hindi,"Deep Learning, Power BI, SQL, Machine Learning, Data Analysis",Eddie Adams,4.1 stars,43464,26 hours,Coursera,$49,Yes,Intermediate,2024
+407,Excel to MySQL: Analytic Techniques,Data Science,Big Data,Spanish,"R, Deep Learning, Python, Machine Learning, Data Analysis",Denise Wallace,3.7 stars,47839,30 hours,Udemy,$49,Yes,Beginner,2022
+408,SQL for Data Science,Data Science,Deep Learning,Spanish,"Python, R, Excel, Power BI, Data Analysis",Heidi Matthews,3.2 stars,64768,45 hours,edX,$299,Yes,Advanced,2018
+409,Natural Language Processing with Deep Learning,IT & Software,Cloud Computing,French,"Azure, AWS, DevOps, Networking, Critical Thinking",Jennifer White,3.2 stars,90104,6 hours,Udemy,$299,Yes,Intermediate,2024
+410,The Science of Well-Being,Computer Science,Cloud Computing,English,"Azure, React, JavaScript, SQL, AWS",Nicholas Stanley,3.8 stars,81493,28 hours,Udemy,$19,Yes,Intermediate,2024
+411,AWS Cloud Practitioner Essentials,IT & Software,Networking,French,"AWS, Azure, Critical Thinking, Networking, DevOps",Mercedes Miller,4.8 stars,74272,27 hours,Coursera,$19,Yes,Beginner,2019
+412,Python for Everybody,Data Science,Big Data,Hindi,"Python, Excel, Data Analysis, Power BI, Deep Learning",Brian Brown,4.8 stars,45585,56 hours,edX,$19,Yes,Intermediate,2023
+413,Machine Learning by Stanford University,Data Science,Statistics,French,"Deep Learning, Python, Machine Learning, Data Analysis, Power BI",Kimberly Johnson,3.2 stars,58157,50 hours,Udemy,$299,Yes,Beginner,2021
+414,Applied Data Science with Python,Data Science,Statistics,English,"Python, Data Analysis, Deep Learning, R, Power BI",Phillip Miller,4.8 stars,87449,53 hours,Coursera,$199,Yes,Beginner,2018
+415,Tableau Data Visualization,Data Science,Big Data,English,"R, Deep Learning, Excel, SQL, Data Analysis",Christopher Pena,3.4 stars,75987,12 hours,Coursera,$299,Yes,Intermediate,2020
+416,Full-Stack Web Development with React,Computer Science,Web Development,English,"JavaScript, Python, React, Azure, AWS",Ellen Wright,4.1 stars,82263,44 hours,Coursera,$0,No,Beginner,2023
+417,Introduction to Data Science in Python,Data Science,Data Analysis,Spanish,"Data Analysis, R, Excel, Deep Learning, SQL",Mark Anderson,3.3 stars,47462,29 hours,Coursera,$29,Yes,Beginner,2018
+418,Statistics with Python,Data Science,Big Data,French,"Excel, R, Power BI, Python, Deep Learning",Alyssa Alvarado,4.9 stars,71861,8 hours,Coursera,$49,Yes,Advanced,2021
+419,SQL for Data Science,Data Science,Big Data,Spanish,"Excel, Data Analysis, Python, SQL, Machine Learning",Erika Alvarez,4.4 stars,16524,50 hours,Udemy,$99,Yes,Advanced,2019
+420,The Science of Well-Being,IT & Software,Networking,French,"Networking, Critical Thinking, AWS, DevOps, Azure",Kimberly Nelson,3.9 stars,99552,59 hours,Udemy,$49,Yes,Intermediate,2020
+421,SQL for Data Science,Data Science,Machine Learning,French,"Machine Learning, SQL, Deep Learning, Data Analysis, Python",Wayne Wolfe,3.4 stars,49839,25 hours,edX,$0,No,Beginner,2021
+422,Big Data Essentials,Data Science,Deep Learning,English,"R, Python, Machine Learning, Excel, Data Analysis",Kyle Welch,4.3 stars,86803,41 hours,Udemy,$19,Yes,Beginner,2024
+423,Deep Learning Specialization,Business,Marketing,English,"Communication, Leadership, Critical Thinking, Power BI, Excel",Kristy Mills,4.3 stars,55380,58 hours,Coursera,$99,Yes,Intermediate,2019
+424,Java Programming and Software Engineering,Computer Science,Programming,English,"Azure, AWS, React, SQL, Python",Emily Reed,3.3 stars,15389,10 hours,FutureLearn,$19,Yes,Intermediate,2021
+425,Cybersecurity for Business,Business,Business Analytics,French,"Excel, Leadership, Power BI, Communication, Critical Thinking",Regina Ramos,3.6 stars,74233,60 hours,Udemy,$29,Yes,Beginner,2019
+426,The Science of Well-Being,IT & Software,DevOps,Hindi,"Networking, Azure, DevOps, AWS, Critical Thinking",David Torres,3.8 stars,23585,56 hours,Coursera,$299,Yes,Advanced,2019
+427,Deep Learning Specialization,Arts,Painting,French,"Photography, Communication, Creativity, Design",Robert Charles,5.0 stars,3332,49 hours,Udemy,$29,Yes,Beginner,2021
+428,Machine Learning by Stanford University,Data Science,Machine Learning,English,"SQL, Power BI, Data Analysis, Excel, R",John Smith,3.4 stars,56650,49 hours,Udemy,$199,Yes,Beginner,2023
+429,SQL for Data Science,Data Science,Statistics,French,"Data Analysis, Python, Excel, R, Power BI",Theresa Woods,4.4 stars,90067,28 hours,Coursera,$99,Yes,Intermediate,2018
+430,Statistics with Python,Data Science,Machine Learning,English,"Power BI, SQL, R, Data Analysis, Deep Learning",Jeffrey Carter,4.5 stars,41118,41 hours,FutureLearn,$99,Yes,Advanced,2021
+431,AI For Everyone,Data Science,Deep Learning,English,"SQL, Machine Learning, R, Deep Learning, Python",Adam Brooks,4.5 stars,44621,20 hours,FutureLearn,$199,Yes,Advanced,2024
+432,Python for Everybody,Data Science,Statistics,French,"Machine Learning, Python, R, Excel, SQL",Justin Foster,4.8 stars,66824,22 hours,edX,$99,Yes,Intermediate,2024
+433,Data Structures and Algorithms Specialization,Data Science,Machine Learning,English,"SQL, R, Excel, Deep Learning, Machine Learning",Omar Price,3.1 stars,72346,18 hours,edX,$19,Yes,Advanced,2019
+434,AWS Cloud Practitioner Essentials,IT & Software,Cybersecurity,Spanish,"Azure, Critical Thinking, AWS, DevOps, Networking",Dennis Henderson,4.0 stars,36637,46 hours,Udemy,$29,Yes,Advanced,2019
+435,SQL for Data Science,Data Science,Statistics,English,"SQL, Python, Machine Learning, Data Analysis, Excel",Phillip Kent,4.3 stars,96532,45 hours,Coursera,$199,Yes,Beginner,2018
+436,Statistics with Python,Data Science,Deep Learning,Hindi,"Python, Data Analysis, Deep Learning, SQL, R",Melinda Mitchell,3.3 stars,57628,36 hours,edX,$299,Yes,Beginner,2023
+437,Introduction to Data Science in Python,Data Science,Machine Learning,Hindi,"Machine Learning, Data Analysis, Deep Learning, SQL, Python",Rhonda Gutierrez,4.0 stars,54878,26 hours,Coursera,$299,Yes,Intermediate,2020
+438,Java Programming and Software Engineering,Computer Science,Cloud Computing,French,"Python, JavaScript, AWS, Azure, React",Catherine Roberts,3.9 stars,46743,30 hours,Coursera,$299,Yes,Advanced,2022
+439,Machine Learning by Stanford University,Data Science,Deep Learning,English,"Data Analysis, Power BI, Python, Deep Learning, SQL",Lisa Nelson,3.8 stars,89987,52 hours,Coursera,$99,Yes,Intermediate,2020
+440,Big Data Essentials,Data Science,Big Data,English,"Python, Power BI, SQL, R, Deep Learning",Chelsea Smith,3.5 stars,97338,39 hours,edX,$0,No,Beginner,2022
+441,Deep Learning Specialization,Arts,Creative Writing,French,"Design, Creativity, Photography, Communication",Joseph Lopez,4.0 stars,65778,8 hours,edX,$0,No,Intermediate,2022
+442,Statistics with Python,Data Science,Data Analysis,Hindi,"Power BI, Excel, Machine Learning, Deep Learning, Python",Derrick Espinoza,4.4 stars,20150,10 hours,FutureLearn,$49,Yes,Intermediate,2020
+443,Full-Stack Web Development with React,Computer Science,Programming,English,"SQL, AWS, Azure, Python, React",Crystal Hernandez,3.9 stars,56655,30 hours,Udemy,$199,Yes,Advanced,2020
+444,Cybersecurity for Business,Business,Strategy,Spanish,"Excel, Power BI, Communication, Critical Thinking, Leadership",Glenn Collins DDS,4.3 stars,49504,15 hours,FutureLearn,$0,No,Beginner,2019
+445,AI For Everyone,Data Science,Deep Learning,Hindi,"Power BI, SQL, Machine Learning, Python, R",Mrs. Raven Rivera DVM,3.5 stars,53962,47 hours,Udemy,$29,Yes,Advanced,2020
+446,Introduction to Data Science in Python,Data Science,Statistics,English,"Deep Learning, Data Analysis, Excel, SQL, Python",Amy Rowe,4.1 stars,64717,43 hours,Coursera,$199,Yes,Advanced,2022
+447,Cybersecurity for Business,Business,Finance,French,"Excel, Power BI, Communication, Critical Thinking, Leadership",John Lee,3.5 stars,26447,40 hours,edX,$199,Yes,Beginner,2019
+448,AWS Cloud Practitioner Essentials,IT & Software,Networking,Hindi,"DevOps, Azure, Critical Thinking, AWS, Networking",Ruth Clayton,3.4 stars,34275,17 hours,Coursera,$99,Yes,Advanced,2019
+449,AI For Everyone,Data Science,Machine Learning,English,"SQL, Deep Learning, Data Analysis, R, Machine Learning",Randy Wright,3.7 stars,94310,22 hours,edX,$49,Yes,Intermediate,2024
+450,Cybersecurity for Business,Business,Finance,Spanish,"Power BI, Communication, Excel, Critical Thinking, Leadership",Jessica Rojas,4.4 stars,83426,26 hours,Udemy,$49,Yes,Intermediate,2019
+451,AI For Everyone,Data Science,Big Data,French,"Deep Learning, R, Machine Learning, Data Analysis, Excel",Joel Wise,4.9 stars,8433,32 hours,Udemy,$49,Yes,Intermediate,2019
+452,Cybersecurity for Business,Business,Leadership,English,"Excel, Communication, Power BI, Critical Thinking, Leadership",Vickie Kennedy,4.1 stars,81145,24 hours,Coursera,$99,Yes,Intermediate,2019
+453,Cybersecurity for Business,Business,Finance,Spanish,"Power BI, Excel, Critical Thinking, Communication, Leadership",Emily Morris,4.7 stars,23918,12 hours,Udemy,$49,Yes,Beginner,2021
+454,Deep Learning Specialization,Computer Science,Web Development,English,"Python, SQL, JavaScript, Azure, React",Amanda Pineda,4.9 stars,37575,8 hours,edX,$49,Yes,Advanced,2022
+455,Java Programming and Software Engineering,Computer Science,Web Development,Spanish,"Python, Azure, React, JavaScript, AWS",Dawn Little,4.8 stars,28082,50 hours,Coursera,$299,Yes,Intermediate,2022
+456,Data Structures and Algorithms Specialization,Data Science,Big Data,English,"Machine Learning, Deep Learning, Excel, SQL, Python",Stephen Boyer,3.1 stars,84722,48 hours,Coursera,$199,Yes,Intermediate,2022
+457,AI For Everyone,Data Science,Data Analysis,French,"Data Analysis, SQL, Python, Deep Learning, Excel",Brian Chen,3.2 stars,73104,22 hours,edX,$199,Yes,Beginner,2019
+458,Google Data Analytics Certificate,Data Science,Data Analysis,Spanish,"R, Deep Learning, SQL, Machine Learning, Excel",Christopher Hill,4.7 stars,85360,48 hours,FutureLearn,$29,Yes,Beginner,2018
+459,Big Data Essentials,Data Science,Big Data,Spanish,"Machine Learning, Deep Learning, SQL, Python, Excel",Richard Smith,4.8 stars,19444,19 hours,FutureLearn,$299,Yes,Intermediate,2021
+460,Statistics with Python,Data Science,Deep Learning,Hindi,"Power BI, Machine Learning, Deep Learning, Data Analysis, Excel",Richard Alvarez,3.9 stars,14711,22 hours,Coursera,$19,Yes,Advanced,2024
+461,Data Structures and Algorithms Specialization,Data Science,Machine Learning,Spanish,"Deep Learning, Power BI, SQL, Machine Learning, Python",Jacqueline Davis,3.7 stars,68145,47 hours,Coursera,$0,No,Beginner,2018
+462,Cybersecurity for Business,Business,Business Analytics,Hindi,"Critical Thinking, Excel, Communication, Leadership, Power BI",Brandon Montgomery,3.6 stars,86944,59 hours,Udemy,$29,Yes,Beginner,2021
+463,SQL for Data Science,Data Science,Machine Learning,French,"R, SQL, Excel, Python, Power BI",Yolanda Garrett,4.1 stars,82353,49 hours,Coursera,$299,Yes,Intermediate,2019
+464,Machine Learning by Stanford University,Data Science,Machine Learning,Hindi,"Machine Learning, Python, SQL, Excel, Data Analysis",Matthew Miles,4.0 stars,51318,16 hours,Coursera,$29,Yes,Advanced,2023
+465,Full-Stack Web Development with React,Computer Science,Web Development,Spanish,"AWS, React, Python, Azure, JavaScript",Beth Hall,4.9 stars,46269,57 hours,Udemy,$199,Yes,Beginner,2019
+466,Applied Data Science with Python,Data Science,Deep Learning,Hindi,"Data Analysis, Deep Learning, Power BI, Machine Learning, SQL",Dr. Nicole Trujillo,4.8 stars,79187,43 hours,Udemy,$199,Yes,Beginner,2020
+467,Data Structures and Algorithms Specialization,Data Science,Data Analysis,Hindi,"Excel, Deep Learning, Power BI, SQL, Data Analysis",Corey Norris,3.5 stars,56044,10 hours,edX,$19,Yes,Beginner,2021
+468,Tableau Data Visualization,Data Science,Big Data,Hindi,"SQL, Python, R, Machine Learning, Power BI",Chad Roach,3.8 stars,65352,55 hours,Coursera,$99,Yes,Advanced,2024
+469,AI For Everyone,Data Science,Deep Learning,English,"Machine Learning, Excel, Python, Deep Learning, R",Mr. Edward Terry,3.3 stars,13177,27 hours,Udemy,$49,Yes,Advanced,2023
+470,Tableau Data Visualization,Data Science,Statistics,Spanish,"Data Analysis, Deep Learning, Python, Machine Learning, R",Cody Bailey,4.1 stars,33952,54 hours,FutureLearn,$199,Yes,Intermediate,2019
+471,Google Data Analytics Certificate,Data Science,Data Analysis,Hindi,"Excel, Power BI, Data Analysis, SQL, R",Denise Guerra,5.0 stars,20123,14 hours,Udemy,$19,Yes,Advanced,2022
+472,Statistics with Python,Data Science,Machine Learning,Spanish,"SQL, Power BI, R, Data Analysis, Deep Learning",Kristen Jones,4.1 stars,87964,59 hours,Udemy,$19,Yes,Advanced,2024
+473,Full-Stack Web Development with React,Computer Science,Web Development,Spanish,"Python, SQL, React, JavaScript, Azure",Edward Baker,3.4 stars,86094,8 hours,FutureLearn,$19,Yes,Beginner,2024
+474,Google Data Analytics Certificate,Data Science,Big Data,French,"Machine Learning, Python, Deep Learning, Power BI, R",Aaron Little,4.4 stars,64558,22 hours,Coursera,$29,Yes,Beginner,2018
+475,AWS Cloud Practitioner Essentials,IT & Software,DevOps,Spanish,"Networking, Azure, Critical Thinking, DevOps, AWS",Cody Smith,3.3 stars,86606,9 hours,Udemy,$199,Yes,Intermediate,2019
+476,Java Programming and Software Engineering,Computer Science,Cloud Computing,French,"Azure, JavaScript, SQL, React, Python",Patty Allen,4.3 stars,50709,9 hours,edX,$19,Yes,Advanced,2020
+477,Machine Learning by Stanford University,Data Science,Big Data,Hindi,"Python, Data Analysis, Power BI, Deep Learning, Excel",Mary Ryan,4.9 stars,86566,9 hours,edX,$299,Yes,Beginner,2021
+478,Cybersecurity for Business,Business,Marketing,Spanish,"Leadership, Power BI, Communication, Excel, Critical Thinking",Joseph Jimenez,3.0 stars,87987,10 hours,FutureLearn,$49,Yes,Advanced,2019
+479,AI For Everyone,Data Science,Statistics,Hindi,"Deep Learning, Machine Learning, R, Power BI, Data Analysis",Lisa Morris,3.1 stars,169,56 hours,Udemy,$299,Yes,Beginner,2020
+480,Cybersecurity for Business,Business,Business Analytics,French,"Critical Thinking, Excel, Communication, Leadership, Power BI",Ashley Mills,3.2 stars,95646,47 hours,Coursera,$99,Yes,Beginner,2020
+481,Natural Language Processing with Deep Learning,Data Science,Deep Learning,French,"Machine Learning, Power BI, Deep Learning, Excel, R",Russell Anderson,3.8 stars,74338,38 hours,FutureLearn,$49,Yes,Beginner,2018
+482,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Hindi,"Power BI, Machine Learning, Excel, SQL, Python",Christina Washington,3.3 stars,85563,29 hours,Coursera,$299,Yes,Intermediate,2020
+483,Natural Language Processing with Deep Learning,IT & Software,DevOps,Spanish,"Critical Thinking, DevOps, Azure, AWS, Networking",Kenneth Huff,3.4 stars,79086,10 hours,FutureLearn,$199,Yes,Intermediate,2020
+484,AWS Cloud Practitioner Essentials,IT & Software,Cybersecurity,English,"AWS, Networking, Critical Thinking, DevOps, Azure",Kelly Miles,3.3 stars,76920,9 hours,edX,$19,Yes,Beginner,2024
+485,Cybersecurity for Business,Business,Marketing,Spanish,"Critical Thinking, Power BI, Excel, Communication, Leadership",Jacob Obrien,4.0 stars,93287,8 hours,Coursera,$299,Yes,Beginner,2021
+486,Deep Learning Specialization,IT & Software,DevOps,Spanish,"DevOps, Networking, Azure, Critical Thinking, AWS",Timothy Clark,4.1 stars,77836,33 hours,edX,$49,Yes,Beginner,2021
+487,Introduction to Data Science in Python,Data Science,Deep Learning,Spanish,"Power BI, Data Analysis, Machine Learning, Python, Excel",Steve Miller PhD,3.1 stars,53407,20 hours,edX,$299,Yes,Intermediate,2023
+488,Google Data Analytics Certificate,Data Science,Deep Learning,French,"Excel, SQL, Python, R, Machine Learning",Justin Hurley,4.2 stars,60970,33 hours,Coursera,$29,Yes,Beginner,2023
+489,The Science of Well-Being,IT & Software,Networking,Spanish,"Azure, DevOps, AWS, Critical Thinking, Networking",Jacob Erickson,4.2 stars,94342,5 hours,Udemy,$0,No,Intermediate,2020
+490,Tableau Data Visualization,Data Science,Machine Learning,Hindi,"Data Analysis, R, SQL, Machine Learning, Power BI",Deborah Williams,3.9 stars,30871,10 hours,edX,$199,Yes,Advanced,2020
+491,AWS Cloud Practitioner Essentials,IT & Software,Networking,French,"Critical Thinking, DevOps, Azure, Networking, AWS",Eric Blackburn,3.5 stars,43407,53 hours,edX,$199,Yes,Intermediate,2023
+492,Tableau Data Visualization,Data Science,Deep Learning,English,"R, Deep Learning, Data Analysis, Python, Power BI",Anne Hardy,3.8 stars,79199,42 hours,Udemy,$99,Yes,Advanced,2019
+493,AWS Cloud Practitioner Essentials,IT & Software,Networking,Spanish,"Networking, DevOps, Azure, AWS, Critical Thinking",Chelsey Fox,3.0 stars,99592,48 hours,Udemy,$49,Yes,Beginner,2019
+494,Python for Everybody,Data Science,Machine Learning,Hindi,"Deep Learning, R, Machine Learning, SQL, Excel",Mario White,5.0 stars,87788,57 hours,edX,$199,Yes,Beginner,2019
+495,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,Hindi,"SQL, Python, R, Machine Learning, Excel",Jennifer Garcia,3.2 stars,62849,53 hours,Coursera,$0,No,Intermediate,2020
+496,SQL for Data Science,Data Science,Data Analysis,French,"Deep Learning, SQL, Data Analysis, Machine Learning, Excel",Heather Ellis,4.6 stars,17389,59 hours,Udemy,$29,Yes,Beginner,2019
+497,Applied Data Science with Python,Data Science,Machine Learning,Spanish,"Python, Data Analysis, Power BI, R, Machine Learning",Sonya Jackson,3.8 stars,8500,14 hours,Udemy,$299,Yes,Advanced,2018
+498,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,French,"Azure, Networking, AWS, DevOps, Critical Thinking",James Morgan,3.7 stars,51674,60 hours,edX,$19,Yes,Advanced,2023
+499,Full-Stack Web Development with React,Computer Science,Cloud Computing,French,"Python, SQL, AWS, React, Azure",Zachary Ramos,4.9 stars,10439,41 hours,Udemy,$0,No,Beginner,2020
+500,Introduction to Data Science in Python,Data Science,Data Analysis,Hindi,"R, SQL, Data Analysis, Deep Learning, Machine Learning",Ethan Frey,3.2 stars,29305,39 hours,edX,$49,Yes,Beginner,2019
+501,Python for Everybody,Data Science,Data Analysis,Hindi,"Data Analysis, SQL, Machine Learning, Power BI, R",Jacob Duran,3.4 stars,60067,23 hours,Udemy,$0,No,Intermediate,2021
+502,Tableau Data Visualization,Data Science,Deep Learning,French,"SQL, Python, Data Analysis, Excel, Machine Learning",Nicholas Franklin,4.0 stars,90952,48 hours,FutureLearn,$199,Yes,Advanced,2024
+503,Big Data Essentials,Data Science,Machine Learning,Spanish,"Python, R, Deep Learning, Data Analysis, SQL",Cindy Cannon,3.8 stars,76458,8 hours,Udemy,$99,Yes,Advanced,2018
+504,Natural Language Processing with Deep Learning,Arts,Creative Writing,English,"Photography, Creativity, Design, Communication",Dawn Nixon,3.6 stars,41851,8 hours,Udemy,$19,Yes,Beginner,2022
+505,Cybersecurity for Business,Business,Marketing,Spanish,"Leadership, Excel, Power BI, Critical Thinking, Communication",James Barber,3.4 stars,98614,26 hours,Udemy,$49,Yes,Beginner,2019
+506,Python for Everybody,Data Science,Deep Learning,Hindi,"Data Analysis, R, SQL, Python, Deep Learning",Ms. Kelly Holder,3.7 stars,75285,11 hours,Udemy,$0,No,Beginner,2018
+507,Applied Data Science with Python,Data Science,Deep Learning,French,"Python, SQL, Power BI, Data Analysis, Machine Learning",Eric Walker,3.1 stars,90835,12 hours,FutureLearn,$49,Yes,Intermediate,2020
+508,Deep Learning Specialization,Data Science,Big Data,Spanish,"Power BI, SQL, Machine Learning, R, Data Analysis",Alison Short,3.5 stars,98193,8 hours,Udemy,$299,Yes,Intermediate,2023
+509,AWS Cloud Practitioner Essentials,IT & Software,Networking,Spanish,"Azure, AWS, DevOps, Networking, Critical Thinking",Desiree Spencer,4.6 stars,22464,20 hours,Coursera,$199,Yes,Beginner,2020
+510,Natural Language Processing with Deep Learning,Business,Leadership,French,"Excel, Communication, Power BI, Leadership, Critical Thinking",Tammy Moore,4.4 stars,21518,47 hours,Udemy,$0,No,Intermediate,2018
+511,Tableau Data Visualization,Data Science,Data Analysis,French,"Python, Machine Learning, Deep Learning, Power BI, Data Analysis",Henry Taylor,4.5 stars,13415,58 hours,FutureLearn,$199,Yes,Advanced,2023
+512,SQL for Data Science,Data Science,Big Data,Hindi,"Deep Learning, Power BI, Data Analysis, Machine Learning, Python",Kevin Hall,4.9 stars,6659,29 hours,edX,$99,Yes,Advanced,2022
+513,Big Data Essentials,Data Science,Deep Learning,English,"Excel, SQL, Deep Learning, Machine Learning, Power BI",Anna Ross,3.4 stars,41604,43 hours,Coursera,$29,Yes,Advanced,2024
+514,Big Data Essentials,Data Science,Data Analysis,Hindi,"Power BI, Machine Learning, R, Data Analysis, Deep Learning",Morgan Cummings,4.9 stars,63731,20 hours,Udemy,$99,Yes,Intermediate,2022
+515,Applied Data Science with Python,Data Science,Machine Learning,English,"Data Analysis, Python, SQL, Power BI, R",Carrie Petersen,4.1 stars,67407,7 hours,Udemy,$0,Yes,Advanced,2020
+516,SQL for Data Science,Data Science,Statistics,English,"Power BI, Excel, Deep Learning, R, Python",Laura Velez,3.9 stars,6585,60 hours,FutureLearn,$199,Yes,Intermediate,2023
+517,Introduction to Data Science in Python,Data Science,Machine Learning,Spanish,"Machine Learning, R, SQL, Data Analysis, Python",Elizabeth Cross,4.4 stars,23457,43 hours,edX,$99,Yes,Advanced,2024
+518,Business Analytics with Excel,Business,Leadership,French,"Critical Thinking, Leadership, Power BI, Communication, Excel",Angela Brown,4.5 stars,32838,19 hours,FutureLearn,$49,Yes,Beginner,2019
+519,Deep Learning Specialization,Data Science,Data Analysis,French,"R, SQL, Power BI, Python, Machine Learning",Hannah Montoya,4.4 stars,89897,56 hours,edX,$19,Yes,Advanced,2023
+520,Introduction to Data Science in Python,Data Science,Big Data,Spanish,"Machine Learning, SQL, Deep Learning, Python, Power BI",Sean Kane,3.6 stars,58141,58 hours,Coursera,$19,Yes,Intermediate,2022
+521,AWS Cloud Practitioner Essentials,IT & Software,DevOps,Hindi,"Critical Thinking, Networking, AWS, Azure, DevOps",Matthew Guzman,3.0 stars,49145,44 hours,FutureLearn,$0,Yes,Advanced,2023
+522,Excel to MySQL: Analytic Techniques,Data Science,Data Analysis,Spanish,"SQL, R, Data Analysis, Excel, Machine Learning",Richard Reyes,4.2 stars,23910,30 hours,FutureLearn,$49,Yes,Advanced,2023
+523,Machine Learning by Stanford University,Data Science,Deep Learning,Spanish,"Data Analysis, R, Deep Learning, Excel, Machine Learning",Andrew Fernandez,3.4 stars,65374,35 hours,edX,$19,Yes,Beginner,2019
+524,Python for Everybody,Data Science,Data Analysis,English,"Data Analysis, Python, Machine Learning, Power BI, Deep Learning",Jonathan Walker,3.3 stars,79344,13 hours,Coursera,$29,Yes,Advanced,2020
+525,Natural Language Processing with Deep Learning,IT & Software,Cybersecurity,French,"Azure, Networking, AWS, DevOps, Critical Thinking",Nicholas Long,3.4 stars,19975,42 hours,edX,$299,Yes,Intermediate,2024
+526,Natural Language Processing with Deep Learning,IT & Software,DevOps,French,"Azure, DevOps, AWS, Critical Thinking, Networking",Kurt Wagner,3.3 stars,81682,51 hours,edX,$199,Yes,Advanced,2024
+527,Cybersecurity for Business,Business,Business Analytics,Spanish,"Leadership, Critical Thinking, Excel, Power BI, Communication",Dylan Foster,4.2 stars,3647,46 hours,edX,$199,Yes,Beginner,2019
+528,Deep Learning Specialization,Business,Leadership,Hindi,"Excel, Leadership, Critical Thinking, Power BI, Communication",Bradley Duncan,3.1 stars,84296,10 hours,Udemy,$199,Yes,Beginner,2018
+529,Full-Stack Web Development with React,Computer Science,Web Development,Spanish,"JavaScript, SQL, AWS, React, Azure",James Miller,4.1 stars,57174,39 hours,FutureLearn,$199,Yes,Advanced,2021
+530,Cybersecurity for Business,Business,Finance,English,"Communication, Leadership, Critical Thinking, Power BI, Excel",Patricia Anderson,3.8 stars,40154,53 hours,Udemy,$29,Yes,Advanced,2018
+531,SQL for Data Science,Data Science,Machine Learning,French,"Power BI, SQL, R, Deep Learning, Machine Learning",Justin Freeman,3.5 stars,41214,38 hours,edX,$49,Yes,Advanced,2021
+532,Java Programming and Software Engineering,Computer Science,Cloud Computing,French,"SQL, React, Azure, AWS, JavaScript",Christina Gilbert,4.4 stars,28635,23 hours,Udemy,$99,Yes,Beginner,2022
+533,Introduction to Data Science in Python,Data Science,Deep Learning,Hindi,"Power BI, Excel, SQL, Deep Learning, Python",Danielle Jones,3.0 stars,90562,9 hours,Coursera,$19,Yes,Intermediate,2019
+534,Applied Data Science with Python,Data Science,Statistics,French,"R, Excel, SQL, Python, Data Analysis",Erica Glass,4.9 stars,74595,54 hours,Coursera,$199,Yes,Beginner,2021
+535,Applied Data Science with Python,Data Science,Statistics,English,"Excel, SQL, Machine Learning, R, Data Analysis",Michael Henderson,4.3 stars,67430,49 hours,Udemy,$99,Yes,Beginner,2023
+536,Data Structures and Algorithms Specialization,Data Science,Statistics,English,"Python, Excel, SQL, Machine Learning, R",Frank Wheeler,4.5 stars,97765,15 hours,Coursera,$49,Yes,Beginner,2018
+537,Cybersecurity for Business,Business,Marketing,French,"Excel, Power BI, Communication, Critical Thinking, Leadership",Eric Huerta,3.4 stars,12730,5 hours,edX,$99,Yes,Advanced,2018
+538,Big Data Essentials,Data Science,Data Analysis,English,"Data Analysis, Excel, SQL, R, Deep Learning",Wanda Ramos,4.9 stars,72602,49 hours,Udemy,$99,Yes,Intermediate,2024
+539,Full-Stack Web Development with React,Computer Science,Web Development,French,"Azure, AWS, JavaScript, React, Python",Andrew Meyers,3.3 stars,60050,53 hours,FutureLearn,$49,Yes,Beginner,2024
+540,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,Hindi,"Data Analysis, Power BI, R, SQL, Machine Learning",James Todd,3.4 stars,63493,31 hours,Coursera,$199,Yes,Advanced,2020
+541,Java Programming and Software Engineering,Computer Science,Programming,English,"Azure, AWS, React, JavaScript, Python",Ashley Brown,3.5 stars,72471,24 hours,Coursera,$49,Yes,Beginner,2018
+542,Natural Language Processing with Deep Learning,Business,Business Analytics,Hindi,"Power BI, Excel, Leadership, Communication, Critical Thinking",Tammy Melton,3.7 stars,24588,34 hours,Coursera,$0,Yes,Advanced,2021
+543,AWS Cloud Practitioner Essentials,IT & Software,Networking,English,"AWS, DevOps, Azure, Networking, Critical Thinking",Alexis Benson,3.8 stars,82563,51 hours,edX,$0,Yes,Advanced,2019
+544,The Science of Well-Being,Data Science,Statistics,English,"SQL, Power BI, Deep Learning, Data Analysis, Excel",Jerry Johnson,4.2 stars,61322,43 hours,FutureLearn,$299,Yes,Intermediate,2018
+545,Tableau Data Visualization,Data Science,Big Data,Spanish,"SQL, Data Analysis, R, Machine Learning, Excel",Joshua Harris,3.7 stars,65305,16 hours,Coursera,$99,Yes,Advanced,2024
+546,Deep Learning Specialization,Business,Finance,Hindi,"Critical Thinking, Communication, Power BI, Excel, Leadership",Deanna Webb,4.2 stars,46486,41 hours,Coursera,$299,Yes,Beginner,2020
+547,Statistics with Python,Data Science,Big Data,Spanish,"Machine Learning, Data Analysis, R, Deep Learning, SQL",Brenda Hale,3.4 stars,35860,47 hours,FutureLearn,$29,Yes,Advanced,2023
+548,AI For Everyone,Data Science,Machine Learning,Spanish,"Excel, Deep Learning, Data Analysis, SQL, Python",Kevin Alvarado,4.3 stars,18806,53 hours,FutureLearn,$49,Yes,Intermediate,2022
+549,Natural Language Processing with Deep Learning,Computer Science,Programming,English,"React, AWS, Azure, Python, JavaScript",Christopher Campbell,4.1 stars,78125,34 hours,edX,$99,Yes,Advanced,2023
+550,Excel to MySQL: Analytic Techniques,Data Science,Big Data,Spanish,"R, Excel, Data Analysis, Power BI, Deep Learning",Lisa Brown,3.2 stars,66823,17 hours,edX,$49,Yes,Beginner,2021
+551,AWS Cloud Practitioner Essentials,IT & Software,DevOps,English,"Azure, Networking, Critical Thinking, DevOps, AWS",Alejandra Price,5.0 stars,38499,54 hours,Coursera,$49,Yes,Intermediate,2020
+552,Cybersecurity for Business,Business,Marketing,Hindi,"Leadership, Excel, Communication, Critical Thinking, Power BI",Samuel Keller,3.2 stars,4215,15 hours,FutureLearn,$29,Yes,Beginner,2021
+553,Cybersecurity for Business,Business,Leadership,Hindi,"Critical Thinking, Power BI, Excel, Leadership, Communication",Alicia Dillon,3.5 stars,33217,27 hours,Coursera,$299,Yes,Beginner,2018
+554,Tableau Data Visualization,Data Science,Statistics,Spanish,"Machine Learning, Power BI, Deep Learning, Python, Data Analysis",Crystal James,4.3 stars,70991,40 hours,Udemy,$49,Yes,Advanced,2022
+555,Deep Learning Specialization,Arts,Painting,Hindi,"Creativity, Photography, Design, Communication",Ariana Stewart,3.0 stars,58699,55 hours,edX,$299,Yes,Beginner,2018
+556,Statistics with Python,Data Science,Machine Learning,French,"Machine Learning, Python, Deep Learning, Data Analysis, Excel",Kim Lopez,3.2 stars,78276,27 hours,Udemy,$299,Yes,Beginner,2020
+557,Google Data Analytics Certificate,Data Science,Big Data,French,"R, Python, Excel, Data Analysis, SQL",Judith House,5.0 stars,87258,59 hours,edX,$299,Yes,Intermediate,2021
+558,Java Programming and Software Engineering,Computer Science,Programming,French,"AWS, React, JavaScript, SQL, Azure",David Moreno,3.3 stars,84345,56 hours,Coursera,$99,Yes,Beginner,2018
+559,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,Spanish,"Power BI, Data Analysis, Deep Learning, Python, R",James Moore,4.8 stars,39816,21 hours,Udemy,$19,Yes,Advanced,2022
+560,Google Data Analytics Certificate,Data Science,Machine Learning,French,"Power BI, Machine Learning, Data Analysis, Deep Learning, Excel",Harold Garrett,4.6 stars,49150,15 hours,edX,$99,Yes,Beginner,2021
+561,Big Data Essentials,Data Science,Deep Learning,French,"Data Analysis, Python, Excel, Deep Learning, Machine Learning",William Mason,3.3 stars,55867,54 hours,Udemy,$299,Yes,Beginner,2024
+562,Business Analytics with Excel,Business,Business Analytics,Spanish,"Leadership, Power BI, Excel, Critical Thinking, Communication",Lori Johns,3.9 stars,3953,21 hours,FutureLearn,$199,Yes,Intermediate,2021
+563,Data Structures and Algorithms Specialization,Data Science,Big Data,Hindi,"R, Excel, Data Analysis, Deep Learning, Power BI",Robin Johnson,4.2 stars,42863,15 hours,Coursera,$99,Yes,Beginner,2022
+564,AWS Cloud Practitioner Essentials,IT & Software,Cybersecurity,Spanish,"Networking, AWS, Azure, DevOps, Critical Thinking",Diana Hernandez,4.5 stars,28694,11 hours,Udemy,$29,Yes,Advanced,2024
+565,Deep Learning Specialization,IT & Software,Cloud Computing,English,"AWS, Azure, DevOps, Critical Thinking, Networking",Mary Miller,4.9 stars,62005,20 hours,Udemy,$0,Yes,Advanced,2021
+566,Deep Learning Specialization,Arts,Photography,Spanish,"Communication, Design, Creativity, Photography",Tyler Salazar,4.4 stars,42204,40 hours,edX,$99,Yes,Beginner,2019
+567,Big Data Essentials,Data Science,Statistics,Spanish,"R, SQL, Deep Learning, Data Analysis, Power BI",Crystal Allen,3.2 stars,15259,37 hours,edX,$199,Yes,Intermediate,2020
+568,Applied Data Science with Python,Data Science,Statistics,English,"SQL, Machine Learning, Python, Deep Learning, Data Analysis",Wesley Browning,3.7 stars,78649,10 hours,edX,$0,No,Intermediate,2021
+569,Machine Learning by Stanford University,Data Science,Data Analysis,Hindi,"R, Machine Learning, SQL, Data Analysis, Deep Learning",Joshua Clark,3.6 stars,69427,51 hours,edX,$29,Yes,Beginner,2024
+570,Excel to MySQL: Analytic Techniques,Data Science,Big Data,Spanish,"SQL, Data Analysis, R, Power BI, Machine Learning",Joshua Mcbride,3.6 stars,79140,18 hours,Coursera,$19,Yes,Intermediate,2019
+571,Google Data Analytics Certificate,Data Science,Big Data,English,"Python, SQL, Power BI, Excel, Deep Learning",Ellen Thornton,4.7 stars,9097,49 hours,Udemy,$49,Yes,Beginner,2024
+572,Applied Data Science with Python,Data Science,Statistics,Hindi,"Data Analysis, Machine Learning, Python, R, Power BI",Brandy Forbes,4.6 stars,73083,9 hours,edX,$99,Yes,Beginner,2021
+573,Excel to MySQL: Analytic Techniques,Data Science,Statistics,Spanish,"Excel, SQL, Python, Data Analysis, Machine Learning",Brianna Fitzpatrick,4.4 stars,41185,16 hours,Coursera,$19,Yes,Intermediate,2023
+574,Full-Stack Web Development with React,Computer Science,Cybersecurity,English,"React, SQL, Python, Azure, JavaScript",Emily Grant,3.2 stars,74093,60 hours,Coursera,$49,Yes,Intermediate,2021
+575,Cybersecurity for Business,Business,Finance,French,"Excel, Communication, Power BI, Critical Thinking, Leadership",Bailey Stewart,3.9 stars,49763,15 hours,FutureLearn,$0,Yes,Advanced,2018
+576,The Science of Well-Being,Computer Science,Web Development,French,"Python, React, Azure, SQL, AWS",Monica Cannon,3.5 stars,44855,8 hours,Coursera,$49,Yes,Advanced,2018
+577,Introduction to Data Science in Python,Data Science,Machine Learning,Hindi,"Python, R, Power BI, Deep Learning, Data Analysis",Jennifer Jenkins,4.2 stars,69737,19 hours,edX,$49,Yes,Beginner,2018
+578,Full-Stack Web Development with React,Computer Science,Programming,Hindi,"AWS, Azure, React, SQL, Python",Timothy Shannon,4.3 stars,51200,22 hours,edX,$29,Yes,Advanced,2024
+579,Business Analytics with Excel,Business,Strategy,French,"Critical Thinking, Communication, Excel, Leadership, Power BI",Denise Maxwell,3.7 stars,93158,41 hours,edX,$299,Yes,Advanced,2019
+580,AI For Everyone,Data Science,Statistics,English,"SQL, Power BI, R, Python, Excel",Cody Farmer,3.9 stars,76620,34 hours,Coursera,$19,Yes,Beginner,2020
+581,Python for Everybody,Data Science,Statistics,English,"Machine Learning, Deep Learning, R, Excel, Python",Debra Bradley,4.9 stars,98484,42 hours,edX,$49,Yes,Intermediate,2020
+582,Business Analytics with Excel,Business,Leadership,French,"Communication, Excel, Critical Thinking, Power BI, Leadership",David Mcdaniel,5.0 stars,13837,10 hours,Udemy,$99,Yes,Advanced,2019
+583,Google Data Analytics Certificate,Data Science,Machine Learning,English,"Machine Learning, R, Power BI, Data Analysis, Excel",Michael Woods,4.6 stars,75875,20 hours,FutureLearn,$299,Yes,Advanced,2018
+584,Full-Stack Web Development with React,Computer Science,Cybersecurity,English,"SQL, AWS, JavaScript, React, Azure",Lisa Joseph,3.9 stars,75740,8 hours,edX,$299,Yes,Intermediate,2019
+585,Java Programming and Software Engineering,Computer Science,Cloud Computing,Spanish,"React, AWS, Python, JavaScript, Azure",Samuel Henry,4.5 stars,70677,53 hours,Coursera,$0,Yes,Advanced,2021
+586,The Science of Well-Being,Data Science,Data Analysis,English,"Machine Learning, SQL, Deep Learning, Excel, Python",Corey Johnson,3.2 stars,31705,55 hours,Coursera,$199,Yes,Beginner,2019
+587,Tableau Data Visualization,Data Science,Statistics,Spanish,"Data Analysis, Power BI, R, Machine Learning, Excel",Alexis Nelson,3.7 stars,31996,51 hours,FutureLearn,$19,Yes,Beginner,2022
+588,Python for Everybody,Data Science,Machine Learning,Spanish,"Deep Learning, Power BI, R, Python, Excel",Patrick Mcneil,3.7 stars,17877,24 hours,Udemy,$0,Yes,Advanced,2021
+589,SQL for Data Science,Data Science,Deep Learning,French,"Power BI, Python, Data Analysis, R, Machine Learning",Andrea Ho,4.5 stars,18431,33 hours,Coursera,$19,Yes,Beginner,2023
+590,Big Data Essentials,Data Science,Data Analysis,English,"Power BI, R, SQL, Deep Learning, Data Analysis",Dr. Katherine Nguyen,4.4 stars,82233,26 hours,edX,$19,Yes,Intermediate,2018
+591,AI For Everyone,Data Science,Data Analysis,Spanish,"R, Machine Learning, Deep Learning, SQL, Python",David Sullivan,4.7 stars,49327,20 hours,FutureLearn,$199,Yes,Advanced,2019
+592,Java Programming and Software Engineering,Computer Science,Cybersecurity,French,"SQL, JavaScript, AWS, Python, Azure",Nicolas James,4.9 stars,80505,7 hours,Udemy,$19,Yes,Advanced,2019
+593,The Science of Well-Being,Arts,Creative Writing,French,"Design, Communication, Creativity, Photography",Logan Newton,5.0 stars,85317,29 hours,FutureLearn,$99,Yes,Beginner,2020
+594,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Spanish,"R, SQL, Excel, Python, Machine Learning",Kelly Liu,3.5 stars,92478,48 hours,FutureLearn,$299,Yes,Beginner,2018
+595,SQL for Data Science,Data Science,Machine Learning,Spanish,"Excel, Data Analysis, Deep Learning, SQL, Power BI",Kelly Hayes,3.8 stars,34912,7 hours,edX,$99,Yes,Beginner,2018
+596,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Hindi,"Python, SQL, Machine Learning, Power BI, Excel",Amanda Forbes,4.0 stars,27432,32 hours,Udemy,$29,Yes,Advanced,2024
+597,The Science of Well-Being,Data Science,Data Analysis,Hindi,"R, Deep Learning, Data Analysis, Machine Learning, Python",Jennifer Moss,4.2 stars,27810,6 hours,FutureLearn,$99,Yes,Advanced,2024
+598,Introduction to Data Science in Python,Data Science,Machine Learning,Hindi,"Power BI, Machine Learning, Excel, Data Analysis, Python",Kelli Mccoy,3.3 stars,70430,53 hours,edX,$99,Yes,Advanced,2022
+599,Google Data Analytics Certificate,Data Science,Big Data,Hindi,"R, Power BI, Data Analysis, Deep Learning, Python",Eddie Sanders,4.7 stars,43176,39 hours,FutureLearn,$299,Yes,Beginner,2024
+600,Deep Learning Specialization,Arts,Design,French,"Communication, Design, Creativity, Photography",Ronald Murray,4.6 stars,73493,12 hours,Coursera,$199,Yes,Intermediate,2024
+601,Tableau Data Visualization,Data Science,Data Analysis,French,"Python, SQL, Data Analysis, Power BI, Excel",Louis Brown,3.4 stars,61689,33 hours,edX,$99,Yes,Advanced,2019
+602,The Science of Well-Being,Business,Business Analytics,Spanish,"Critical Thinking, Communication, Excel, Power BI, Leadership",Brenda Gallegos,3.2 stars,94138,5 hours,Coursera,$299,Yes,Advanced,2018
+603,Introduction to Data Science in Python,Data Science,Data Analysis,Hindi,"Machine Learning, R, Deep Learning, Excel, Python",Nathan Wilson,3.8 stars,45802,21 hours,Udemy,$19,Yes,Beginner,2020
+604,Big Data Essentials,Data Science,Machine Learning,Spanish,"Data Analysis, Power BI, SQL, Python, R",Teresa Horton,3.9 stars,17657,5 hours,edX,$199,Yes,Intermediate,2018
+605,Tableau Data Visualization,Data Science,Machine Learning,Hindi,"Python, Deep Learning, Power BI, Machine Learning, Data Analysis",Jason Hayes,3.3 stars,48758,54 hours,Udemy,$0,Yes,Advanced,2023
+606,Applied Data Science with Python,Data Science,Machine Learning,Hindi,"Python, R, Machine Learning, Power BI, Data Analysis",Kevin Marquez,3.3 stars,36413,39 hours,FutureLearn,$0,No,Beginner,2022
+607,Full-Stack Web Development with React,Computer Science,Cloud Computing,Hindi,"Python, React, SQL, AWS, Azure",Jesse Wright,3.4 stars,10340,36 hours,edX,$19,Yes,Beginner,2019
+608,Big Data Essentials,Data Science,Data Analysis,English,"Python, Data Analysis, Deep Learning, SQL, R",Susan Hogan,3.2 stars,81608,8 hours,Coursera,$49,Yes,Beginner,2020
+609,AWS Cloud Practitioner Essentials,IT & Software,DevOps,French,"Critical Thinking, DevOps, AWS, Azure, Networking",Becky Wilson,3.0 stars,71685,30 hours,FutureLearn,$0,Yes,Advanced,2023
+610,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,Hindi,"Python, SQL, Excel, Deep Learning, Data Analysis",Jack Mills,3.8 stars,54377,51 hours,Udemy,$299,Yes,Beginner,2022
+611,Python for Everybody,Data Science,Data Analysis,Spanish,"Machine Learning, Excel, R, Deep Learning, Python",Richard Hunt,3.9 stars,79387,25 hours,Coursera,$0,No,Beginner,2018
+612,Machine Learning by Stanford University,Data Science,Big Data,French,"Machine Learning, SQL, Data Analysis, R, Python",Jamie James,3.4 stars,60586,10 hours,Udemy,$0,No,Beginner,2023
+613,Business Analytics with Excel,Business,Finance,French,"Excel, Power BI, Leadership, Communication, Critical Thinking",Susan Cunningham,4.1 stars,97518,37 hours,FutureLearn,$99,Yes,Beginner,2023
+614,Statistics with Python,Data Science,Big Data,Spanish,"Excel, SQL, Power BI, Python, R",Brittany Melton,3.6 stars,93153,54 hours,edX,$299,Yes,Advanced,2021
+615,Deep Learning Specialization,Data Science,Big Data,English,"SQL, R, Excel, Power BI, Python",Michael Barnes,3.9 stars,40259,20 hours,FutureLearn,$49,Yes,Beginner,2019
+616,AI For Everyone,Data Science,Deep Learning,English,"R, Data Analysis, SQL, Deep Learning, Power BI",Randy Griffin,4.3 stars,2118,14 hours,edX,$19,Yes,Beginner,2019
+617,Business Analytics with Excel,Business,Strategy,French,"Communication, Leadership, Critical Thinking, Power BI, Excel",Autumn Anderson,4.6 stars,62288,16 hours,FutureLearn,$29,Yes,Advanced,2018
+618,Tableau Data Visualization,Data Science,Deep Learning,Hindi,"Data Analysis, Machine Learning, Deep Learning, Excel, R",Marcus King,4.8 stars,61746,31 hours,Coursera,$0,Yes,Advanced,2021
+619,Applied Data Science with Python,Data Science,Statistics,Spanish,"R, Deep Learning, Excel, Python, SQL",Scott Stephens,4.7 stars,47166,42 hours,edX,$29,Yes,Beginner,2021
+620,AI For Everyone,Data Science,Machine Learning,English,"Data Analysis, Python, Power BI, R, Deep Learning",Stephen Young,3.3 stars,56443,39 hours,FutureLearn,$29,Yes,Advanced,2020
+621,Google Data Analytics Certificate,Data Science,Statistics,French,"Power BI, Data Analysis, Machine Learning, R, Deep Learning",Karen Ortiz,3.3 stars,60866,29 hours,Coursera,$299,Yes,Beginner,2022
+622,Tableau Data Visualization,Data Science,Statistics,Hindi,"R, Data Analysis, Machine Learning, Power BI, Python",Kyle Sanchez,3.9 stars,86260,40 hours,Coursera,$99,Yes,Advanced,2018
+623,Natural Language Processing with Deep Learning,IT & Software,Cloud Computing,Spanish,"DevOps, Networking, Critical Thinking, AWS, Azure",Lisa Grant,3.1 stars,53009,41 hours,Udemy,$49,Yes,Intermediate,2022
+624,Natural Language Processing with Deep Learning,Business,Business Analytics,French,"Communication, Excel, Critical Thinking, Power BI, Leadership",Amber Hernandez,4.9 stars,5221,37 hours,Udemy,$29,Yes,Beginner,2019
+625,AWS Cloud Practitioner Essentials,IT & Software,DevOps,English,"Networking, Critical Thinking, Azure, AWS, DevOps",Amanda Nash,3.3 stars,21923,17 hours,FutureLearn,$199,Yes,Advanced,2023
+626,Natural Language Processing with Deep Learning,Business,Leadership,English,"Communication, Power BI, Leadership, Critical Thinking, Excel",Sara Evans,3.0 stars,71998,38 hours,FutureLearn,$0,No,Beginner,2024
+627,Java Programming and Software Engineering,Computer Science,Cybersecurity,English,"Azure, React, AWS, JavaScript, SQL",Amber Butler,3.0 stars,68400,41 hours,Coursera,$99,Yes,Beginner,2020
+628,Natural Language Processing with Deep Learning,Data Science,Big Data,Hindi,"Python, Excel, R, Power BI, Machine Learning",Michael Carr,4.6 stars,18301,48 hours,FutureLearn,$99,Yes,Beginner,2021
+629,Python for Everybody,Data Science,Statistics,English,"Excel, Deep Learning, Power BI, R, Python",Linda Cobb,4.1 stars,96183,26 hours,edX,$49,Yes,Advanced,2024
+630,Big Data Essentials,Data Science,Machine Learning,English,"Power BI, Machine Learning, Data Analysis, Excel, SQL",Jesse Riley,3.0 stars,78313,57 hours,edX,$0,Yes,Advanced,2019
+631,Statistics with Python,Data Science,Deep Learning,English,"Power BI, Python, Excel, SQL, Machine Learning",Anna Evans,4.0 stars,11262,25 hours,Coursera,$0,Yes,Advanced,2022
+632,Python for Everybody,Data Science,Statistics,Spanish,"Deep Learning, Excel, Data Analysis, Power BI, SQL",James Jones,3.3 stars,2481,17 hours,edX,$299,Yes,Advanced,2018
+633,Deep Learning Specialization,Data Science,Data Analysis,English,"Machine Learning, Data Analysis, SQL, Power BI, Excel",Joshua Carter,3.9 stars,49260,41 hours,edX,$49,Yes,Intermediate,2022
+634,SQL for Data Science,Data Science,Data Analysis,English,"Power BI, Machine Learning, Excel, SQL, Python",Michael Hill,4.1 stars,35095,46 hours,Coursera,$0,No,Beginner,2023
+635,Tableau Data Visualization,Data Science,Statistics,Hindi,"SQL, Deep Learning, R, Excel, Power BI",Kelly Dominguez,4.0 stars,78279,54 hours,edX,$199,Yes,Beginner,2019
+636,AI For Everyone,Data Science,Big Data,Spanish,"Data Analysis, Python, R, Excel, Power BI",Ashley Blair,4.4 stars,17918,34 hours,Udemy,$49,Yes,Intermediate,2023
+637,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,English,"Power BI, Data Analysis, SQL, Deep Learning, Excel",Victoria Webb,3.0 stars,11528,15 hours,Coursera,$49,Yes,Advanced,2019
+638,Data Structures and Algorithms Specialization,Data Science,Statistics,Hindi,"Deep Learning, Python, R, Power BI, Machine Learning",Taylor Andersen,4.6 stars,43008,27 hours,Coursera,$0,No,Intermediate,2023
+639,Tableau Data Visualization,Data Science,Big Data,English,"SQL, Python, Power BI, Machine Learning, Excel",Lee Stewart,3.5 stars,53629,6 hours,Coursera,$19,Yes,Beginner,2019
+640,Natural Language Processing with Deep Learning,IT & Software,Cybersecurity,Hindi,"Critical Thinking, Azure, DevOps, AWS, Networking",Whitney Gomez,3.4 stars,16766,41 hours,FutureLearn,$0,No,Beginner,2020
+641,Applied Data Science with Python,Data Science,Machine Learning,French,"Data Analysis, Python, Deep Learning, Excel, R",Justin Stone,4.5 stars,57145,53 hours,edX,$0,No,Beginner,2024
+642,Google Data Analytics Certificate,Data Science,Data Analysis,Hindi,"R, Machine Learning, Deep Learning, Python, Data Analysis",Katherine White,4.8 stars,57746,31 hours,Udemy,$199,Yes,Advanced,2020
+643,Tableau Data Visualization,Data Science,Big Data,English,"Python, Excel, R, Power BI, Data Analysis",Michelle Krause,3.7 stars,94364,52 hours,Udemy,$19,Yes,Advanced,2020
+644,AI For Everyone,Data Science,Big Data,French,"Data Analysis, Excel, SQL, Power BI, Machine Learning",Alexander Garrett,5.0 stars,70191,15 hours,Udemy,$0,No,Intermediate,2024
+645,Data Structures and Algorithms Specialization,Data Science,Machine Learning,English,"Data Analysis, Power BI, Machine Learning, SQL, Deep Learning",Ryan Marsh,4.0 stars,54928,50 hours,FutureLearn,$49,Yes,Intermediate,2023
+646,Google Data Analytics Certificate,Data Science,Big Data,French,"Data Analysis, Power BI, SQL, Excel, Python",Mrs. Felicia Castro DDS,4.8 stars,53678,59 hours,FutureLearn,$99,Yes,Advanced,2024
+647,The Science of Well-Being,Computer Science,Cybersecurity,English,"React, Azure, JavaScript, SQL, AWS",Curtis Campbell,4.3 stars,47496,5 hours,Coursera,$99,Yes,Intermediate,2018
+648,Full-Stack Web Development with React,Computer Science,Cybersecurity,Hindi,"AWS, Azure, React, Python, JavaScript",Elizabeth Hunter,3.6 stars,35735,56 hours,Udemy,$19,Yes,Intermediate,2018
+649,Applied Data Science with Python,Data Science,Data Analysis,Hindi,"Power BI, Deep Learning, Machine Learning, R, SQL",Aaron Jennings,3.2 stars,83618,32 hours,edX,$0,Yes,Advanced,2023
+650,Machine Learning by Stanford University,Data Science,Data Analysis,French,"Data Analysis, Excel, Power BI, R, SQL",Nathaniel Gilbert,4.3 stars,36329,56 hours,edX,$0,Yes,Advanced,2024
+651,Data Structures and Algorithms Specialization,Data Science,Machine Learning,Hindi,"SQL, Python, Deep Learning, R, Machine Learning",Christopher Rivera,4.1 stars,10626,38 hours,Udemy,$299,Yes,Intermediate,2019
+652,Data Structures and Algorithms Specialization,Data Science,Machine Learning,Spanish,"Power BI, SQL, Data Analysis, Excel, Deep Learning",Michael Hendricks,4.0 stars,65988,56 hours,Udemy,$199,Yes,Advanced,2018
+653,Applied Data Science with Python,Data Science,Statistics,French,"R, Excel, Machine Learning, Power BI, Python",Maria Olson,3.5 stars,2496,27 hours,Coursera,$49,Yes,Beginner,2018
+654,Deep Learning Specialization,Business,Leadership,Hindi,"Excel, Communication, Power BI, Leadership, Critical Thinking",Stephanie Herrera,3.5 stars,3941,12 hours,FutureLearn,$0,No,Beginner,2020
+655,Google Data Analytics Certificate,Data Science,Statistics,French,"Power BI, Python, SQL, Machine Learning, Deep Learning",Richard Gutierrez,3.1 stars,7761,17 hours,Udemy,$0,No,Beginner,2023
+656,Full-Stack Web Development with React,Computer Science,Web Development,English,"JavaScript, AWS, React, SQL, Azure",Sandy Evans,4.6 stars,4351,5 hours,Udemy,$0,No,Intermediate,2021
+657,Business Analytics with Excel,Business,Leadership,French,"Excel, Leadership, Communication, Power BI, Critical Thinking",Emily Herrera,4.5 stars,72815,31 hours,Coursera,$99,Yes,Advanced,2018
+658,Java Programming and Software Engineering,Computer Science,Cloud Computing,Spanish,"Python, SQL, JavaScript, AWS, Azure",Michael Marsh,4.7 stars,83479,34 hours,edX,$0,No,Intermediate,2018
+659,Introduction to Data Science in Python,Data Science,Machine Learning,Hindi,"SQL, Excel, Machine Learning, Data Analysis, Power BI",Heather Montes,4.4 stars,3066,35 hours,Udemy,$29,Yes,Advanced,2022
+660,Java Programming and Software Engineering,Computer Science,Cloud Computing,English,"AWS, JavaScript, React, Azure, Python",Andre Terrell,4.4 stars,61434,12 hours,FutureLearn,$99,Yes,Beginner,2021
+661,Statistics with Python,Data Science,Machine Learning,Hindi,"SQL, Power BI, R, Machine Learning, Excel",Sarah Duncan,4.4 stars,99474,42 hours,FutureLearn,$19,Yes,Intermediate,2021
+662,Machine Learning by Stanford University,Data Science,Big Data,Hindi,"SQL, R, Excel, Machine Learning, Data Analysis",Kurt Hancock,3.1 stars,55048,40 hours,Coursera,$299,Yes,Beginner,2019
+663,Cybersecurity for Business,Business,Marketing,English,"Power BI, Leadership, Communication, Excel, Critical Thinking",Michele Edwards,3.0 stars,85471,21 hours,edX,$49,Yes,Beginner,2024
+664,Big Data Essentials,Data Science,Deep Learning,English,"Machine Learning, Excel, SQL, Deep Learning, Python",Jason Crawford,4.6 stars,50490,43 hours,FutureLearn,$49,Yes,Advanced,2020
+665,Natural Language Processing with Deep Learning,Arts,Painting,French,"Communication, Photography, Design, Creativity",Jesse Sampson,4.4 stars,46828,9 hours,FutureLearn,$49,Yes,Advanced,2023
+666,Excel to MySQL: Analytic Techniques,Data Science,Machine Learning,English,"Machine Learning, R, Data Analysis, SQL, Python",Eric Rodriguez,4.5 stars,53390,24 hours,Udemy,$29,Yes,Intermediate,2018
+667,Java Programming and Software Engineering,Computer Science,Programming,Spanish,"React, JavaScript, Python, AWS, Azure",Paula Gentry,4.8 stars,20618,23 hours,Udemy,$0,Yes,Advanced,2023
+668,Deep Learning Specialization,Data Science,Statistics,English,"Machine Learning, R, SQL, Data Analysis, Power BI",Alexander Webb,3.4 stars,1439,24 hours,Coursera,$99,Yes,Advanced,2021
+669,Machine Learning by Stanford University,Data Science,Statistics,Hindi,"SQL, Power BI, Python, Data Analysis, Excel",Cheryl Mclean,3.2 stars,9441,29 hours,FutureLearn,$0,Yes,Advanced,2020
+670,Business Analytics with Excel,Business,Strategy,Spanish,"Critical Thinking, Communication, Excel, Leadership, Power BI",Kelly Rowe,3.5 stars,72183,10 hours,Coursera,$199,Yes,Beginner,2020
+671,Full-Stack Web Development with React,Computer Science,Programming,Hindi,"JavaScript, SQL, React, Python, AWS",Shane Short,4.0 stars,76804,55 hours,FutureLearn,$299,Yes,Beginner,2020
+672,Excel to MySQL: Analytic Techniques,Data Science,Big Data,English,"Machine Learning, R, Data Analysis, Deep Learning, Python",Megan Anderson,4.8 stars,64676,26 hours,Coursera,$19,Yes,Beginner,2019
+673,Python for Everybody,Data Science,Statistics,Spanish,"Deep Learning, Power BI, R, Machine Learning, Python",Julia Reeves,3.5 stars,49432,59 hours,Coursera,$29,Yes,Advanced,2024
+674,Statistics with Python,Data Science,Statistics,Spanish,"Excel, SQL, Power BI, Machine Learning, Python",April Randolph,4.6 stars,57133,53 hours,edX,$19,Yes,Intermediate,2021
+675,Business Analytics with Excel,Business,Finance,English,"Critical Thinking, Excel, Leadership, Power BI, Communication",Linda Miller,3.1 stars,26782,8 hours,FutureLearn,$49,Yes,Beginner,2020
+676,Cybersecurity for Business,Business,Finance,English,"Communication, Critical Thinking, Power BI, Leadership, Excel",Angel Meyer,3.4 stars,63889,25 hours,edX,$199,Yes,Beginner,2022
+677,Natural Language Processing with Deep Learning,Data Science,Deep Learning,French,"Excel, Data Analysis, Python, Power BI, R",Emily Lane,4.3 stars,50342,8 hours,Udemy,$199,Yes,Advanced,2019
+678,Deep Learning Specialization,Computer Science,Cybersecurity,Spanish,"React, AWS, Azure, JavaScript, Python",Steven Flores,5.0 stars,58911,31 hours,FutureLearn,$19,Yes,Intermediate,2019
+679,AI For Everyone,Data Science,Machine Learning,English,"Excel, Deep Learning, Machine Learning, SQL, R",Donald Flores,4.7 stars,92690,18 hours,edX,$49,Yes,Beginner,2023
+680,The Science of Well-Being,IT & Software,DevOps,Hindi,"DevOps, Critical Thinking, Networking, AWS, Azure",Bruce Hernandez,3.4 stars,69438,32 hours,FutureLearn,$99,Yes,Advanced,2018
+681,SQL for Data Science,Data Science,Big Data,Hindi,"Python, Power BI, Data Analysis, R, Machine Learning",Adrian Dean,3.4 stars,91053,26 hours,edX,$99,Yes,Beginner,2020
+682,Deep Learning Specialization,Data Science,Data Analysis,Hindi,"Python, Deep Learning, R, Power BI, SQL",Christine Bell,4.2 stars,97382,10 hours,edX,$49,Yes,Advanced,2024
+683,Introduction to Data Science in Python,Data Science,Big Data,Spanish,"Power BI, Data Analysis, Python, Excel, SQL",Charles Bush,3.8 stars,7672,52 hours,FutureLearn,$199,Yes,Advanced,2022
+684,Java Programming and Software Engineering,Computer Science,Cloud Computing,English,"React, SQL, AWS, Python, JavaScript",David Jones,4.2 stars,3720,20 hours,edX,$49,Yes,Beginner,2024
+685,The Science of Well-Being,Business,Finance,Hindi,"Excel, Critical Thinking, Communication, Leadership, Power BI",Gina Wallace,3.4 stars,92658,16 hours,Udemy,$199,Yes,Advanced,2019
+686,AWS Cloud Practitioner Essentials,IT & Software,DevOps,French,"AWS, Critical Thinking, DevOps, Azure, Networking",John Lowe,3.9 stars,15919,36 hours,Coursera,$199,Yes,Intermediate,2019
+687,Statistics with Python,Data Science,Machine Learning,Spanish,"R, SQL, Excel, Deep Learning, Data Analysis",Anthony Simmons,3.5 stars,72515,30 hours,Udemy,$0,No,Beginner,2020
+688,Natural Language Processing with Deep Learning,Business,Leadership,Hindi,"Critical Thinking, Leadership, Power BI, Communication, Excel",Kyle Watkins,4.5 stars,74632,55 hours,Coursera,$0,No,Beginner,2020
+689,Cybersecurity for Business,Business,Business Analytics,English,"Critical Thinking, Communication, Excel, Leadership, Power BI",Melissa Jensen,4.7 stars,59158,34 hours,Coursera,$49,Yes,Beginner,2024
+690,Deep Learning Specialization,Data Science,Big Data,Spanish,"Machine Learning, Excel, Python, Data Analysis, Deep Learning",Robert Marquez,4.2 stars,27451,16 hours,FutureLearn,$0,No,Intermediate,2019
+691,Excel to MySQL: Analytic Techniques,Data Science,Data Analysis,French,"R, Machine Learning, Excel, SQL, Python",Kim Beltran,3.3 stars,36621,55 hours,FutureLearn,$299,Yes,Intermediate,2019
+692,Natural Language Processing with Deep Learning,IT & Software,Cloud Computing,Spanish,"Critical Thinking, Azure, Networking, AWS, DevOps",Julie Anderson,3.5 stars,20583,27 hours,edX,$299,Yes,Beginner,2023
+693,Deep Learning Specialization,IT & Software,Cybersecurity,French,"Critical Thinking, Azure, AWS, DevOps, Networking",Tamara Mcdonald,3.4 stars,11504,15 hours,Coursera,$299,Yes,Intermediate,2019
+694,Statistics with Python,Data Science,Data Analysis,French,"Python, Data Analysis, R, Machine Learning, Excel",Michael Mckinney,4.4 stars,59418,30 hours,edX,$19,Yes,Beginner,2021
+695,Natural Language Processing with Deep Learning,Business,Strategy,Spanish,"Communication, Power BI, Leadership, Excel, Critical Thinking",David Walker,3.0 stars,94837,5 hours,FutureLearn,$99,Yes,Intermediate,2024
+696,Introduction to Data Science in Python,Data Science,Machine Learning,English,"Power BI, Deep Learning, Machine Learning, Data Analysis, Excel",Lisa Durham,3.3 stars,71618,5 hours,Coursera,$299,Yes,Advanced,2024
+697,Full-Stack Web Development with React,Computer Science,Web Development,Spanish,"AWS, JavaScript, Python, Azure, SQL",Michael Ortega,4.8 stars,31320,44 hours,Coursera,$29,Yes,Intermediate,2020
+698,Tableau Data Visualization,Data Science,Statistics,Hindi,"Python, R, SQL, Deep Learning, Power BI",Sonya Chavez,3.5 stars,22816,5 hours,Udemy,$29,Yes,Beginner,2020
+699,Data Structures and Algorithms Specialization,Data Science,Machine Learning,English,"Python, SQL, Data Analysis, Deep Learning, R",John Bell,3.2 stars,95702,19 hours,edX,$299,Yes,Intermediate,2020
+700,Full-Stack Web Development with React,Computer Science,Programming,Hindi,"Python, React, SQL, AWS, JavaScript",Christopher Tate,4.5 stars,32291,17 hours,Udemy,$99,Yes,Intermediate,2024
+701,Java Programming and Software Engineering,Computer Science,Web Development,English,"React, Python, Azure, JavaScript, SQL",Bethany Garcia,3.7 stars,97961,52 hours,Udemy,$299,Yes,Beginner,2019
+702,Python for Everybody,Data Science,Data Analysis,Spanish,"R, Python, SQL, Excel, Power BI",Rebecca Nguyen,4.5 stars,51587,25 hours,Udemy,$49,Yes,Beginner,2018
+703,Google Data Analytics Certificate,Data Science,Deep Learning,French,"Machine Learning, Excel, Power BI, SQL, Python",Rebecca Patel,3.6 stars,48818,22 hours,Udemy,$49,Yes,Beginner,2018
+704,Full-Stack Web Development with React,Computer Science,Cloud Computing,Hindi,"Python, AWS, SQL, React, JavaScript",Jason Oliver,4.8 stars,44913,44 hours,Coursera,$99,Yes,Advanced,2019
+705,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,Spanish,"Power BI, Machine Learning, Python, SQL, Deep Learning",Valerie Reyes,3.5 stars,52631,13 hours,FutureLearn,$49,Yes,Intermediate,2021
+706,Java Programming and Software Engineering,Computer Science,Cybersecurity,Hindi,"Python, AWS, React, Azure, SQL",Robert Garza,4.4 stars,81470,32 hours,Coursera,$0,No,Intermediate,2024
+707,The Science of Well-Being,Business,Leadership,Hindi,"Leadership, Excel, Communication, Critical Thinking, Power BI",Jessica Cobb,3.5 stars,25141,15 hours,Coursera,$299,Yes,Beginner,2020
+708,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,Hindi,"Deep Learning, Data Analysis, Python, Power BI, Excel",Cynthia Bates,4.4 stars,18394,11 hours,Coursera,$29,Yes,Intermediate,2019
+709,Python for Everybody,Data Science,Machine Learning,French,"Excel, Machine Learning, R, Power BI, SQL",Timothy Andrews,4.2 stars,16726,28 hours,edX,$29,Yes,Beginner,2019
+710,Natural Language Processing with Deep Learning,Data Science,Statistics,Hindi,"Machine Learning, Deep Learning, Data Analysis, Power BI, Python",Mr. Joel Peters,4.5 stars,1073,24 hours,FutureLearn,$99,Yes,Intermediate,2018
+711,Business Analytics with Excel,Business,Finance,Hindi,"Critical Thinking, Power BI, Communication, Leadership, Excel",Casey Blanchard,4.2 stars,73263,32 hours,edX,$19,Yes,Beginner,2020
+712,Business Analytics with Excel,Business,Strategy,Spanish,"Leadership, Excel, Critical Thinking, Communication, Power BI",Brian Cervantes,3.1 stars,68226,26 hours,edX,$49,Yes,Advanced,2022
+713,Java Programming and Software Engineering,Computer Science,Web Development,French,"Azure, AWS, Python, React, SQL",Jamie Snyder,3.3 stars,22631,6 hours,edX,$199,Yes,Intermediate,2021
+714,Deep Learning Specialization,Business,Strategy,Spanish,"Excel, Communication, Power BI, Leadership, Critical Thinking",Ann Montoya,3.2 stars,76856,30 hours,Udemy,$199,Yes,Advanced,2019
+715,AI For Everyone,Data Science,Deep Learning,Hindi,"Data Analysis, Power BI, Excel, Python, R",Stephanie Fields,3.7 stars,87090,45 hours,FutureLearn,$99,Yes,Beginner,2024
+716,Excel to MySQL: Analytic Techniques,Data Science,Data Analysis,Spanish,"Excel, SQL, R, Machine Learning, Power BI",Charles Hernandez,4.8 stars,84788,5 hours,Coursera,$99,Yes,Beginner,2024
+717,Deep Learning Specialization,Business,Business Analytics,English,"Communication, Leadership, Excel, Critical Thinking, Power BI",Jean Lane,4.2 stars,85968,31 hours,FutureLearn,$299,Yes,Beginner,2024
+718,Cybersecurity for Business,Business,Finance,Spanish,"Leadership, Excel, Critical Thinking, Communication, Power BI",Michael Stewart,4.7 stars,6996,42 hours,edX,$29,Yes,Intermediate,2019
+719,Java Programming and Software Engineering,Computer Science,Web Development,Hindi,"JavaScript, React, SQL, AWS, Azure",Susan Torres,4.2 stars,6640,52 hours,Coursera,$0,Yes,Advanced,2019
+720,Deep Learning Specialization,Business,Marketing,French,"Excel, Power BI, Leadership, Communication, Critical Thinking",Jessica Haas,3.2 stars,77679,19 hours,FutureLearn,$299,Yes,Beginner,2023
+721,SQL for Data Science,Data Science,Machine Learning,English,"Power BI, Python, R, SQL, Machine Learning",Brandon Smith,3.6 stars,36929,30 hours,Coursera,$49,Yes,Advanced,2023
+722,Tableau Data Visualization,Data Science,Big Data,Hindi,"Python, Machine Learning, Power BI, SQL, Deep Learning",Mrs. Bethany Phillips,4.4 stars,93584,27 hours,Coursera,$29,Yes,Beginner,2022
+723,Google Data Analytics Certificate,Data Science,Data Analysis,English,"Machine Learning, Excel, SQL, Deep Learning, Data Analysis",Joshua Brown,3.9 stars,55885,47 hours,Udemy,$49,Yes,Beginner,2023
+724,Business Analytics with Excel,Business,Leadership,Spanish,"Excel, Power BI, Critical Thinking, Leadership, Communication",Samantha Howard,3.6 stars,12309,32 hours,edX,$199,Yes,Beginner,2019
+725,Cybersecurity for Business,Business,Leadership,Hindi,"Critical Thinking, Communication, Excel, Power BI, Leadership",Sharon Young,3.9 stars,60907,35 hours,FutureLearn,$199,Yes,Advanced,2020
+726,Python for Everybody,Data Science,Big Data,Spanish,"Power BI, Excel, Python, Machine Learning, SQL",Jennifer Flores,4.2 stars,23700,44 hours,Coursera,$299,Yes,Intermediate,2021
+727,Introduction to Data Science in Python,Data Science,Machine Learning,English,"Excel, Data Analysis, Power BI, Python, Machine Learning",James Gardner,4.7 stars,64903,44 hours,Udemy,$0,No,Beginner,2020
+728,Deep Learning Specialization,Business,Leadership,Spanish,"Excel, Communication, Critical Thinking, Leadership, Power BI",Karen Lopez,4.5 stars,10293,54 hours,FutureLearn,$29,Yes,Beginner,2019
+729,Introduction to Data Science in Python,Data Science,Data Analysis,Spanish,"Deep Learning, Machine Learning, Data Analysis, SQL, Power BI",Tim Larsen,3.9 stars,99826,5 hours,Udemy,$99,Yes,Intermediate,2024
+730,SQL for Data Science,Data Science,Data Analysis,English,"Deep Learning, Excel, SQL, Machine Learning, Power BI",Zachary Santiago,3.6 stars,61390,16 hours,Udemy,$49,Yes,Advanced,2021
+731,Excel to MySQL: Analytic Techniques,Data Science,Data Analysis,Spanish,"SQL, Deep Learning, Python, Power BI, Data Analysis",Benjamin Smith,4.3 stars,41119,35 hours,edX,$19,Yes,Beginner,2018
+732,Big Data Essentials,Data Science,Big Data,English,"R, SQL, Data Analysis, Excel, Python",Katelyn Kim,4.2 stars,28984,35 hours,Coursera,$299,Yes,Intermediate,2023
+733,Statistics with Python,Data Science,Big Data,Hindi,"Python, Data Analysis, Machine Learning, Deep Learning, Excel",Angela May MD,3.9 stars,68591,21 hours,edX,$29,Yes,Beginner,2021
+734,AI For Everyone,Data Science,Machine Learning,Spanish,"Power BI, Deep Learning, Machine Learning, Python, Excel",Richard Munoz,4.8 stars,33707,31 hours,FutureLearn,$299,Yes,Beginner,2023
+735,Excel to MySQL: Analytic Techniques,Data Science,Big Data,Spanish,"Machine Learning, Excel, R, Python, Data Analysis",Christopher Hicks,4.8 stars,11520,38 hours,edX,$199,Yes,Advanced,2023
+736,Big Data Essentials,Data Science,Statistics,Hindi,"Python, Excel, SQL, Machine Learning, R",Joanna Kelly,4.2 stars,14517,5 hours,edX,$199,Yes,Intermediate,2018
+737,The Science of Well-Being,Arts,Creative Writing,French,"Creativity, Design, Communication, Photography",Larry Lane,3.1 stars,4884,19 hours,Udemy,$49,Yes,Intermediate,2020
+738,Google Data Analytics Certificate,Data Science,Big Data,French,"Machine Learning, SQL, Python, Excel, R",Cynthia Shaw,4.3 stars,3016,57 hours,FutureLearn,$199,Yes,Intermediate,2023
+739,Tableau Data Visualization,Data Science,Machine Learning,French,"Data Analysis, SQL, Deep Learning, Power BI, Machine Learning",Joshua Richardson,4.8 stars,84297,22 hours,Coursera,$49,Yes,Advanced,2018
+740,Introduction to Data Science in Python,Data Science,Statistics,Hindi,"Excel, R, Deep Learning, Power BI, Machine Learning",Laura Bush,4.0 stars,43286,48 hours,Coursera,$29,Yes,Intermediate,2021
+741,Applied Data Science with Python,Data Science,Deep Learning,English,"Power BI, SQL, Data Analysis, Excel, Machine Learning",John Vaughn,4.5 stars,41376,56 hours,edX,$49,Yes,Beginner,2024
+742,Full-Stack Web Development with React,Computer Science,Cybersecurity,Spanish,"AWS, Python, Azure, JavaScript, React",Nicholas Terrell,4.3 stars,73635,32 hours,Coursera,$0,Yes,Advanced,2024
+743,Big Data Essentials,Data Science,Big Data,English,"Excel, Python, Machine Learning, Deep Learning, SQL",Dr. Julie Miller,4.5 stars,52819,53 hours,Udemy,$19,Yes,Advanced,2023
+744,Cybersecurity for Business,Business,Leadership,Hindi,"Critical Thinking, Excel, Communication, Leadership, Power BI",Ann Kennedy,4.0 stars,73743,14 hours,FutureLearn,$199,Yes,Advanced,2020
+745,Business Analytics with Excel,Business,Business Analytics,French,"Excel, Critical Thinking, Leadership, Power BI, Communication",Toni Miller,4.6 stars,40465,44 hours,edX,$99,Yes,Beginner,2021
+746,Machine Learning by Stanford University,Data Science,Statistics,Hindi,"R, SQL, Python, Power BI, Excel",Rebecca Edwards,4.9 stars,39747,48 hours,Coursera,$0,No,Beginner,2020
+747,Big Data Essentials,Data Science,Data Analysis,Spanish,"Power BI, Machine Learning, Python, Excel, SQL",Greg Osborne,4.6 stars,57665,17 hours,Coursera,$0,No,Intermediate,2020
+748,Statistics with Python,Data Science,Statistics,Hindi,"Data Analysis, Excel, SQL, R, Power BI",Jose Harrison,4.6 stars,91506,14 hours,Coursera,$199,Yes,Intermediate,2023
+749,Excel to MySQL: Analytic Techniques,Data Science,Statistics,French,"SQL, Machine Learning, Power BI, R, Python",Jennifer Yu,4.9 stars,35630,47 hours,Udemy,$49,Yes,Advanced,2018
+750,Business Analytics with Excel,Business,Marketing,Hindi,"Power BI, Leadership, Critical Thinking, Excel, Communication",Donna Johnson,4.8 stars,85827,37 hours,Coursera,$299,Yes,Intermediate,2018
+751,Applied Data Science with Python,Data Science,Deep Learning,Hindi,"Excel, Power BI, Python, Deep Learning, Machine Learning",Nicole Acosta,3.8 stars,39204,7 hours,FutureLearn,$0,No,Beginner,2019
+752,Data Structures and Algorithms Specialization,Data Science,Machine Learning,French,"Python, R, Deep Learning, Excel, Machine Learning",Amy Kennedy,3.3 stars,21806,43 hours,FutureLearn,$19,Yes,Advanced,2019
+753,Python for Everybody,Data Science,Data Analysis,English,"R, Power BI, Excel, Data Analysis, Python",Anthony Mooney,3.9 stars,67777,37 hours,edX,$199,Yes,Advanced,2019
+754,Excel to MySQL: Analytic Techniques,Data Science,Big Data,English,"R, Python, Power BI, Machine Learning, Deep Learning",Lori Mitchell,4.4 stars,50546,59 hours,Coursera,$49,Yes,Beginner,2024
+755,Statistics with Python,Data Science,Big Data,Hindi,"Power BI, Machine Learning, SQL, Python, R",Jonathan York,4.7 stars,31571,44 hours,Coursera,$99,Yes,Intermediate,2018
+756,Google Data Analytics Certificate,Data Science,Deep Learning,Hindi,"Power BI, SQL, Deep Learning, Data Analysis, R",Casey Campbell,3.7 stars,78069,29 hours,Udemy,$29,Yes,Advanced,2020
+757,The Science of Well-Being,Computer Science,Cloud Computing,Hindi,"JavaScript, Azure, Python, AWS, React",Alexis Rodriguez,3.6 stars,86296,28 hours,Udemy,$299,Yes,Intermediate,2022
+758,Business Analytics with Excel,Business,Leadership,Hindi,"Power BI, Leadership, Critical Thinking, Communication, Excel",Kevin Hernandez,3.0 stars,72362,22 hours,FutureLearn,$29,Yes,Intermediate,2024
+759,Machine Learning by Stanford University,Data Science,Machine Learning,Spanish,"Machine Learning, R, Excel, Deep Learning, Python",Robert Green,3.5 stars,41813,13 hours,edX,$19,Yes,Beginner,2020
+760,AWS Cloud Practitioner Essentials,IT & Software,Networking,Spanish,"Azure, DevOps, Critical Thinking, AWS, Networking",Kari Lloyd,4.6 stars,36588,48 hours,Coursera,$299,Yes,Beginner,2024
+761,Statistics with Python,Data Science,Big Data,Spanish,"R, Power BI, Excel, Deep Learning, SQL",Grace Miller,4.7 stars,74805,33 hours,FutureLearn,$0,No,Beginner,2022
+762,Natural Language Processing with Deep Learning,Computer Science,Cybersecurity,Hindi,"Azure, React, AWS, JavaScript, SQL",Timothy Moore,3.9 stars,50059,30 hours,FutureLearn,$19,Yes,Advanced,2024
+763,Statistics with Python,Data Science,Statistics,Spanish,"Power BI, Data Analysis, R, Python, SQL",Wyatt Townsend II,4.1 stars,63617,59 hours,Udemy,$29,Yes,Beginner,2023
+764,Google Data Analytics Certificate,Data Science,Machine Learning,Hindi,"R, SQL, Excel, Deep Learning, Machine Learning",Mark Clark,4.9 stars,73982,44 hours,Udemy,$19,Yes,Beginner,2021
+765,The Science of Well-Being,Arts,Creative Writing,Spanish,"Creativity, Design, Photography, Communication",Haley May,3.8 stars,77433,43 hours,Udemy,$19,Yes,Advanced,2023
+766,Natural Language Processing with Deep Learning,IT & Software,Cybersecurity,French,"Azure, Networking, DevOps, Critical Thinking, AWS",Audrey Jackson,4.4 stars,59205,44 hours,Udemy,$99,Yes,Intermediate,2024
+767,Cybersecurity for Business,Business,Finance,Hindi,"Leadership, Communication, Power BI, Critical Thinking, Excel",Eric Reese,3.1 stars,33060,43 hours,Udemy,$99,Yes,Beginner,2020
+768,Machine Learning by Stanford University,Data Science,Deep Learning,French,"Machine Learning, Power BI, R, Python, SQL",Kim James,3.0 stars,679,9 hours,edX,$19,Yes,Intermediate,2018
+769,Introduction to Data Science in Python,Data Science,Big Data,Hindi,"Power BI, SQL, R, Python, Data Analysis",Karen Thomas,4.7 stars,37356,51 hours,Coursera,$199,Yes,Beginner,2020
+770,Cybersecurity for Business,Business,Leadership,French,"Leadership, Excel, Communication, Critical Thinking, Power BI",Alexandra Ho,3.3 stars,77620,44 hours,FutureLearn,$19,Yes,Advanced,2020
+771,AI For Everyone,Data Science,Big Data,Spanish,"R, SQL, Deep Learning, Power BI, Data Analysis",Michael Nixon,4.2 stars,93085,46 hours,Udemy,$0,No,Beginner,2022
+772,AWS Cloud Practitioner Essentials,IT & Software,Cybersecurity,French,"Azure, Networking, AWS, DevOps, Critical Thinking",Amanda Hardin,4.2 stars,13509,44 hours,edX,$49,Yes,Advanced,2022
+773,Tableau Data Visualization,Data Science,Big Data,Hindi,"Data Analysis, R, Power BI, Python, Excel",Tina Reynolds,4.8 stars,11264,35 hours,edX,$49,Yes,Beginner,2023
+774,Java Programming and Software Engineering,Computer Science,Programming,French,"React, AWS, Azure, Python, JavaScript",Shannon Rogers,4.1 stars,63052,14 hours,edX,$99,Yes,Beginner,2020
+775,Full-Stack Web Development with React,Computer Science,Web Development,Hindi,"SQL, React, Azure, JavaScript, AWS",Brett Pena,4.9 stars,86168,17 hours,FutureLearn,$29,Yes,Advanced,2022
+776,SQL for Data Science,Data Science,Data Analysis,French,"Power BI, Python, Excel, Deep Learning, Machine Learning",Raymond Curry,3.4 stars,22324,9 hours,FutureLearn,$49,Yes,Intermediate,2018
+777,Google Data Analytics Certificate,Data Science,Deep Learning,Spanish,"Power BI, Python, R, SQL, Excel",Leah Lee,4.7 stars,97645,58 hours,Coursera,$19,Yes,Advanced,2019
+778,SQL for Data Science,Data Science,Statistics,Spanish,"Excel, SQL, Power BI, Machine Learning, Python",Michael White,4.5 stars,38625,59 hours,edX,$19,Yes,Intermediate,2024
+779,SQL for Data Science,Data Science,Big Data,French,"R, Excel, Power BI, Python, Data Analysis",Megan Decker,3.1 stars,98376,39 hours,FutureLearn,$49,Yes,Beginner,2024
+780,Applied Data Science with Python,Data Science,Deep Learning,English,"Deep Learning, Python, Power BI, Machine Learning, R",Brent Garcia,4.6 stars,79831,9 hours,FutureLearn,$29,Yes,Advanced,2018
+781,The Science of Well-Being,IT & Software,Networking,Spanish,"AWS, DevOps, Networking, Critical Thinking, Azure",Daniel Campbell,3.2 stars,46194,29 hours,Udemy,$299,Yes,Intermediate,2018
+782,Statistics with Python,Data Science,Statistics,Spanish,"SQL, R, Data Analysis, Power BI, Python",Alexander Davis,4.1 stars,10461,51 hours,Coursera,$29,Yes,Intermediate,2024
+783,Introduction to Data Science in Python,Data Science,Big Data,Spanish,"R, Data Analysis, Deep Learning, Excel, Machine Learning",Mary Houston,3.5 stars,87447,12 hours,FutureLearn,$199,Yes,Beginner,2023
+784,AWS Cloud Practitioner Essentials,IT & Software,DevOps,Hindi,"DevOps, AWS, Critical Thinking, Azure, Networking",Margaret Erickson,4.8 stars,1751,50 hours,edX,$99,Yes,Intermediate,2020
+785,Applied Data Science with Python,Data Science,Machine Learning,English,"R, Python, SQL, Excel, Deep Learning",Scott Anderson,4.6 stars,3263,48 hours,Udemy,$19,Yes,Advanced,2021
+786,Applied Data Science with Python,Data Science,Big Data,Spanish,"Data Analysis, Power BI, Deep Learning, Python, SQL",Stephanie Knight,4.8 stars,71401,40 hours,FutureLearn,$99,Yes,Advanced,2020
+787,Cybersecurity for Business,Business,Leadership,Spanish,"Critical Thinking, Leadership, Power BI, Excel, Communication",Stephanie Dominguez,3.2 stars,50187,23 hours,FutureLearn,$19,Yes,Advanced,2022
+788,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Hindi,"Machine Learning, Deep Learning, SQL, Data Analysis, Excel",John Mayer,3.1 stars,24987,43 hours,FutureLearn,$19,Yes,Intermediate,2020
+789,Statistics with Python,Data Science,Machine Learning,French,"Python, Power BI, Machine Learning, Deep Learning, Excel",Tammy Hill,5.0 stars,5678,43 hours,Udemy,$99,Yes,Beginner,2023
+790,The Science of Well-Being,Data Science,Statistics,English,"SQL, R, Deep Learning, Data Analysis, Excel",Steven Carrillo,3.4 stars,19139,56 hours,FutureLearn,$0,No,Intermediate,2018
+791,AI For Everyone,Data Science,Machine Learning,English,"Deep Learning, R, Data Analysis, Power BI, Excel",Christopher Jones,3.7 stars,52442,20 hours,Udemy,$99,Yes,Advanced,2018
+792,Business Analytics with Excel,Business,Leadership,Hindi,"Power BI, Critical Thinking, Leadership, Excel, Communication",Janet Cook,3.3 stars,41196,19 hours,FutureLearn,$299,Yes,Advanced,2018
+793,The Science of Well-Being,Arts,Creative Writing,English,"Photography, Design, Communication, Creativity",Tyler Baker,4.7 stars,89084,48 hours,Udemy,$49,Yes,Advanced,2019
+794,Java Programming and Software Engineering,Computer Science,Programming,Spanish,"React, JavaScript, SQL, Python, AWS",John Mcfarland,4.5 stars,75673,22 hours,FutureLearn,$299,Yes,Intermediate,2024
+795,AI For Everyone,Data Science,Big Data,French,"Power BI, SQL, Machine Learning, Excel, R",Cassandra Vasquez,4.8 stars,47718,19 hours,Coursera,$29,Yes,Beginner,2023
+796,Business Analytics with Excel,Business,Finance,French,"Leadership, Communication, Power BI, Critical Thinking, Excel",Randy Robinson,3.0 stars,50990,38 hours,FutureLearn,$49,Yes,Beginner,2020
+797,Big Data Essentials,Data Science,Machine Learning,French,"Power BI, SQL, Python, Machine Learning, R",Susan Baldwin,4.7 stars,48723,7 hours,Udemy,$19,Yes,Advanced,2022
+798,Deep Learning Specialization,Data Science,Big Data,Hindi,"R, Power BI, Python, Excel, Deep Learning",Benjamin Duncan,4.2 stars,77742,12 hours,Udemy,$0,No,Beginner,2024
+799,AI For Everyone,Data Science,Deep Learning,Spanish,"Python, SQL, Data Analysis, Power BI, Excel",Jeremy Mosley,3.7 stars,90350,17 hours,FutureLearn,$99,Yes,Intermediate,2022
+800,Excel to MySQL: Analytic Techniques,Data Science,Big Data,English,"Deep Learning, SQL, Python, R, Power BI",Martin Fitzpatrick,3.1 stars,94027,39 hours,FutureLearn,$49,Yes,Beginner,2019
+801,AWS Cloud Practitioner Essentials,IT & Software,DevOps,Spanish,"Networking, DevOps, Azure, Critical Thinking, AWS",Deborah Graves,5.0 stars,77502,13 hours,Coursera,$299,Yes,Intermediate,2020
+802,Tableau Data Visualization,Data Science,Statistics,English,"R, Deep Learning, Data Analysis, Power BI, SQL",Laura Robertson,3.2 stars,2235,45 hours,Coursera,$99,Yes,Advanced,2022
+803,Tableau Data Visualization,Data Science,Statistics,Spanish,"Power BI, Data Analysis, Deep Learning, Excel, SQL",Katherine Graham,4.5 stars,52284,30 hours,Udemy,$29,Yes,Beginner,2022
+804,Big Data Essentials,Data Science,Data Analysis,Spanish,"Data Analysis, Python, Machine Learning, R, Deep Learning",Priscilla Floyd,4.4 stars,49892,5 hours,Udemy,$0,No,Intermediate,2018
+805,AI For Everyone,Data Science,Big Data,English,"Data Analysis, Excel, R, Machine Learning, Python",April Finley,3.6 stars,84031,14 hours,FutureLearn,$49,Yes,Intermediate,2018
+806,Introduction to Data Science in Python,Data Science,Deep Learning,English,"Machine Learning, Data Analysis, Python, Power BI, R",Karen Bradley,3.7 stars,26189,48 hours,Coursera,$0,No,Beginner,2021
+807,SQL for Data Science,Data Science,Deep Learning,English,"SQL, Machine Learning, Power BI, Python, Data Analysis",Heather Maldonado,3.7 stars,57776,41 hours,Coursera,$49,Yes,Intermediate,2019
+808,Business Analytics with Excel,Business,Business Analytics,Spanish,"Communication, Power BI, Leadership, Critical Thinking, Excel",Mark Benjamin,3.6 stars,74439,21 hours,Coursera,$99,Yes,Advanced,2021
+809,Applied Data Science with Python,Data Science,Data Analysis,English,"Deep Learning, SQL, Python, Data Analysis, Machine Learning",Joseph Woodward,3.6 stars,60423,12 hours,Coursera,$99,Yes,Advanced,2022
+810,Big Data Essentials,Data Science,Statistics,Hindi,"Power BI, Machine Learning, Deep Learning, Data Analysis, Excel",Joe Miranda,3.9 stars,51000,12 hours,Udemy,$99,Yes,Beginner,2020
+811,Python for Everybody,Data Science,Statistics,English,"Excel, Data Analysis, Deep Learning, R, Machine Learning",Cassandra Williams,3.7 stars,61534,8 hours,Udemy,$49,Yes,Beginner,2023
+812,Full-Stack Web Development with React,Computer Science,Cloud Computing,English,"React, JavaScript, SQL, AWS, Azure",Connor Dominguez,4.1 stars,21588,6 hours,edX,$299,Yes,Intermediate,2021
+813,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Hindi,"Machine Learning, SQL, Power BI, R, Excel",Lydia Howard,3.4 stars,53167,23 hours,edX,$19,Yes,Beginner,2019
+814,Full-Stack Web Development with React,Computer Science,Web Development,Hindi,"SQL, Python, AWS, React, Azure",Mark Moss,3.5 stars,57679,35 hours,Udemy,$49,Yes,Advanced,2023
+815,Tableau Data Visualization,Data Science,Deep Learning,Hindi,"Machine Learning, Deep Learning, R, Data Analysis, SQL",Corey Cortez,3.5 stars,24002,6 hours,Coursera,$0,No,Intermediate,2023
+816,The Science of Well-Being,Data Science,Machine Learning,Spanish,"Power BI, R, SQL, Deep Learning, Excel",Katherine Brown,3.6 stars,27942,24 hours,FutureLearn,$99,Yes,Advanced,2018
+817,Applied Data Science with Python,Data Science,Statistics,Spanish,"Data Analysis, R, Python, Machine Learning, Excel",Elizabeth Ferguson,4.7 stars,43125,58 hours,edX,$299,Yes,Advanced,2020
+818,Cybersecurity for Business,Business,Business Analytics,English,"Critical Thinking, Leadership, Excel, Communication, Power BI",Joann Forbes,3.4 stars,29084,12 hours,Coursera,$99,Yes,Beginner,2023
+819,Big Data Essentials,Data Science,Big Data,French,"R, SQL, Power BI, Deep Learning, Excel",Anthony French,5.0 stars,95088,54 hours,Udemy,$299,Yes,Beginner,2021
+820,Deep Learning Specialization,Arts,Creative Writing,English,"Communication, Creativity, Photography, Design",Bruce Roman,4.9 stars,52765,24 hours,FutureLearn,$49,Yes,Beginner,2024
+821,Python for Everybody,Data Science,Big Data,French,"Python, SQL, R, Data Analysis, Excel",Judy Gregory,4.6 stars,44016,44 hours,edX,$19,Yes,Beginner,2022
+822,Introduction to Data Science in Python,Data Science,Statistics,English,"R, SQL, Deep Learning, Data Analysis, Python",Brittany Riley,4.3 stars,92906,24 hours,Coursera,$199,Yes,Beginner,2021
+823,Data Structures and Algorithms Specialization,Data Science,Data Analysis,Spanish,"Python, Deep Learning, Power BI, Machine Learning, R",Amanda Thomas,4.0 stars,56202,34 hours,FutureLearn,$299,Yes,Beginner,2020
+824,Full-Stack Web Development with React,Computer Science,Programming,French,"React, Python, JavaScript, Azure, SQL",Kaitlin Hardin,3.4 stars,66731,47 hours,edX,$199,Yes,Advanced,2024
+825,Python for Everybody,Data Science,Big Data,French,"R, Machine Learning, Deep Learning, Python, Data Analysis",Michael Anderson,3.5 stars,78089,36 hours,Udemy,$99,Yes,Beginner,2022
+826,Cybersecurity for Business,Business,Business Analytics,French,"Power BI, Critical Thinking, Communication, Excel, Leadership",Anthony Parker,3.1 stars,97105,44 hours,edX,$29,Yes,Intermediate,2018
+827,Java Programming and Software Engineering,Computer Science,Cybersecurity,Hindi,"AWS, Python, Azure, React, SQL",Joy Jackson,3.3 stars,97788,19 hours,edX,$29,Yes,Intermediate,2018
+828,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,English,"SQL, Excel, Deep Learning, R, Python",Sabrina Rodriguez,3.7 stars,37890,40 hours,edX,$199,Yes,Beginner,2020
+829,Statistics with Python,Data Science,Machine Learning,Hindi,"Python, Deep Learning, Excel, SQL, Machine Learning",Robert Walker PhD,3.3 stars,25411,57 hours,edX,$49,Yes,Intermediate,2020
+830,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Hindi,"Data Analysis, Excel, Machine Learning, Deep Learning, R",Robert Hendrix,4.8 stars,16977,18 hours,FutureLearn,$0,Yes,Advanced,2023
+831,Tableau Data Visualization,Data Science,Statistics,French,"Excel, Python, Data Analysis, R, Deep Learning",Erika Daugherty,4.0 stars,50486,49 hours,Coursera,$0,Yes,Advanced,2019
+832,Excel to MySQL: Analytic Techniques,Data Science,Data Analysis,English,"Deep Learning, Machine Learning, Data Analysis, Power BI, Excel",Brenda Copeland,4.5 stars,42641,37 hours,FutureLearn,$49,Yes,Advanced,2021
+833,Java Programming and Software Engineering,Computer Science,Cybersecurity,French,"AWS, React, Python, SQL, JavaScript",Pamela Watkins,3.3 stars,51869,56 hours,Coursera,$0,No,Beginner,2024
+834,Tableau Data Visualization,Data Science,Statistics,French,"Python, R, SQL, Machine Learning, Excel",Bryan Thomas,3.3 stars,13070,31 hours,edX,$49,Yes,Intermediate,2020
+835,Applied Data Science with Python,Data Science,Big Data,Spanish,"Power BI, Data Analysis, Excel, Machine Learning, R",Michael Tran,4.5 stars,47085,36 hours,edX,$29,Yes,Beginner,2019
+836,Java Programming and Software Engineering,Computer Science,Cybersecurity,French,"React, Azure, SQL, JavaScript, AWS",Timothy Williams,4.0 stars,44347,38 hours,FutureLearn,$0,Yes,Advanced,2024
+837,Introduction to Data Science in Python,Data Science,Deep Learning,French,"R, Deep Learning, Python, Data Analysis, Power BI",Ryan Salazar,3.7 stars,42710,11 hours,Udemy,$49,Yes,Beginner,2020
+838,Google Data Analytics Certificate,Data Science,Data Analysis,English,"R, Python, Excel, Deep Learning, Machine Learning",Alexis Tucker,3.3 stars,26539,17 hours,FutureLearn,$29,Yes,Advanced,2021
+839,Statistics with Python,Data Science,Machine Learning,English,"Machine Learning, Power BI, Data Analysis, Excel, Python",Christopher Davis,3.9 stars,32232,31 hours,Udemy,$199,Yes,Beginner,2022
+840,SQL for Data Science,Data Science,Data Analysis,Hindi,"R, SQL, Power BI, Excel, Machine Learning",Stacie Butler,3.1 stars,91022,26 hours,Coursera,$0,Yes,Advanced,2022
+841,Excel to MySQL: Analytic Techniques,Data Science,Statistics,Spanish,"Machine Learning, Python, R, Data Analysis, Power BI",Patricia Schwartz,4.3 stars,1688,42 hours,FutureLearn,$19,Yes,Advanced,2018
+842,AI For Everyone,Data Science,Statistics,Spanish,"Excel, R, Machine Learning, Power BI, Deep Learning",Mark Mills,3.7 stars,20135,40 hours,edX,$19,Yes,Beginner,2019
+843,Deep Learning Specialization,Computer Science,Cloud Computing,French,"AWS, SQL, JavaScript, Python, Azure",Todd Bishop,3.4 stars,98864,54 hours,FutureLearn,$0,Yes,Advanced,2021
+844,SQL for Data Science,Data Science,Data Analysis,Spanish,"Python, R, Data Analysis, Machine Learning, SQL",Christopher Porter,4.4 stars,44242,42 hours,Coursera,$99,Yes,Beginner,2023
+845,Applied Data Science with Python,Data Science,Big Data,Hindi,"Python, SQL, Deep Learning, R, Data Analysis",Lori Patton,4.3 stars,5905,56 hours,Udemy,$29,Yes,Beginner,2020
+846,The Science of Well-Being,IT & Software,Cybersecurity,Spanish,"Networking, Critical Thinking, DevOps, AWS, Azure",Aaron Young,3.3 stars,29900,11 hours,FutureLearn,$19,Yes,Advanced,2021
+847,Cybersecurity for Business,Business,Finance,Spanish,"Communication, Critical Thinking, Excel, Power BI, Leadership",Joseph Davis,3.1 stars,55852,52 hours,edX,$0,Yes,Advanced,2022
+848,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,Spanish,"Machine Learning, Python, R, Deep Learning, SQL",Philip Fernandez,4.6 stars,68257,60 hours,FutureLearn,$299,Yes,Advanced,2022
+849,Introduction to Data Science in Python,Data Science,Data Analysis,Hindi,"SQL, R, Machine Learning, Excel, Power BI",Randy Hopkins,3.3 stars,56377,6 hours,edX,$199,Yes,Advanced,2022
+850,The Science of Well-Being,Arts,Painting,Hindi,"Design, Communication, Photography, Creativity",Cory Hogan,3.2 stars,58224,17 hours,Coursera,$29,Yes,Intermediate,2021
+851,Statistics with Python,Data Science,Deep Learning,English,"Machine Learning, Deep Learning, Power BI, Python, Data Analysis",Tracy Wells,3.9 stars,65721,14 hours,edX,$0,No,Beginner,2021
+852,Business Analytics with Excel,Business,Marketing,Hindi,"Communication, Power BI, Excel, Leadership, Critical Thinking",Michael Williams,3.3 stars,95118,14 hours,Udemy,$19,Yes,Advanced,2021
+853,Business Analytics with Excel,Business,Leadership,English,"Critical Thinking, Leadership, Power BI, Communication, Excel",Dominique Hamilton,3.1 stars,56252,25 hours,edX,$49,Yes,Advanced,2022
+854,Python for Everybody,Data Science,Big Data,Spanish,"Python, Deep Learning, R, Data Analysis, Machine Learning",Robert Chang,4.4 stars,9353,45 hours,FutureLearn,$49,Yes,Intermediate,2021
+855,Data Structures and Algorithms Specialization,Data Science,Data Analysis,English,"Deep Learning, SQL, R, Excel, Python",Patrick Buckley,4.7 stars,98265,18 hours,FutureLearn,$299,Yes,Advanced,2018
+856,The Science of Well-Being,Computer Science,Programming,French,"SQL, React, JavaScript, Azure, Python",Richard Washington,3.3 stars,72180,18 hours,edX,$29,Yes,Advanced,2022
+857,Python for Everybody,Data Science,Big Data,French,"Power BI, SQL, R, Python, Excel",Steven Griffith,3.8 stars,19883,20 hours,FutureLearn,$0,Yes,Advanced,2018
+858,Full-Stack Web Development with React,Computer Science,Web Development,English,"JavaScript, AWS, Azure, SQL, Python",Erika Gonzalez,4.1 stars,71773,11 hours,Udemy,$199,Yes,Advanced,2023
+859,Google Data Analytics Certificate,Data Science,Statistics,English,"Power BI, Excel, Deep Learning, Python, SQL",Erika Maxwell,4.3 stars,64122,5 hours,FutureLearn,$299,Yes,Intermediate,2023
+860,Statistics with Python,Data Science,Statistics,Hindi,"Python, Power BI, Excel, Deep Learning, Machine Learning",Brent Rojas,3.4 stars,19332,42 hours,Udemy,$99,Yes,Intermediate,2022
+861,SQL for Data Science,Data Science,Statistics,Spanish,"Machine Learning, SQL, Data Analysis, R, Excel",Jaime Walker,4.2 stars,59622,7 hours,Udemy,$199,Yes,Advanced,2020
+862,Java Programming and Software Engineering,Computer Science,Programming,Hindi,"React, Azure, SQL, Python, AWS",John Zamora,5.0 stars,25135,26 hours,edX,$299,Yes,Advanced,2021
+863,SQL for Data Science,Data Science,Machine Learning,Hindi,"Excel, Machine Learning, SQL, Python, Deep Learning",Timothy Gibson,3.2 stars,43258,26 hours,Coursera,$299,Yes,Advanced,2024
+864,Data Structures and Algorithms Specialization,Data Science,Data Analysis,English,"Excel, Deep Learning, Python, Data Analysis, SQL",Chad Cortez,4.0 stars,81085,43 hours,Udemy,$199,Yes,Advanced,2020
+865,Natural Language Processing with Deep Learning,Computer Science,Cybersecurity,English,"JavaScript, SQL, AWS, React, Azure",Vanessa Harris,3.6 stars,40544,35 hours,Coursera,$0,Yes,Advanced,2023
+866,Statistics with Python,Data Science,Machine Learning,French,"Data Analysis, SQL, Deep Learning, Excel, Python",Michael Brown,4.1 stars,58291,12 hours,edX,$19,Yes,Advanced,2024
+867,SQL for Data Science,Data Science,Big Data,French,"SQL, Deep Learning, Python, R, Machine Learning",Samuel Ellis,4.2 stars,70580,8 hours,Udemy,$299,Yes,Beginner,2023
+868,SQL for Data Science,Data Science,Data Analysis,French,"R, Data Analysis, Machine Learning, Excel, Power BI",Greg Tanner,5.0 stars,75401,56 hours,edX,$29,Yes,Beginner,2024
+869,Introduction to Data Science in Python,Data Science,Deep Learning,French,"Power BI, Deep Learning, Machine Learning, Data Analysis, Python",Rachel Little,3.4 stars,17757,44 hours,edX,$0,No,Intermediate,2019
+870,Natural Language Processing with Deep Learning,Arts,Photography,Hindi,"Creativity, Design, Photography, Communication",Carolyn Cordova,4.2 stars,92283,47 hours,Udemy,$49,Yes,Advanced,2021
+871,The Science of Well-Being,Business,Leadership,English,"Power BI, Critical Thinking, Communication, Leadership, Excel",Angelica Vincent,3.7 stars,48372,50 hours,edX,$19,Yes,Advanced,2019
+872,Java Programming and Software Engineering,Computer Science,Web Development,Spanish,"Python, Azure, SQL, JavaScript, AWS",Zachary Vargas PhD,3.1 stars,45576,45 hours,edX,$299,Yes,Advanced,2019
+873,AWS Cloud Practitioner Essentials,IT & Software,DevOps,French,"DevOps, AWS, Azure, Critical Thinking, Networking",Nicholas Fitzgerald,4.7 stars,93032,21 hours,FutureLearn,$29,Yes,Beginner,2023
+874,Python for Everybody,Data Science,Machine Learning,Spanish,"Deep Learning, Excel, Power BI, R, Data Analysis",Garrett Riley,4.3 stars,82296,36 hours,edX,$99,Yes,Advanced,2022
+875,SQL for Data Science,Data Science,Machine Learning,Hindi,"Power BI, Python, Machine Learning, Excel, Data Analysis",Leslie Hernandez,4.8 stars,10182,37 hours,Coursera,$0,No,Intermediate,2022
+876,Introduction to Data Science in Python,Data Science,Statistics,Spanish,"SQL, Deep Learning, Data Analysis, Python, Excel",Abigail Baird,4.7 stars,87609,35 hours,FutureLearn,$299,Yes,Advanced,2018
+877,Applied Data Science with Python,Data Science,Statistics,French,"R, Power BI, Excel, SQL, Machine Learning",John Mack,3.6 stars,96561,13 hours,Udemy,$299,Yes,Advanced,2021
+878,Statistics with Python,Data Science,Data Analysis,Spanish,"Machine Learning, SQL, Python, Power BI, Excel",Joseph Mendoza,4.9 stars,98286,6 hours,FutureLearn,$299,Yes,Advanced,2024
+879,Data Structures and Algorithms Specialization,Data Science,Deep Learning,French,"SQL, R, Excel, Machine Learning, Power BI",Samantha Chavez,3.2 stars,97913,29 hours,FutureLearn,$49,Yes,Intermediate,2021
+880,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,Hindi,"AWS, Azure, DevOps, Networking, Critical Thinking",Justin Smith,4.6 stars,4303,13 hours,Udemy,$29,Yes,Beginner,2023
+881,Python for Everybody,Data Science,Deep Learning,Hindi,"R, Excel, Power BI, Deep Learning, Python",Tiffany Anderson,4.5 stars,55592,40 hours,Udemy,$0,No,Intermediate,2021
+882,Statistics with Python,Data Science,Data Analysis,Hindi,"Python, Excel, Machine Learning, Deep Learning, Power BI",Matthew Davis,4.3 stars,36286,57 hours,FutureLearn,$29,Yes,Beginner,2020
+883,Business Analytics with Excel,Business,Marketing,French,"Leadership, Excel, Power BI, Communication, Critical Thinking",Eric Warner,3.6 stars,51932,28 hours,FutureLearn,$0,No,Intermediate,2019
+884,The Science of Well-Being,Arts,Design,Hindi,"Creativity, Photography, Design, Communication",Nicole Johnson,3.8 stars,8814,41 hours,edX,$49,Yes,Advanced,2023
+885,Deep Learning Specialization,Arts,Painting,French,"Photography, Communication, Creativity, Design",Raymond Sawyer,3.8 stars,34533,56 hours,Coursera,$49,Yes,Intermediate,2022
+886,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,Spanish,"AWS, Azure, Networking, DevOps, Critical Thinking",Richard Wood,3.7 stars,95600,51 hours,Udemy,$19,Yes,Intermediate,2024
+887,Natural Language Processing with Deep Learning,Computer Science,Cybersecurity,Hindi,"AWS, React, Azure, JavaScript, SQL",Mark Dalton,4.1 stars,39512,35 hours,Udemy,$99,Yes,Beginner,2018
+888,Statistics with Python,Data Science,Data Analysis,French,"Deep Learning, Data Analysis, Machine Learning, Python, Power BI",Steven Cook,3.6 stars,26048,14 hours,edX,$199,Yes,Beginner,2018
+889,SQL for Data Science,Data Science,Data Analysis,English,"Excel, R, Power BI, Machine Learning, Data Analysis",Jeffery Nelson,3.3 stars,90304,5 hours,edX,$19,Yes,Beginner,2022
+890,Tableau Data Visualization,Data Science,Data Analysis,English,"R, SQL, Machine Learning, Deep Learning, Excel",Kimberly Norton,4.0 stars,6885,49 hours,edX,$49,Yes,Advanced,2018
+891,Java Programming and Software Engineering,Computer Science,Programming,Hindi,"JavaScript, AWS, React, Azure, SQL",Angela Gilmore,4.2 stars,42642,10 hours,Coursera,$29,Yes,Intermediate,2019
+892,Business Analytics with Excel,Business,Finance,English,"Critical Thinking, Power BI, Leadership, Communication, Excel",Amy Dougherty,4.1 stars,12855,7 hours,FutureLearn,$49,Yes,Advanced,2022
+893,Applied Data Science with Python,Data Science,Data Analysis,English,"Power BI, Data Analysis, SQL, Excel, Machine Learning",Stacy Rodriguez,3.8 stars,71916,46 hours,Coursera,$299,Yes,Beginner,2024
+894,Big Data Essentials,Data Science,Big Data,Hindi,"Machine Learning, SQL, Deep Learning, Python, Data Analysis",Manuel Diaz,4.4 stars,25813,5 hours,FutureLearn,$29,Yes,Beginner,2018
+895,Machine Learning by Stanford University,Data Science,Deep Learning,Spanish,"Machine Learning, Python, SQL, R, Excel",Justin Jones,5.0 stars,90720,26 hours,Coursera,$299,Yes,Advanced,2020
+896,Natural Language Processing with Deep Learning,Business,Business Analytics,French,"Communication, Leadership, Critical Thinking, Excel, Power BI",Christine Zavala,3.8 stars,4906,11 hours,edX,$0,No,Beginner,2020
+897,Excel to MySQL: Analytic Techniques,Data Science,Data Analysis,Hindi,"Data Analysis, Python, Power BI, Machine Learning, R",Brian Mendoza,4.7 stars,68166,14 hours,Udemy,$19,Yes,Beginner,2024
+898,Machine Learning by Stanford University,Data Science,Deep Learning,Hindi,"R, Python, Power BI, Data Analysis, SQL",Lauren Haley,3.4 stars,23181,8 hours,edX,$299,Yes,Intermediate,2019
+899,Big Data Essentials,Data Science,Machine Learning,English,"SQL, Deep Learning, Power BI, R, Python",Patrick Perez,3.2 stars,27328,21 hours,edX,$299,Yes,Beginner,2019
+900,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,French,"Azure, Critical Thinking, Networking, AWS, DevOps",Derek Frazier,4.9 stars,15401,55 hours,Udemy,$19,Yes,Beginner,2019
+901,Big Data Essentials,Data Science,Statistics,Hindi,"R, Data Analysis, Machine Learning, Power BI, Excel",Arthur Reed,3.6 stars,65714,30 hours,edX,$19,Yes,Intermediate,2022
+902,Introduction to Data Science in Python,Data Science,Big Data,French,"Power BI, Excel, Python, SQL, Data Analysis",Mr. Bryan Mckinney,3.9 stars,35177,16 hours,Coursera,$99,Yes,Advanced,2024
+903,Google Data Analytics Certificate,Data Science,Statistics,Hindi,"Deep Learning, SQL, Machine Learning, Excel, R",Kim Carter,3.6 stars,75184,40 hours,edX,$199,Yes,Beginner,2022
+904,Machine Learning by Stanford University,Data Science,Big Data,Hindi,"Machine Learning, Data Analysis, Excel, Python, Power BI",Rebecca Dougherty,5.0 stars,53090,28 hours,edX,$199,Yes,Advanced,2024
+905,Machine Learning by Stanford University,Data Science,Machine Learning,Hindi,"R, Machine Learning, Power BI, SQL, Data Analysis",Teresa Jones,4.7 stars,67064,8 hours,FutureLearn,$299,Yes,Intermediate,2020
+906,Big Data Essentials,Data Science,Machine Learning,Spanish,"R, Machine Learning, Data Analysis, SQL, Excel",Judith Miller,3.3 stars,57972,54 hours,edX,$49,Yes,Intermediate,2021
+907,Google Data Analytics Certificate,Data Science,Data Analysis,Spanish,"Machine Learning, Data Analysis, SQL, R, Excel",Donna Frye,4.5 stars,20297,23 hours,Udemy,$19,Yes,Advanced,2024
+908,Machine Learning by Stanford University,Data Science,Big Data,French,"Excel, R, SQL, Data Analysis, Python",Donald Terry,3.2 stars,84111,34 hours,FutureLearn,$29,Yes,Beginner,2023
+909,Introduction to Data Science in Python,Data Science,Statistics,Spanish,"Machine Learning, Data Analysis, Power BI, SQL, Deep Learning",Shaun Meyer DDS,4.0 stars,56351,20 hours,Coursera,$49,Yes,Intermediate,2024
+910,AWS Cloud Practitioner Essentials,IT & Software,Cloud Computing,English,"DevOps, Azure, Critical Thinking, Networking, AWS",Wayne Weaver,3.8 stars,46563,60 hours,Udemy,$99,Yes,Advanced,2022
+911,Machine Learning by Stanford University,Data Science,Machine Learning,English,"SQL, Machine Learning, R, Excel, Power BI",Gregory Wallace,3.5 stars,65256,56 hours,Udemy,$0,No,Intermediate,2019
+912,Natural Language Processing with Deep Learning,Arts,Design,Spanish,"Communication, Photography, Creativity, Design",Dorothy Brown,4.1 stars,55623,57 hours,FutureLearn,$0,Yes,Advanced,2023
+913,AI For Everyone,Data Science,Machine Learning,Hindi,"Data Analysis, Machine Learning, Deep Learning, Excel, SQL",Crystal Meza,5.0 stars,37517,30 hours,Udemy,$0,Yes,Advanced,2024
+914,AI For Everyone,Data Science,Data Analysis,Hindi,"Excel, Machine Learning, SQL, Data Analysis, R",Jennifer Cooper,4.5 stars,83046,15 hours,FutureLearn,$299,Yes,Advanced,2020
+915,Google Data Analytics Certificate,Data Science,Data Analysis,Hindi,"Power BI, SQL, Excel, R, Python",Erin Watkins,4.5 stars,76787,60 hours,edX,$49,Yes,Beginner,2019
+916,Machine Learning by Stanford University,Data Science,Big Data,French,"R, Excel, Deep Learning, Python, Power BI",Sarah Wallace,4.4 stars,50335,50 hours,edX,$19,Yes,Advanced,2021
+917,Tableau Data Visualization,Data Science,Machine Learning,Hindi,"Power BI, Machine Learning, Deep Learning, Python, Excel",Carlos Clarke,3.4 stars,29024,43 hours,Coursera,$199,Yes,Beginner,2018
+918,Introduction to Data Science in Python,Data Science,Big Data,French,"SQL, Excel, Data Analysis, R, Python",David Washington,4.6 stars,32461,41 hours,edX,$0,Yes,Advanced,2022
+919,Machine Learning by Stanford University,Data Science,Machine Learning,Hindi,"SQL, Excel, Power BI, Deep Learning, Data Analysis",Patricia Williams,4.0 stars,87378,31 hours,FutureLearn,$29,Yes,Advanced,2024
+920,Python for Everybody,Data Science,Deep Learning,Spanish,"R, Excel, Python, Data Analysis, Deep Learning",Jesus Jackson,3.2 stars,8236,9 hours,FutureLearn,$299,Yes,Intermediate,2022
+921,AI For Everyone,Data Science,Deep Learning,French,"Python, Excel, Data Analysis, R, Power BI",Michelle Mitchell,3.0 stars,37183,42 hours,Coursera,$0,No,Beginner,2018
+922,Data Structures and Algorithms Specialization,Data Science,Data Analysis,French,"Data Analysis, Python, SQL, R, Machine Learning",Sara Schwartz,4.9 stars,53079,39 hours,Coursera,$299,Yes,Advanced,2018
+923,Big Data Essentials,Data Science,Statistics,Hindi,"Python, SQL, Data Analysis, Power BI, Excel",Brittany Young,3.5 stars,97449,26 hours,edX,$299,Yes,Advanced,2020
+924,Java Programming and Software Engineering,Computer Science,Web Development,English,"JavaScript, Python, SQL, Azure, React",Eugene Martinez,4.4 stars,74217,47 hours,Coursera,$49,Yes,Intermediate,2024
+925,The Science of Well-Being,IT & Software,Cloud Computing,French,"Azure, DevOps, AWS, Networking, Critical Thinking",Cody Hart,3.2 stars,92098,10 hours,FutureLearn,$299,Yes,Beginner,2019
+926,Data Structures and Algorithms Specialization,Data Science,Deep Learning,Spanish,"SQL, R, Deep Learning, Data Analysis, Python",Evan Cooper,4.8 stars,87788,60 hours,Coursera,$19,Yes,Beginner,2022
+927,Excel to MySQL: Analytic Techniques,Data Science,Statistics,French,"SQL, Data Analysis, Python, Deep Learning, Excel",Joshua Martin,4.7 stars,39300,25 hours,Udemy,$299,Yes,Intermediate,2023
+928,Natural Language Processing with Deep Learning,Data Science,Statistics,French,"Machine Learning, Excel, Power BI, R, Data Analysis",Thomas Sullivan,3.6 stars,56290,17 hours,Coursera,$49,Yes,Beginner,2022
+929,Business Analytics with Excel,Business,Leadership,Spanish,"Leadership, Critical Thinking, Excel, Power BI, Communication",Mr. Jimmy Flores Jr.,3.3 stars,84171,14 hours,Coursera,$0,No,Intermediate,2020
+930,Tableau Data Visualization,Data Science,Machine Learning,Spanish,"SQL, Deep Learning, Excel, Python, Data Analysis",Vanessa Rivera,3.1 stars,78325,47 hours,FutureLearn,$19,Yes,Advanced,2019
+931,Applied Data Science with Python,Data Science,Big Data,Hindi,"SQL, Machine Learning, R, Data Analysis, Deep Learning",Kara Roberts,5.0 stars,23103,53 hours,FutureLearn,$29,Yes,Advanced,2020
+932,AI For Everyone,Data Science,Machine Learning,English,"Python, SQL, Deep Learning, Data Analysis, R",Veronica Berry,4.9 stars,61250,42 hours,edX,$49,Yes,Advanced,2022
+933,AWS Cloud Practitioner Essentials,IT & Software,Networking,English,"DevOps, Critical Thinking, Networking, Azure, AWS",Keith Meadows,3.7 stars,77543,45 hours,edX,$0,No,Intermediate,2021
+934,Machine Learning by Stanford University,Data Science,Data Analysis,Hindi,"Power BI, SQL, Data Analysis, Deep Learning, R",Michael Dennis,3.9 stars,95049,10 hours,FutureLearn,$19,Yes,Beginner,2021
+935,Cybersecurity for Business,Business,Finance,French,"Excel, Communication, Power BI, Critical Thinking, Leadership",Brenda Pierce,4.7 stars,62544,6 hours,Coursera,$29,Yes,Beginner,2020
+936,Big Data Essentials,Data Science,Data Analysis,French,"SQL, Power BI, Excel, Python, Machine Learning",James Randall,4.7 stars,34267,7 hours,FutureLearn,$99,Yes,Beginner,2018
+937,Python for Everybody,Data Science,Machine Learning,Spanish,"Power BI, Machine Learning, R, Deep Learning, Python",Brandon Brown,5.0 stars,99674,11 hours,FutureLearn,$199,Yes,Beginner,2022
+938,The Science of Well-Being,Business,Leadership,Spanish,"Critical Thinking, Power BI, Leadership, Communication, Excel",Lauren Walker,4.7 stars,86555,15 hours,Udemy,$0,No,Beginner,2019
+939,Cybersecurity for Business,Business,Strategy,Spanish,"Excel, Power BI, Leadership, Communication, Critical Thinking",Diana Johnson,3.9 stars,20487,38 hours,Udemy,$0,No,Intermediate,2022
+940,Excel to MySQL: Analytic Techniques,Data Science,Statistics,Spanish,"R, Python, Power BI, Data Analysis, Deep Learning",Jill Powers,3.9 stars,15281,19 hours,edX,$0,No,Beginner,2023
+941,Python for Everybody,Data Science,Machine Learning,Spanish,"Machine Learning, Data Analysis, Deep Learning, Python, Power BI",Jorge Lee,4.9 stars,58164,14 hours,Udemy,$19,Yes,Advanced,2022
+942,Statistics with Python,Data Science,Statistics,Spanish,"Data Analysis, Power BI, Python, Machine Learning, Excel",Larry Harding,4.9 stars,73044,7 hours,FutureLearn,$0,Yes,Advanced,2019
+943,Excel to MySQL: Analytic Techniques,Data Science,Machine Learning,English,"Data Analysis, R, Python, Deep Learning, Power BI",Heather Hernandez,4.2 stars,93461,26 hours,Udemy,$29,Yes,Intermediate,2018
+944,SQL for Data Science,Data Science,Statistics,Spanish,"Deep Learning, Power BI, SQL, R, Python",Jaclyn Watson,3.6 stars,72932,31 hours,FutureLearn,$199,Yes,Intermediate,2023
+945,Applied Data Science with Python,Data Science,Deep Learning,French,"Python, SQL, Excel, R, Power BI",Gregory Madden,3.4 stars,45235,36 hours,Coursera,$0,Yes,Advanced,2019
+946,Python for Everybody,Data Science,Big Data,French,"SQL, Deep Learning, Excel, Python, Power BI",Anita Luna,3.5 stars,31498,57 hours,FutureLearn,$299,Yes,Advanced,2022
+947,Applied Data Science with Python,Data Science,Machine Learning,French,"Deep Learning, Power BI, Data Analysis, R, Excel",Willie Lara,4.6 stars,77741,41 hours,edX,$29,Yes,Advanced,2024
+948,Natural Language Processing with Deep Learning,Data Science,Statistics,French,"R, SQL, Excel, Python, Machine Learning",Robert Waller,4.1 stars,6501,49 hours,edX,$99,Yes,Intermediate,2019
+949,Deep Learning Specialization,IT & Software,DevOps,French,"AWS, DevOps, Critical Thinking, Networking, Azure",Steven Taylor,3.9 stars,30709,33 hours,edX,$29,Yes,Intermediate,2021
+950,Excel to MySQL: Analytic Techniques,Data Science,Machine Learning,English,"SQL, Machine Learning, Data Analysis, Excel, Power BI",Angelica Clark,4.9 stars,54921,47 hours,Coursera,$49,Yes,Intermediate,2022
+951,Big Data Essentials,Data Science,Statistics,Spanish,"Python, SQL, Data Analysis, Power BI, Excel",Sean Hatfield,3.4 stars,94850,30 hours,Udemy,$99,Yes,Advanced,2022
+952,Introduction to Data Science in Python,Data Science,Big Data,Hindi,"R, Data Analysis, Power BI, Machine Learning, Excel",Tyler Avila,3.6 stars,1299,39 hours,edX,$299,Yes,Advanced,2019
+953,Excel to MySQL: Analytic Techniques,Data Science,Deep Learning,English,"Data Analysis, Excel, SQL, Deep Learning, Power BI",Jason Rocha,4.5 stars,36001,10 hours,FutureLearn,$99,Yes,Advanced,2019
+954,Google Data Analytics Certificate,Data Science,Data Analysis,French,"SQL, Deep Learning, Data Analysis, Power BI, Excel",Justin Page,4.2 stars,43042,39 hours,edX,$299,Yes,Intermediate,2021
+955,Introduction to Data Science in Python,Data Science,Data Analysis,Hindi,"Python, Machine Learning, SQL, Power BI, R",Breanna Lopez,3.6 stars,48455,33 hours,Coursera,$0,No,Beginner,2024
+956,Business Analytics with Excel,Business,Business Analytics,Hindi,"Excel, Power BI, Communication, Critical Thinking, Leadership",Julian Williams,4.9 stars,10922,25 hours,Udemy,$29,Yes,Advanced,2021
+957,Big Data Essentials,Data Science,Deep Learning,Hindi,"Python, Data Analysis, Excel, SQL, Machine Learning",Sandra Torres,4.8 stars,90560,44 hours,Coursera,$49,Yes,Intermediate,2019
+958,Machine Learning by Stanford University,Data Science,Machine Learning,Hindi,"Excel, Data Analysis, SQL, R, Deep Learning",Julie Johnson,3.1 stars,11504,31 hours,FutureLearn,$299,Yes,Advanced,2024
+959,Full-Stack Web Development with React,Computer Science,Web Development,French,"JavaScript, SQL, Python, AWS, Azure",Dennis Blanchard,4.2 stars,62338,59 hours,Coursera,$49,Yes,Intermediate,2019
+960,SQL for Data Science,Data Science,Deep Learning,Hindi,"Deep Learning, Power BI, Python, SQL, Excel",Kaitlyn Valdez,4.2 stars,65650,7 hours,edX,$299,Yes,Advanced,2024
+961,Data Structures and Algorithms Specialization,Data Science,Data Analysis,English,"Python, SQL, Power BI, Excel, Machine Learning",Jennifer Vasquez,3.2 stars,31473,46 hours,Udemy,$0,No,Beginner,2020
+962,Python for Everybody,Data Science,Statistics,English,"Machine Learning, Excel, R, Power BI, Python",Danielle Wilson,3.0 stars,84789,6 hours,Udemy,$99,Yes,Advanced,2022
+963,AWS Cloud Practitioner Essentials,IT & Software,Networking,Spanish,"DevOps, AWS, Azure, Critical Thinking, Networking",Zachary Jones,3.8 stars,94202,48 hours,edX,$299,Yes,Advanced,2021
+964,The Science of Well-Being,Data Science,Statistics,French,"Deep Learning, Data Analysis, R, Power BI, Python",Lauren Cunningham,4.2 stars,81580,56 hours,Udemy,$199,Yes,Beginner,2018
+965,Statistics with Python,Data Science,Data Analysis,French,"Deep Learning, Excel, SQL, Power BI, R",Lori Alvarez,4.3 stars,61536,34 hours,Coursera,$0,No,Intermediate,2020
+966,Machine Learning by Stanford University,Data Science,Big Data,English,"R, Machine Learning, Deep Learning, Data Analysis, SQL",Barbara Hunt,4.6 stars,15601,44 hours,edX,$49,Yes,Intermediate,2019
+967,Cybersecurity for Business,Business,Strategy,French,"Leadership, Power BI, Communication, Excel, Critical Thinking",Sarah Martin,4.4 stars,44662,8 hours,edX,$49,Yes,Beginner,2023
+968,Business Analytics with Excel,Business,Finance,English,"Critical Thinking, Leadership, Power BI, Communication, Excel",Francisco Johns,4.6 stars,85035,25 hours,FutureLearn,$99,Yes,Advanced,2018
+969,Python for Everybody,Data Science,Big Data,Hindi,"SQL, Power BI, Deep Learning, R, Python",Christopher Nelson,3.5 stars,88596,12 hours,FutureLearn,$19,Yes,Intermediate,2023
+970,AWS Cloud Practitioner Essentials,IT & Software,DevOps,Spanish,"AWS, DevOps, Networking, Azure, Critical Thinking",Thomas Kelly,3.5 stars,19913,17 hours,FutureLearn,$19,Yes,Beginner,2022
+971,Big Data Essentials,Data Science,Data Analysis,Spanish,"Data Analysis, Python, SQL, Machine Learning, Excel",Joseph Mayer,3.8 stars,65371,10 hours,Coursera,$199,Yes,Intermediate,2024
+972,Natural Language Processing with Deep Learning,Business,Strategy,Hindi,"Communication, Excel, Leadership, Power BI, Critical Thinking",Pamela White,3.9 stars,44225,54 hours,Udemy,$199,Yes,Advanced,2024
+973,AI For Everyone,Data Science,Statistics,Spanish,"Data Analysis, Power BI, SQL, Python, Deep Learning",Paul Stephens,3.9 stars,78669,47 hours,FutureLearn,$19,Yes,Intermediate,2022
+974,AI For Everyone,Data Science,Deep Learning,Hindi,"Data Analysis, Machine Learning, R, Excel, Python",Samantha Cohen,4.6 stars,65233,31 hours,edX,$49,Yes,Advanced,2018
+975,Cybersecurity for Business,Business,Marketing,Spanish,"Excel, Power BI, Leadership, Communication, Critical Thinking",Michael Barker,4.3 stars,4075,57 hours,FutureLearn,$299,Yes,Intermediate,2019
+976,Natural Language Processing with Deep Learning,Arts,Creative Writing,Hindi,"Photography, Creativity, Design, Communication",Kevin Morrow,4.7 stars,48439,9 hours,Udemy,$299,Yes,Intermediate,2019
+977,Deep Learning Specialization,Computer Science,Cybersecurity,French,"SQL, Python, AWS, React, Azure",Joseph Watson,3.6 stars,98583,29 hours,FutureLearn,$199,Yes,Intermediate,2020
+978,Google Data Analytics Certificate,Data Science,Statistics,Hindi,"Excel, R, Data Analysis, Power BI, Machine Learning",Mr. Thomas Garcia,3.6 stars,75827,23 hours,edX,$19,Yes,Beginner,2018
+979,Java Programming and Software Engineering,Computer Science,Cybersecurity,Hindi,"React, Python, SQL, JavaScript, AWS",Daniel Lopez,4.9 stars,54993,25 hours,FutureLearn,$99,Yes,Advanced,2020
+980,Machine Learning by Stanford University,Data Science,Machine Learning,Hindi,"Data Analysis, Power BI, Deep Learning, Python, Machine Learning",Lisa Guerra,4.5 stars,54873,50 hours,FutureLearn,$299,Yes,Beginner,2022
+981,Full-Stack Web Development with React,Computer Science,Web Development,Hindi,"Azure, SQL, JavaScript, AWS, Python",Kim Arnold,3.5 stars,35396,60 hours,Udemy,$99,Yes,Beginner,2019
+982,Deep Learning Specialization,IT & Software,Cloud Computing,Hindi,"Networking, DevOps, Critical Thinking, Azure, AWS",Ashley Stevens,4.6 stars,38465,36 hours,FutureLearn,$19,Yes,Advanced,2024
+983,Natural Language Processing with Deep Learning,Data Science,Data Analysis,Hindi,"Deep Learning, Machine Learning, Excel, R, Power BI",Robert Mclean,3.7 stars,68224,23 hours,Coursera,$299,Yes,Intermediate,2018
+984,Business Analytics with Excel,Business,Business Analytics,Hindi,"Excel, Power BI, Leadership, Critical Thinking, Communication",Eric Cox,4.5 stars,25405,33 hours,Udemy,$99,Yes,Advanced,2018
+985,Statistics with Python,Data Science,Statistics,French,"R, Data Analysis, Python, Machine Learning, Excel",Stacy Harper,3.0 stars,25938,31 hours,Udemy,$49,Yes,Advanced,2019
+986,The Science of Well-Being,IT & Software,DevOps,Hindi,"Azure, AWS, DevOps, Networking, Critical Thinking",Gloria Mckinney,3.1 stars,6523,51 hours,edX,$299,Yes,Advanced,2020
+987,SQL for Data Science,Data Science,Deep Learning,Hindi,"Power BI, Excel, Data Analysis, R, SQL",Robert Walker,3.8 stars,59260,48 hours,FutureLearn,$19,Yes,Beginner,2024
+988,Full-Stack Web Development with React,Computer Science,Web Development,Hindi,"Azure, AWS, React, Python, JavaScript",Brenda Perez,3.8 stars,44083,45 hours,edX,$199,Yes,Advanced,2020
+989,Data Structures and Algorithms Specialization,Data Science,Big Data,English,"Data Analysis, Python, R, Excel, Machine Learning",Carlos Miller,3.2 stars,24714,14 hours,edX,$29,Yes,Advanced,2020
+990,Excel to MySQL: Analytic Techniques,Data Science,Machine Learning,Spanish,"Machine Learning, Data Analysis, Python, Deep Learning, R",Rachel Jones,3.6 stars,14481,35 hours,edX,$0,Yes,Advanced,2023
+991,Machine Learning by Stanford University,Data Science,Machine Learning,Spanish,"Python, SQL, R, Deep Learning, Excel",Nicole Williams,4.3 stars,8128,23 hours,Coursera,$29,Yes,Intermediate,2019
+992,Data Structures and Algorithms Specialization,Data Science,Machine Learning,Hindi,"Deep Learning, Machine Learning, Power BI, R, Data Analysis",Ricky Palmer,4.7 stars,25125,38 hours,Coursera,$0,No,Intermediate,2022
+993,Python for Everybody,Data Science,Deep Learning,English,"Excel, Data Analysis, Machine Learning, Power BI, R",Bryan King,3.4 stars,81949,45 hours,Coursera,$99,Yes,Beginner,2021
+994,Python for Everybody,Data Science,Statistics,French,"Deep Learning, Machine Learning, Data Analysis, Power BI, Python",Michael Webster,4.1 stars,4830,10 hours,Coursera,$49,Yes,Beginner,2021
+995,Natural Language Processing with Deep Learning,Data Science,Big Data,English,"Machine Learning, Excel, Deep Learning, Python, Power BI",Tamara Harris,3.7 stars,51121,32 hours,FutureLearn,$0,No,Beginner,2018
+996,Excel to MySQL: Analytic Techniques,Data Science,Statistics,Hindi,"Excel, Power BI, Machine Learning, Deep Learning, Data Analysis",Cathy Bell,4.3 stars,21049,31 hours,Coursera,$99,Yes,Intermediate,2024
+997,Full-Stack Web Development with React,Computer Science,Programming,Hindi,"Azure, SQL, JavaScript, Python, React",Ryan Mcmahon,3.5 stars,84461,39 hours,Coursera,$29,Yes,Advanced,2020
+998,Python for Everybody,Data Science,Big Data,Spanish,"Deep Learning, Machine Learning, Excel, SQL, Data Analysis",Hannah Martin,4.9 stars,32535,42 hours,Udemy,$19,Yes,Intermediate,2019
+999,Big Data Essentials,Data Science,Big Data,French,"Power BI, Deep Learning, SQL, Python, Machine Learning",Monica Allen,3.7 stars,5777,9 hours,edX,$299,Yes,Advanced,2024
+1000,Introduction to Data Science in Python,Data Science,Data Analysis,Hindi,"Power BI, Machine Learning, R, Excel, SQL",Annette Lane,3.0 stars,67659,26 hours,Udemy,$0,No,Beginner,2024
