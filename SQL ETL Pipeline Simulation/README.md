@@ -45,13 +45,25 @@ Enabled using 'after_insert' and 'after_update' triggers.
 
 ## ETL Process Flow Diagram
 
-+------------------+       +------------------+       +------------------+       +------------------+
-| online_courses   |       | staging_courses  |       |    courses       |       |   audit_log      |
-| (Raw CSV Data)   +------>+ (Extracted Data) +------>+ (Cleaned & Final)+------>+ (Trigger Logs)   |
-+------------------+       +------------------+       +------------------+       +------------------+
-         |                          |                          |                          |
-     Import via               Data Cleaning               Constraints &               Logs INSERT &
-    Import Wizard             & Type Casting              Normalization               UPDATE Actions
+--------------
+online_courses   ____  Import via
+(Raw CSV Data)        Import Wizard
+--------------
+        |
+----------------
+staging_courses   ____  Data Cleaning
+(Extracted Data)        & Type Casting
+----------------
+        |
+-------------------
+  cleaned_courses   ____  Constraints &
+(Cleaned and Final)       Normalization
+-------------------
+        |
+  --------------
+    audit_log     ____  Logs INSERT & 
+  (Trigger Logs)        UPDATE Actions
+  ---------------
 
 
 ## Insightful SQL Queries 
