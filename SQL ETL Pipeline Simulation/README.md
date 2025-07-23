@@ -21,10 +21,10 @@ This project simulates a complete ETL (Extract, Transform, Load) pipeline using 
 
 ## ETL Process Breakdown
 
-1. Extract
+#### 1. Extract
 Imported online_courses.csv into staging_courses table using MySQL Import Wizard.
 
-2. Transform
+#### 2. Transform
 Cleaned and parsed values:
   - Extracted numeric values from Rating (e.g., "4.5 stars" -> 4.5).
   - Removed currency symbols from PriceUSD.
@@ -32,11 +32,11 @@ Cleaned and parsed values:
   - Converted Certification to boolean.
   - Trimmed text fields and removed duplicates based on Title + Instructor.
 
-3. Load
+#### 3. Load
 Inserted cleaned records into courses table.
 Applied constraints and timestamp fields for tracking.
 
-4. Audit Logging
+#### 4. Audit Logging
 Created centralized audit_log table to track:
   - Every INSERT into courses
   - Every UPDATE to courses
@@ -45,25 +45,17 @@ Enabled using 'after_insert' and 'after_update' triggers.
 
 ## ETL Process Flow Diagram
 
---------------
 online_courses   ____  Import via
 (Raw CSV Data)        Import Wizard
---------------
         |
-----------------
 staging_courses   ____  Data Cleaning
 (Extracted Data)        & Type Casting
-----------------
         |
--------------------
   cleaned_courses   ____  Constraints &
 (Cleaned and Final)       Normalization
--------------------
         |
-  --------------
     audit_log     ____  Logs INSERT & 
   (Trigger Logs)        UPDATE Actions
-  ---------------
 
 
 ## Insightful SQL Queries 
