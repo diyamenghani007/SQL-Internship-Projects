@@ -1,0 +1,3 @@
+AuditID,CourseID,Title,Instructor,Action,Timestamp
+7,1001,"SQL Mastery","Alex Jordan",insert,"2025-07-22 20:25:11"
+8,101,"AWS Cloud Practitioner Essentials","Travis Hull",update,"2025-07-22 20:26:26"
