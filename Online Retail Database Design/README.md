@@ -39,6 +39,7 @@ The database consists of the following key entities:
 | `Retail Sales Database ER.drawio.html`              | Interactive ER diagram (view in browser)                 |
 
 
+
 ## Sample Business Use Cases
 ✅ **Top Performing Products**  
 ✅ **Average Order Value by Customer**  
